@@ -54,10 +54,10 @@
 		"style_airslam": "공중 내려찍기",
 		"style_airshot": "공중 사살",
 		"style_attraptor": "자기공명의 함정",
-		"style_arsenal": "무기고",
-		"style_bigheadshot": "큰 헤드샷",
-		"style_bigkill": "큰 처치",
-		"style_bigfistkill": "큰 근접 처치",
+		"style_arsenal": "무기콤보",
+		"style_bigheadshot": "빅 헤드샷",
+		"style_bigkill": "빅 킬",
+		"style_bigfistkill": "빅 피스트킬",
 		"style_bipolar": "양극성",
 		"style_cannonballed": "포격당함",
 		"style_catapaulted": "발사됨",
@@ -66,10 +66,10 @@
 		"style_criticalpunch": "치명적 손놀림",
 		"style_disrespect": "무례",
 		"style_doublekill": "더블 킬",
-		"style_downtosize": "크기에 맞춤",
-		"style_enraged": "분노함",
-		"style_exploded": "폭발",
-		"style_finishedoff": "확인 사살",
+		"style_downtosize": "주먹인사",
+		"style_enraged": "격노",
+		"style_exploded": "폭파",
+		"style_finishedoff": "확인사살",
 		"style_fireworks": "불꽃놀이",
 		"style_fistfulofdollar": "동전 좀 주워줘",
 		"style_fried": "구워짐",
@@ -83,12 +83,12 @@
 		"style_kill": "처치",
 		"style_limbshot": "팔다리 타격",
 		"style_mauriced": "모리스에 깔림",
-		"style_multikill": "멀티킬",
+		"style_multikill": "멀티 킬",
 		"style_nailbombed": "못을 피하지 못함",
-		"style_parry": "방어",
+		"style_parry": "튕겨냄",
 		"style_projectileboost": "투사체 가속",
 		"style_quickdraw": "퀵드로우",
-		"style_ricoshot": "도탄",
+		"style_ricoshot": "리코샷",
 		"style_ricoshotUltra": "울트라",
 		"style_ricoshotCounter": "카운터",
 		"style_secret": "비밀",
@@ -181,7 +181,7 @@
 	"books": {
 		"books_scanning": "스캔 중...",
 		"books_pressToClose1": "닫으려면",
-		"books_pressToClose2": "를 누르세요.",
+		"books_pressToClose2": "를 누르십시오.",
 
 		"books_limboFourth1": "텍스트 감지됨 - 특이 문구:",
 		"books_limboFourth2": "...나의 마음은 영원한 고통에 휩쓸리고 있네. 음침한 색채로 그려진 망측한 풍경화, 닿기만 하면 소리지르는 공허한 벽. 그칠 줄 모르는 조롱의 노래, 심지어 새 지저귀는 소리는 가짜다. 모든 것이 내가 지옥에 있다는 것을 상기시킨다.",
@@ -330,15 +330,15 @@
 		"act1_intermission_insert": "투입",
 		"act1_intermission_returnToMenu": "메뉴로 돌아가기",
 
-		"act2_intermission_tobecontinued": "III막 : 신권 자살에서 끝마침",
-		"act2_intermission_tobecontinuedshadow": "III막 : 신권 자살에서 끝마침"
+		"act2_intermission_tobecontinued": "III막 : 신권의 자살에서 계속...",
+		"act2_intermission_tobecontinuedshadow": "III막 : 신권의 자살에서 계속..."
 	},
 	"frontend": {
 		"mainmenu_earlyAccess": "앞서 해보기",
-		"mainmenu_halloween": "즐거운 핼러윈",
-		"mainmenu_easter": "즐거운 부활절",
-		"mainmenu_christmas": "메리 크리스마스",
-		"mainmenu_play": "플레이",
+		"mainmenu_halloween": "즐거운 할러윈 되세요!",
+		"mainmenu_easter": "즐거운 부활절 되세요!",
+		"mainmenu_christmas": "메리 크리스마스!",
+		"mainmenu_play": "시작",
 		"mainmenu_options": "설정",
 		"mainmenu_credits": "크레딧",
 		"mainmenu_quit": "종료",
@@ -346,12 +346,12 @@
 		"mainmenu_restart": "재시작",
 
 		"difficulty_title": "난이도",
-		"difficulty_easy": "접근 용이",
+		"difficulty_easy": 초심자",
 		"difficulty_normal": "어려움",
-		"difficulty_hard": "매우 어려움",
+		"difficulty_hard":"전문가",
 		"difficulty_harmless": "무해함",
 		"difficulty_lenient": "온순함",
-		"difficulty_standard": "일반",
+		"difficulty_standard": "보통",
 		"difficulty_violent": "폭력적",
 		"difficulty_brutal": "잔인함",
 		"difficulty_umd": "ULTRAKILL 머스트 다이",
@@ -360,7 +360,7 @@
 		"difficulty_underConstruction": "제작 중",
 
 		"difficulty_harmlessDescription1": "말도 안 되게 느린 적과 공격들.",
-		"difficulty_harmlessDescription2": "피해량은 여전히 높으나, 산이라도 피할 수 있을 겁니다.",
+		"difficulty_harmlessDescription2": "피해량은 여전히 높으나, 아기라도 피할 수 있을 수준입니다.",
 		"difficulty_harmlessDescription3": "스트레스 없는 경험을 원하는 플레이어에게 추천합니다.",
 		"difficulty_lenientDescription1": "피해량은 높지만 공격이 더 느리고 적은 소극적임.",
 		"difficulty_lenientDescription2": "긴장을 늦출 정도는 아니지만, 공격을 더 쉽게 피할 수 있습니다.",
@@ -374,7 +374,7 @@
 
 		"chapter_title": "챕터",
 		"chapter_prelude": "서곡",
-		"chapter_act1": "I 막: 무한의 하이퍼데스",
+		"chapter_act1": "I 막: 무한한 죽음",
 		"chapter_act2": "II 막: 불완전한 증오",
 		"chapter_act3": "III 막: 신권 자살",
 		"chapter_prime": "프라임 성소",
@@ -1233,8 +1233,8 @@
 		"enemyname_minosPrime": "미노스 프라임",
 
 		"enemyname_boss_cerberus": "케르베로스, 지옥의 문지기",
-		"enemyname_boss_cancerousRodent": "발암 쥐",
-		"enemyname_boss_veryCancerousRodent": "매우 발암 쥐",
+		"enemyname_boss_cancerousRodent": "발암 설치류",
+		"enemyname_boss_veryCancerousRodent": "엄청난 발암 설치류",
 		"enemyname_boss_hideousMass": "흉측한 덩어리",
 		"enemyname_boss_swordsmachineAgony": "소드머신 \"아고니\"",
 		"enemyname_boss_swordsmachineTundra": "소드머신 \"툰드라\"",
@@ -1250,21 +1250,21 @@
 		"enemyname_boss_insurrectionistRude": "반란군 \"루드\"",
 		"enemyname_boss_gabrielSecond": "가브리엘, 증오의 배교자",
 
-		"enemyname_type_lesserHusk": "하위 허스크",
-		"enemyname_type_greaterHusk": "상위 허스크",
-		"enemyname_type_supremeHusk": "최상위 허스크",
+		"enemyname_type_lesserHusk": "하급 허스크",
+		"enemyname_type_greaterHusk": "상급 허스크",
+		"enemyname_type_supremeHusk": "최상급 허스크",
 
-		"enemyname_type_lesserDemon": "하위 악마",
-		"enemyname_type_greaterDemon": "상위 악마",
-		"enemyname_type_supremeDemon": "최상위 악마",
+		"enemyname_type_lesserDemon": 하급 악마",
+		"enemyname_type_greaterDemon": "상급 악마",
+		"enemyname_type_supremeDemon": "최상급 악마",
 
-		"enemyname_type_lesserMachine": "하위 기계",
-		"enemyname_type_greaterMachine": "상위 기계",
-		"enemyname_type_supremeMachine": "최상위 기계",
+		"enemyname_type_lesserMachine": "하급 기계",
+		"enemyname_type_greaterMachine": "상급 기계",
+		"enemyname_type_supremeMachine": "최상급 기계",
 
-		"enemyname_type_lesserAngel": "하위 천사",
-		"enemyname_type_greaterAngel": "상위 천사",
-		"enemyname_type_supremeAngel": "최상위 천사",
+		"enemyname_type_lesserAngel": "하급 천사",
+		"enemyname_type_greaterAngel": "상급 천사",
+		"enemyname_type_supremeAngel": "최상급 천사",
 
 		"enemyname_type_primeSoul": "프라임 소울"
 	},
@@ -1636,7 +1636,7 @@
 		"prelude_first_openingCredits2": "ARSI <color=orange>'HAKITA'</color> PATALA 게임",
 		"prelude_first_pipeClip": "\"파이프 클립 만세.\"$T.HAKITA",
 		"prelude_first_revolverPierce1": "<color=cyan>리볼버</color>:",
-		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=orange>관통하는 탄환</color>을 발사하세요.",
+		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=orange>관통 사격</color>을 발사하세요.",
 		"prelude_first_parry": "<color=orange>투사체</color>를 적절한 타이밍에 <color=orange>때려서 받아치세요</color>.",
 
 		"prelude_first_hardDamage1": "피해를 입으면 <color=orange>최대 HP</color>가 잠시 동안 줄어듭니다.",
@@ -1650,12 +1650,12 @@
 		"prelude_second_changeEquipped": "획득한 유형 사이를 전환하려면:",
 
 		"prelude_third_needShotgun": "<color=red>화력 부족</color>",
-		"prelude_third_shotgun1": "<color=cyan>산탄총</color>:",
+		"prelude_third_shotgun1": "<color=cyan>샷건</color>:",
 		"prelude_third_shotgun2": "을 눌러서 폭발물을 발사하세요.",
 		"prelude_third_shotgun3": "꾹 눌러서 발사 거리를 조절하세요.",
-		"prelude_third_shotgunPierce": "<color=cyan>산탄총</color> - 약한 적을 관통합니다",
+		"prelude_third_shotgunPierce": "<color=cyan>샷건</color> - 약한 적을 관통합니다",
 
-		"prelude_secret_somethingWicked": "사악한 것이 온다."
+		"prelude_secret_somethingWicked": "사악한 무언가가 다가온다."
 	},
 	"act1": {
 		"act1_limboFirst_items1": "아이템을 집어들려면",
@@ -1666,12 +1666,12 @@
 
 		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 공격을 방어할 수 없음을 나타냅니다.",
 		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위해 해골이 <color=red>하나만</color> <color=cyan>필요합니다</color>.",
-		"act1_limboThird_splitDoor2": "고생하고 싶지 않으면, 밖으로 나가지 마세요.",
+		"act1_limboThird_splitDoor2": "고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
-		"act1_limboFourth_hank1": "아무 일도 일어나지 않습니다만, 당신은 묘한 만족감을 느낍니다.",
-		"act1_limboFourth_hank2": "당신은 이걸 행크라고 부르기로 했습니다.",
-		"act1_limboFourth_alternateRevolver": "<color=orange>다른 버전</color>의 무기는 기본 발사 기능이 달라집니다. <color=orange>상점</color>에서 다시 바꿀 수 있습니다.",
+		"act1_limboFourth_hank1": "아무런 일도 일어나지 않았지만, 당신은 묘한 만족감을 느낀다.",
+		"act1_limboFourth_hank2": "당신은 이걸 행크라고 부르기로 했다.",
+		"act1_limboFourth_alternateRevolver": "<color=orange>알터네이트</color> 무기는 기본 발사 기능이 달라집니다. <color=orange>상점</color>에서 다시 바꿀 수 있습니다.",
 		"act1_limboFourth_newArm": "장비한 팔 사이를 전환하려면: ",
 
 		"act1_limboSecret_noclipSkip": "\"너, 위트의 끝에 도달한 것 같네\"$T.HAKITA",
@@ -1684,19 +1684,19 @@
 		"act1_lustSecond_feedbacker2": "팔을 바꾸려면: ",
 		"act1_lustSecond_railcannon": "<color=cyan>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
 
-		"act1_lustThird_water": "물이 빠졌습니다",
+		"act1_lustThird_water": "물이 빠졌다.",
 
-		"act1_secret": "림보의 어딘가에, 어떤 장치가 움직입니다."
+		"act1_secret": "림보의 어딘가에서, 어떤 장치가 움직인다."
 	},
 	"act2": {
 		"act2_greedSecond_sand": "모래에 뒤덮인 적은 <color=red>피를 흘리지 않습니다</color>.",
 
 		"act2_greedThird_wallClip": "\"필스는 떠났지만 우리 마음 속에 기억될 것입니다.\"$T. HAKITA",
-		"act2_greedThird_troll1": "사악한 것 이 곳으로 온다.",
+		"act2_greedThird_troll1": "사악한 무언가가 다가오고 있다.",
 		"act2_greedThird_troll2": "뻥이야 :)",
 		"act2_greedThird_tombOfKings": "왕들의 무덤",
 
-		"act2_greedFourth_v2": "이번엔 못 도망가.",
+		"act2_greedFourth_v2": "이번엔 도망치지 못할 거다.",
 		"act2_greedFourth_whiplash1": "<color=lime>위플래쉬</color>:",
 		"act2_greedFourth_whiplash2": "를 눌러 던지고, 떼서 당기세요",
 		"act2_greedFourth_whiplash3": "<color=lime>위플래쉬</color>: 가벼운 적은 당신에게 끌어당기고, 무거운 적은 당신을 끌어당깁니다.",
@@ -1709,9 +1709,9 @@
 		"act2_greedSecret_transactionComplete1": "환전 완료",
 		"act2_greedSecret_transactionComplete2": "코인",
 
-		"act2_greed_secretDoor": "어떤 눈이 열립니다.",
+		"act2_greed_secretDoor": "어떤 눈이 열린다.",
 
-		"act2_wrathFirst_slingshot": "<color=cyan>파란 후크포인트</color>는 새총처럼 작동합니다.",
+		"act2_wrathFirst_slingshot": "<color=cyan>파란 후크포인트</color>는 도착 시에도 비행 속도를 유지합니다.",
 		"act2_wrathFirst_whiplashUnderwater": "<color=lime>위플래쉬</color>: <color=orange>물 속</color>에 있을 때에는 <color=gray>하드 대미지</color>가 축적되지 <color=orange>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
 		"act2_wrathFirst_waterDrained": "물이 빠졌습니다.",
 		"act2_wrathFirst_sentry": "<color=lime>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=orange>//</color> 레일캐논 <color=orange>//</color> 지면 내려찍기 충격파 <color=orange>//</color> 안테나에 리볼버 쏘기",
@@ -1725,11 +1725,11 @@
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
-		"act2_wrathThird_hank": "아무 일도 일어나지 않습니다만, 당신은 행크 주니어와 그의 행제들이 인정해 주리라 믿습니다... 그들이 살아 있었다면 말이죠.",
+		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
 
-		"act2_secretNotReady": "넌 여기 있으면 안 돼."
+		"act2_secretNotReady": "님은 여기 들어오면 안 돼요."
 	},
 	"primeSanctum": {
 		"primeSanctum_first_secretText1": "TERMINAL DATA 01 [ENCRYPTED]",
@@ -1743,7 +1743,7 @@
 		"primeSanctum_first_secretText9": "END OF DATA 01. For more information, see [LINK REMOVED] and [LINK REMOVED]."
 	},
 	"secretLevels": {
-		"secretLevels_prelude_somethingWicked": "사악한 것 이 곳으로 온다.",
+		"secretLevels_prelude_somethingWicked": "사악한 무언가가 다가온다.",
 
 		"secretLevels_prelude_testamentTitle": "TESTAMENT I",
 		"secretLevels_prelude_testament1": "MANKIND IS A FAILURE",
@@ -1777,7 +1777,7 @@
 		"subtitles_gabriel_intro4": "돌아가거라, 그렇지 않는다면 너는 하느님의 뜻을 거스르는 것이다!",
 		"subtitles_gabriel_intro5": "주사위는 던져졌다...",
 		"subtitles_gabriel_intro6": "아버지의 정의로운 오른팔로서,",
-		"subtitles_gabriel_intro7": "네놈을 찢어발겨 주마!",
+		"subtitles_gabriel_intro7": "네놈을 직접 찢어발겨 주마!",
 		"subtitles_gabriel_intro8": "그리고 네놈은 다시금 움직이지 않게 될 지어다...",
 		"subtitles_gabriel_fightStart": "보아라! 천사의 힘을!",
 
@@ -1794,7 +1794,7 @@
 		"subtitles_gabriel_taunt11": "네놈은 악마마저 울리겠군!",
 		"subtitles_gabriel_taunt12": "넌 압도당하고 있다!",
 
-		"subtitles_gabriel_phaseChange": "그만해!",
+		"subtitles_gabriel_phaseChange": "그만!",
 
 		"subtitles_gabriel_defeated1": "뭣이..?",
 		"subtitles_gabriel_defeated2": "어떻게 이럴 수 있지...?",
@@ -1814,8 +1814,8 @@
 		"subtitles_mandalore_taunt4": "기다려!",
 		"subtitles_mandalore_taunt5": "우리 왜 과거에 있는 거지?",
 
-		"subtitles_mandalore_attack1": "전자동 사격.",
-		"subtitles_mandalore_attack2": "전전자동 사격!",
+		"subtitles_mandalore_attack1": "자동 사격.",
+		"subtitles_mandalore_attack2": "완전 자동 사격!",
 
 		"subtitles_mandalore_phaseChangeFirst1": "드루이드의 마법으로, 내 속도를 올린다!",
 		"subtitles_mandalore_phaseChangeFirst2": "그냥 시발 저거 좀 때려!",
@@ -1830,13 +1830,13 @@
 		"subtitles_minosPrime_intro2": "마침내 자유로군.",
 		"subtitles_minosPrime_intro3": "오, 가브리엘...",
 		"subtitles_minosPrime_intro4": "이제 그대의 심판이 임박했노라,",
-		"subtitles_minosPrime_intro5": "그리고 그대의 선혈이 사람의 신전을 적시게 될 지어다!",
+		"subtitles_minosPrime_intro5": "그리고 그대의 선혈이 인간의 신전을 적시게 될 지어다!",
 		"subtitles_minosPrime_intro6": "철의 생물이여...",
-		"subtitles_minosPrime_intro7": "과인의 자유를 준 것에 대해 그대에게 감사를 표하지.",
+		"subtitles_minosPrime_intro7": "과인의 자유를 준 것에 대해 그대에게 감사를 표하마.",
 		"subtitles_minosPrime_intro8": "그러나 그대 족속이 인류에게 저지른 죄는,",
 		"subtitles_minosPrime_intro9": "결코 잊혀지지 않았다.",
 		"subtitles_minosPrime_intro10": "그리고 그대의 형벌은...",
-		"subtitles_minosPrime_intro11": "...죽음이니라!",
+		"subtitles_minosPrime_intro11": "...바로 죽음이니라!",
 
 		"subtitles_minosPrime_attack1": "각오하거라!",
 		"subtitles_minosPrime_attack2": "그대의 끝이 도래했다!",
@@ -1859,7 +1859,7 @@
 		"subtitles_gabrielBoat5": "주님의 피조물 하나가 허투루 쓰이지 않도록 하라.",
 
 		"subtitles_gabrielHeresy1": "기계여, 네가 이 곳에 있는 것을 안다.",
-		"subtitles_gabrielHeresy2": "네놈의 피로 얼룩진 손에서 나는 불경한 악취가 느껴진다,",
+		"subtitles_gabrielHeresy2": "네놈의 피로 얼룩진 손에서 나는 불경한 악취가 진동하는구나,",
 		"subtitles_gabrielHeresy3": "네놈을 아래에서 기다리겠다...",
 		"subtitles_gabrielHeresy4": "내게 와 봐라!",
 
@@ -1886,7 +1886,7 @@
 		"subtitles_gabrielSecondFight8": "지금,",
 		"subtitles_gabrielSecondFight9": "당장!",
 
-		"subtitles_gabrielSecondPhaseChange": "이게 최선이냐?!",
+		"subtitles_gabrielSecondPhaseChange": "이게 네놈의 최선이냐?!",
 
 		"subtitles_gabrielSecondTaunt1": "더. 강해야. 할 거다.",
 		"subtitles_gabrielSecondTaunt2": "와서 피를 가져가라!",
@@ -1904,10 +1904,10 @@
 		"subtitles_gabrielSecondTaunt14": "진정한 광휘를 보여주마!",
 
 		"subtitles_gabrielSecondDefeated1": "두 번?!",
-		"subtitles_gabrielSecondDefeated2": "이 물건한테... 두 번이나 당했다고?!",
-		"subtitles_gabrielSecondDefeated3": "나는 여지껏 승리의 맛만을 봐 왔지,",
-		"subtitles_gabrielSecondDefeated4": "하지만 이 맛은... 이거...",
-		"subtitles_gabrielSecondDefeated5": "이거 내 피인가?",
+		"subtitles_gabrielSecondDefeated2": "이딴 물건한테... 두 번이나 당했다고?!",
+		"subtitles_gabrielSecondDefeated3": "나는 여지껏 승리의 맛만을 봐 왔건만,",
+		"subtitles_gabrielSecondDefeated4": "하지만 이 맛은... 이...",
+		"subtitles_gabrielSecondDefeated5": "이건 내 피인건가?",
 		"subtitles_gabrielSecondDefeated6": "이런 꼴을 당해보니 처음으로...",
 		"subtitles_gabrielSecondDefeated7": "마음이... 편안해져...?",
 		"subtitles_gabrielSecondDefeated8": "조-조금 생각할 시간이 필요하다...",
@@ -1970,7 +1970,7 @@
 		"state_no": "아니오",
 
 		"controls_leftClick": "좌클릭",
-		"controls_middleClick": "중클릭",
+		"controls_middleClick": "휠클릭",
 		"controls_rightClick": "우클릭",
 
 		"endStats_cheatsUsed": "치트 사용됨",
@@ -1994,8 +1994,8 @@
 		"classicHud_arm": "팔",
 		"classicHud_railcannonMeter": "충전",
 
-		"earlyAccessEnd1": "플레이해주셔서 감사합니다",
-		"earlyAccessEnd2": "III막: 신권 자살은 아직 개발 중입니다.",
+		"earlyAccessEnd1": "플레이해주셔서 감사합니다!",
+		"earlyAccessEnd2": "III막: 신권의 자살은 아직 개발 중입니다.",
 		"earlyAccessEnd3": "개발의 진행도는 아래에서 확인해 보세요:"
 	}
 }
