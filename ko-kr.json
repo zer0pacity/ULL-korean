@@ -890,7 +890,7 @@
 		"levelName_preludeThird": "더블 다운",
 		"levelName_preludeFourth": "원 머신 아미",
 		"levelName_preludeFifth": "케르베로스",
-		"levelName_preludeSecret": "사악한 무언가",
+		"levelName_preludeSecret": "사악한 것",
 
 		"levelName_limboFirst": "해돋이의 심장",
 		"levelName_limboSecond": "불타는 세계",
@@ -1228,7 +1228,7 @@
 		"enemyname_leviathan": "레비아탄",
 		"enemyname_gabriel": "가브리엘",
 		"enemyname_virtue": "버추",
-		"enemyname_somethingWicked": "사악한 무언가",
+		"enemyname_somethingWicked": "사악한 것",
 		"enemyname_fleshPrison": "살점 감옥",
 		"enemyname_minosPrime": "미노스 프라임",
 
@@ -1381,28 +1381,28 @@
 		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 영혼을 실어나르기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 데 사용한다.",
 		"enemyBios_ferryman_6": "인류의 멸망으로 영혼의 유입이 끊기게 된 뱃사공들은 이제 목적 없이 떠돌아다니며 그들의 노력을 눈여겨보는 유일한 천사가 가브리엘뿐임에도 불구하고 천국으로의 통행을 허락해 주길 기다리고 있다.",
 
-		"enemyBios_ferryman_strategy1": "Ferrymen choose their attacks based on their opponent's actions. When approached, they move to safety, and when retreated from, they'll apply pressure via attacks with greater reach.",
-		"enemyBios_ferryman_strategy2": "Despite its looks, their uppercut is quite dangerous and can be difficult to dodge. It's best not to stay in the air for too long.",
-		"enemyBios_ferryman_strategy3": "Some of their attacks are parryable and some are not. Pay attention to the color of their warning flash to learn which are which.",
-		"enemyBios_ferryman_strategy4": "Ferrymen may attempt to cross a retreating opponent up by rolling behind them before attacking. Keep track of their position and if they roll too often, try being more aggressive.",
+		"enemyBios_ferryman_strategy1": "뱃사공은 상대의 행동에 따라 공격 방식을 바꿀 수 있다. 상대가 가까이 붙으려 하면 안전한 곳으로 물러나려 할 것이고, 상대방이 멀리 떨어지면 긴 사거리의 공격으로 압박을 가할 것이다.",
+		"enemyBios_ferryman_strategy2": "뱃사공들의 어퍼컷은 보기와는 달리 상당히 위험하고 피하기 어려울 수 있다. 공중에 너무 오래 머물러 있지 않는 것이 상책이다.",
+		"enemyBios_ferryman_strategy3": "뱃사공이 사용하는 공격 기술 중 일부는 패링이 가능하고, 일부는 패링할 수 없다. 공격하기 직전 표시되는 불빛의 색상을 주의깊게 살펴보고 어떤 것이 패링 불가능한 공격인지 파악하는 것이 중요하다.",
+		"enemyBios_ferryman_strategy4": "뱃사공은 공격하기 전에 후퇴하려는 상대를 구르기로 추격할 수 있다. 그들의 위치를 계속 추적하고 구르기를 자주 사용한다면, 더욱 공격적이 되도록 하는 것이 좋다.",
 
-		"enemyBios_idol_1": "Although they can easily be mistaken to be of divine origin, Idols were created using the same process as other demons. Unlike their larger kin, their shells were too small to contain a useful amount of Hell Mass, creating life, but leaving it unable to move or act.",
-		"enemyBios_idol_2": "The Idols did not originally look divine, but were painstakingly carved to such shapes by Ferrymen who collected them during travels across the layers of Hell. This was done as both an act of compassion and as a tribute to angels, particularly Gabriel, whom Ferrymen believe to have similarly granted them mercy.",
-		"enemyBios_idol_3": "Close proximity to a Ferryman's holy cloth during the long and arduous carving process caused its holy power to seep into them, allowing them to continue the chain of compassion by protecting others from physical harm.",
-		"enemyBios_idol_4": "It is fortunate for them that Gabriel is the only angel of Heaven's higher order to watch over Hell, since if the Council had found out about such beings, they would have been labelled perversions of the divine form and ordered to be destroyed by the Ferrymen who so lovingly had granted them a chance at life.",
+		"enemyBios_idol_1": "비록 우상이 신성한 기원을 가진 것으로 오해하기 쉬우나, 우상은 다른 악마들과 똑같은 과정으로 만들어졌다. 그들의 큰 친척들과는 달리 이것들의 껍질은 너무 작아서 유용한 양의 지옥 덩어리를 품을 수 없었으며, 생명은 있어도 움직이는 등의 행동을 할 수 없었다.",
+		"enemyBios_idol_2": "우상들은 원래 신성해 보이지 않았으나, 지옥의 층을 여행하는 동안 그것을 수집한 뱃사공들에 의해 신성한 모양으로 정성스럽게 조각되었다. 이것은 동정심으로써 우러나온 행동이자 천사들, 특히 뱃사공이 비슷하게 자비를 베풀었다고 믿는 가브리엘의 대한 찬사로써 행해졌다.",
+		"enemyBios_idol_3": "길고 오랜 조각 과정 동안 뱃사공의 거룩한 천에 가까이 닿게 되자 신성한 힘이 우상에도 스며들게 되었고, 그렇게 우상이 신체적인 해로움으로부터 다른 이들을 보호할 수 있게 되면서 연민의 사슬을 이어나갈 수 있게 되었다.",
+		"enemyBios_idol_4": "가브리엘이 지옥을 감시하는 유일한 천사의 천사라는 것은 다행스러운 일이다. 평의회가 그러한 존재들에 대해 알아냈기 때문에, 그들은 신성한 형태의 변형 중 하나로 분류되고 그들에게 삶의 기회를 사랑스럽게 부여한 뱃사공들에 의해 파괴 명령을 받았을 것이다.",
 
-		"enemyBios_idol_strategy1": "Although Idols are immune to projectiles, they can be destroyed by a blunt force melee attack such as a punch or a ground slam.",
-		"enemyBios_idol_strategy2": "Blessed enemies cannot be damaged by attacks, but will still be pushed by physical forces and can be killed by environmental dangers, such as crushers or fans.",
-		"enemyBios_idol_strategy3": "Neither Idols nor blessed enemies can be grappled onto with the Whiplash.",
+		"enemyBios_idol_strategy1": "우상은 발사체 공격에 면역을 가지고 있으나, 펀치나 공중 내려찍기같은 근접 공격에 의해 파괴될 수 있다.",
+		"enemyBios_idol_strategy2": "우상의 축복을 받은 적들은 어떠한 공격에도 피해를 입지 않는 상태가 되지만, 여전히 물리적인 힘에 의해 밀려날 수 있으며 분쇄기나 팬과 같은 환경적 위험 요소에 의해 즉사할 수 있다.",
+		"enemyBios_idol_strategy3": "우상이나 축복받은 적은 위플래시에 붙지 않는다.",
 
-		"enemyBios_leviathan_1": "Unlike most demons, the Leviathan is not formed from generic Hell Mass, but instead from the bodies of the Sullen, a name used for those in the Ocean Styx who have given up fighting for air and instead lay at the bottom of the ocean, drowning eternally.",
-		"enemyBios_leviathan_2": "The Sullen, in their motionlessness, were eventually fused together by the same force that created the other demons, becoming the biblical Leviathan, an abomination prophesized to be at the end of the world.",
-		"enemyBios_leviathan_3": "The heart, which houses the souls of the Sullen in endless anguish as their flesh, veins and nerves writhe and mutate, attempted to escape its body, but Gabriel struck it down with his divine spears, pinning it back onto its head, unable to move.",
-		"enemyBios_leviathan_4": "Although the world ended, the Leviathan remains trapped in the Ocean Styx, growing ever longer as more of Wrath's sinners give up and sink to the bottom.",
+		"enemyBios_leviathan_1": "대부분의 악마들과는 달리 레비아탄은 일반적인 지옥 덩어리로부터 형성된 것이 아닌, 공기를 얻는 것을 포기하고 스틱스 해의 밑바닥에 가라앉아 영원히 익사하는 이들에게 붙여진 이름, '술렌'의 몸에서 형성되었다.",
+		"enemyBios_leviathan_2": "바다 밑바닥에서 꼼짝도 하지 않던 술렌은 다른 악마들을 만든 것과 같은 힘에 의해 융합되어, 세상의 끝에 있다고 예언되었던 성경 속 괴물, 레비아탄이 되었다.",
+		"enemyBios_leviathan_3": "술렌의 살과 핏줄, 신경이 뒤틀리고 돌연변이를 일으키면서 술렌의 영혼을 끝없는 고통 속에 가두었던 레비아탄의 심장은 그 육체를 벗어나려고 했으나 가브리엘이 신성한 창으로 그것을 내려쳐 고정시키게 해 움직이지 못 하게 만들었다.",
+		"enemyBios_leviathan_4": "비록 세상은 끝났으나, 레비아탄은 여전히 스틱스 해에 머물고 있으며 분노의 층의 죄인들이 더 많이 포기하고 바다 밑바닥으로 가라앉으면서 레비아탄은 어느 때보다도 점점 더 길고 거대해지고 있다.",
 
-		"enemyBios_leviathan_strategy1": "The Leviathan's heart is exposed on top of its head, making it a clear weakpoint to aim for. Although it's usually not visible, it can be seen after the Leviathan's attacks, opening an opportunity for direct damage, or for landing a magnet.",
-		"enemyBios_leviathan_strategy2": "Although ill-advised, it is possible to ride the Leviathan for a short period of time. A well-timed jump will allow one to dodge the Leviathan's bite attack as well as land on its head near its exposed heart.",
-		"enemyBios_leviathan_strategy3": "The tail will either swing high or low, and the height of the swing can be determined by the direction in which the swing rotates.",
+		"enemyBios_leviathan_strategy1": "레비아탄의 약점인 심장은 머리 위 꼭대기에 드러나 있다. 일반적인 상황에선 보이지 않으나, 레비아탄이 공격한 이후에 제대로 확인할 수 있으며 피해를 직격탄으로 입히거나 자석을 부착시킬 수 있는 좋은 기회로 삼을 수 있다.",
+		"enemyBios_leviathan_strategy2": "비록 힘들겠지만, 짧은 시간동안 레비아탄 위에 올라탈 수 있다. 타이밍에 맞춰 점프하면 레비아탄의 물어뜯기 공격을 피할 수 있을 뿐만 아니라 머리 위에 착지해 노출된 심장을 노릴 수 있다.",
+		"enemyBios_leviathan_strategy3": "레비아탄의 꼬리는 낮은 높이 또는 높은 높이로 휘두를 수 있으며, 회전하는 방향에 따라 높이가 달라진다.",
 
 		"enemyBios_corpseOfKingMinos_1": "Once the great and beloved king of the Lust layer, Minos has now been reduced to a shambling corpse.",
 		"enemyBios_corpseOfKingMinos_2": "Due to his incredible power of will and status as a just ruler in life remembered even millennia after his death, the manifestation of his soul is the largest Husk to ever have been recorded.",
@@ -1547,12 +1547,12 @@
 		"enemyBios_virtue_strategy1": "Verticality and cover give little safety against the Virtue's light beams, so constant horizontal movement is encouraged, though retracing one's steps can be dangerous as the beams linger.",
 		"enemyBios_virtue_strategy2": "If ignored for too long, Virtues will enrage, making their light beams predict their target's movement. Although it's easy to avoid their attacks with enough space, leaving them unattended can quickly turn the tables in their favor",
 
-		"enemyBios_somethingWicked_1": "Very little is known about this creature. ",
-		"enemyBios_somethingWicked_2": "Some speculate it to be a Husk, but due to its elusive and extremely hostile nature, no one has been able to confirm the hypothesis.",
-		"enemyBios_somethingWicked_3": "Only one has ever been observed and it has never been seen leaving the section of the Mouth of Hell in which it currently resides.",
+		"enemyBios_somethingWicked_1": "이 생물에 대해 알려진 바가 거의 없다. ",
+		"enemyBios_somethingWicked_2": "일각에서는 허스크라고 추측하지만, 이 생물은 찾기가 어렵고 극도로 적대적인 성질 때문에 그 누구도 이 가설을 확인할 수 없었다.",
+		"enemyBios_somethingWicked_3": "지금까지 단 한 개체만이 관찰되었으며, 그것이 자리잡고 있는 지옥의 입 부분을 벗어나는 것은 단 한번도 목격되지 않았다.",
 
-		"enemyBios_somethingWicked_strategy1": "Any attack will temporarily cause it to relocate, but there are no known ways to kill it.",
-		"enemyBios_somethingWicked_strategy2": "Its way of attacking is unknown outside of the fact that it happens on physical contact, but no amount of protection has saved any of its victims.",
+		"enemyBios_somethingWicked_strategy1": "어떠한 공격이라도 받게 되면 잠시 다른 곳으로 돌려보낼 수 있지만, 죽일 수 있는 방법은 알려지지 않았다.",
+		"enemyBios_somethingWicked_strategy2": "공격 방식은 신체적 접촉 외에는 알려지지 않았으나, 어떠한 보호도 희생자들을 구하지 못했다.",
 
 		"enemyBios_fleshPrison_1": "Flesh Prison is an uncategorized organism created by the angels to imprison Minos' soul after he was slain by Gabriel.",
 		"enemyBios_fleshPrison_2": "Although it is similar to Husks, it does not possess a soul or any amount of thought. All of its actions are purely predetermined reactions to stimulus, making it more of an organic machine than a living being.",
@@ -1655,7 +1655,7 @@
 		"prelude_third_shotgun3": "꾹 눌러서 발사 거리를 조절하세요.",
 		"prelude_third_shotgunPierce": "<color=cyan>샷건</color> - 약한 적을 관통합니다",
 
-		"prelude_secret_somethingWicked": "사악한 무언가가 다가온다."
+		"prelude_secret_somethingWicked": "사악한 것이 온다."
 	},
 	"act1": {
 		"act1_limboFirst_items1": "아이템을 집어들려면",
@@ -1692,7 +1692,7 @@
 		"act2_greedSecond_sand": "모래에 뒤덮인 적은 <color=red>피를 흘리지 않습니다</color>.",
 
 		"act2_greedThird_wallClip": "\"필스는 떠났지만 우리 마음 속에 기억될 것입니다.\"$T. HAKITA",
-		"act2_greedThird_troll1": "사악한 무언가가 다가오고 있다.",
+		"act2_greedThird_troll1": "사악한 것이 온다.",
 		"act2_greedThird_troll2": "뻥이야 :)",
 		"act2_greedThird_tombOfKings": "왕들의 무덤",
 
@@ -1743,7 +1743,7 @@
 		"primeSanctum_first_secretText9": "END OF DATA 01. For more information, see [LINK REMOVED] and [LINK REMOVED]."
 	},
 	"secretLevels": {
-		"secretLevels_prelude_somethingWicked": "사악한 무언가가 다가온다.",
+		"secretLevels_prelude_somethingWicked": "사악한 것이 온다.",
 
 		"secretLevels_prelude_testamentTitle": "TESTAMENT I",
 		"secretLevels_prelude_testament1": "MANKIND IS A FAILURE",
