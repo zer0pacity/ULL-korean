@@ -52,7 +52,7 @@
 
 	"style": {
 		"style_airslam": "공중 내려찍기",
-		"style_airshot": "공중 사살",
+		"style_airshot": "에어샷",
 		"style_attraptor": "자기공명의 함정",
 		"style_arsenal": "무기콤보",
 		"style_bigheadshot": "빅 헤드샷",
@@ -80,9 +80,9 @@
 		"style_homerun": "홈런",
 		"style_instakill": "즉사",
 		"style_interruption": "방해",
-		"style_kill": "처치",
+		"style_kill": "킬",
 		"style_limbshot": "팔다리 타격",
-		"style_mauriced": "모리스에 깔림",
+		"style_mauriced": "멀리셔스에 깔림",
 		"style_multikill": "멀티 킬",
 		"style_nailbombed": "못을 피하지 못함",
 		"style_parry": "튕겨냄",
@@ -95,13 +95,13 @@
 		"style_splattered": "낙사",
 		"style_triplekill": "트리플 킬",
 
-		"style_why": "대체 왜 여기서까지 적을 스폰하는 거야",
+		"style_why": "님 대체 왜 여기서까지 적을 스폰하는 건데요",
 
 		"style_conductor": "전도체",
 		"style_crushed": "압사",
 		"style_fall": "추락",
 		"style_minced": "다져짐",
-		"style_outofbounds": "범위 이탈",
+		"style_outofbounds": "맵 밖으로 떨어짐",
 		"style_shredded": "분쇄됨",
 		"style_zapped": "돌연사",
 		"style_overkill": "오버킬",
@@ -400,41 +400,41 @@
 		"level_fullIntroPromptCancel": "취소"
 	},
 	"visualnovel": {
-		"visualnovel_mirageName1": "그냥 사람",
+		"visualnovel_mirageName1": "누군가",
 		"visualnovel_mirageName2": "도내 최상위 랭크 미녀",
 		"visualnovel_mirageName3": "미라지",
 
-		"visualnovel_introFirst1": "Heavy steps, ragged breathing.",
-		"visualnovel_introFirst2": "There isn't much time left",
-		"visualnovel_introFirst3": "It might already be too late.",
+		"visualnovel_introFirst1": "무거운 발걸음, 거친 숨소리.",
+		"visualnovel_introFirst2": "이젠 시간이 얼마 없다.",
+		"visualnovel_introFirst3": "이미 너무 늦었을 지도 모르겠다.",
 
-		"visualnovel_introFirst4": "The labyrinthine pathways of arbitrary sharp turns seemed stranger and stranger as panic blotted out the once deeply ingrained memories that usually guided me.",
+		"visualnovel_introFirst4": "평소 나를 이끌었던 한때 깊이 배어 있던 기억을 공황이 지워버리면서 자의적인 급커브의 미로같은 길은 낯설고 낯설어 보였다.",
 
-		"visualnovel_introFirst5": "Every corner felt a stranger. ",
-		"visualnovel_introFirst6": "Every straight line too long.",
+		"visualnovel_introFirst5": "구석구석마다 낯설음이 느껴졌다. ",
+		"visualnovel_introFirst6": "직선마다 너무 길게 느껴진다.",
 
-		"visualnovel_introFirst7": "The bell tolls for me.",
+		"visualnovel_introFirst7": "어느덧 종소리가 울린다.",
 
-		"visualnovel_introSecond1": "I bit down harder on the last of my rations, held only by the skin of my teeth.",
-		"visualnovel_introSecond2": "It barely hung on as I kept frantically looking around, hoping for the few scraps of burning memory of mine to find a familiar sight that would lead me to salvation.",
-		"visualnovel_introSecond3": "The gates must be closing by now.",
-		"visualnovel_introSecond4": "The last few barely making it.",
-		"visualnovel_introSecond5": "The rest of us never stood a chance.",
+		"visualnovel_introSecond1": "나는 마지막으로 입에 물고 있던 내 아침밥을 입으로 더욱 세게 물었다.",
+		"visualnovel_introSecond2": "나를 구원해 줄 익숙한 그 광경을 찾기 위해 불타는 내 기억의 조각을 더듬거리느라 정신없이 주위를 되돌아보면서 간신히 매달린다.",
+		"visualnovel_introSecond3": "지금쯤이면 교문이 닫혔겠지.",
+		"visualnovel_introSecond4": "마지막 몇 명만이 간신히 들어갔을 것이다.",
+		"visualnovel_introSecond5": "나머지 녀석들은 들어갈 기회조차 없었을 거야.",
 
-		"visualnovel_introSecond6": "Suddenly, from a blind spot, a figure struck me.",
-		"visualnovel_introSecond7": "There was no time to react before I came crashing down onto the cold hard ground.",
-		"visualnovel_introSecond8": "I struggled to regain my senses to at least see what fate would befall me in my final moments, but even in this abyss of endless terror, my mind could never have imagined the horror I witnessed.",
+		"visualnovel_introSecond6": "그런데 갑자기, 사각지대에서 누군가의 실루엣이 내게 부딪힌다.",
+		"visualnovel_introSecond7": "내가 차갑디 차가운 땅바닥에 곤두박질치기 전까지 반응할 시간조차 없었다.",
+		"visualnovel_introSecond8": "나는 적어도 최후의 순간에 어떤 운명이 닥칠지 보려도 정신을 차리려 애썼지만, 이 끝없는 공포의 심연 속에서도 내 마음은 내가 목격한 공포를 결코 상상할 수 없었을 것이다.",
 
-		"visualnovel_fallen1": "아이고 아야 그거 참 아프네",
+		"visualnovel_fallen1": "아야, 너무 아픈데...",
 
 		"visualnovel_fallenPromptFirst1": "\"넌 누구야?\"",
 		"visualnovel_fallenPromptFirst2": "\"괜찮아?\"",
 		"visualnovel_fallenPromptFirst3": "*안절부절하며 식은땀을 흘린다*",
 
-		"visualnovel_fallenResponseFirst": "I'm just someone who got knocked over by some half-brained fuckface who doesn't even have the decency to ask if I'm fine or apologize before starting an interrogation.",
-		"visualnovel_fallenResponseSecond": "Well I just got knocked over by some blind-by-choice asshole who gave my skirt a decorative dirt coating, so all in all fucking fantastic, though I would prefer to not be on the ground right now.",
-		"visualnovel_fallenResponseThird1": "Oh great I just got hit-and-ran by a vibrating fountain, just my luck.",
-		"visualnovel_fallenResponseThird2": "At least you could help me up before the rest of you gets melted by the sun or jackhammers itself into the Earth's mantle.",
+		"visualnovel_fallenResponseFirst": "난 그저 네가 질문이라는 걸 하기 전에 내가 괜찮은지 물어보거나 사과라도 할 정도의 예의조차 없는 멍청한 녀석에게 부딪힌 사람일 뿐이야.",
+		"visualnovel_fallenResponseSecond": "하. 앞도 제대로 안 보고 다니는 녀석 때문에 내 치마에 흙이 묻은 것 같네, 뭐 이딴 쓰레기같은 일이 다 있담. 하지만 지금은 바닥에 주저앉아 있고 싶진 않아.",
+		"visualnovel_fallenResponseThird1": "참내. 방금 미친듯이 오들오들 떨고있는 분수기에 뺑소니를 당했나봐, 참 운도 좋지.",
+		"visualnovel_fallenResponseThird2": "적어도 나머지 사람들이 태양빛에 녹아 버리거나 땅을 파고 들어가기 전까지는 날 도와줄 수 있겠지.",
 
 		"visualnovel_fallenPromptSecond1": "*그녀를 일으켜준다*",
 		"visualnovel_fallenPromptSecond2": "\"이런 자세로는 못 하겠는데.\"",
@@ -444,34 +444,34 @@
 		"visualnovel_fallenResponseFifth": "윽.",
 
 		"visualnovel_kindFirst1": "*한숨*",
-		"visualnovel_kindFirst2": "Hey, sorry about being rude like that, I'm just real frustrated that I'm not only late for school, but also managed to get lost on the way there.",
+		"visualnovel_kindFirst2": "그래, 무례하게 굴어서 참 미안해. 난 지각했고, 게다가 학교로 가는 길도 잃어버려서 기분이 별로 안 좋거든.",
 
-		"visualnovel_kindSecond": "Though, by the looks of it, you're pretty much on the same boat, and by a stroke of once-in-a-lifetime luck you just happened to bump into the ~prettiest girl in town~.",
-		"visualnovel_kindThird": "So how about you lead the way and get both of us out of this jam?",
+		"visualnovel_kindSecond": "하지만 겉보기에는 우리 모두 한 배를 탄 것 같고, 넌 지금 인생에 한 번 만날까 말까 한 ~도내 최상위 랭크 미녀~와 우연히 마주친 거 같네.",
+        	"visualnovel_kindThird": "그러니 네가 직접 발벗고 나서서 우리 둘 다 이 곤경에서 벗어나게 해 주는 게 어때?",
 
 		"visualnovel_rudeFirst1": "말 좀 들어, 병신아.",
-		"visualnovel_rudeFirst2": "I don't know who you are but you've got a lot of nerve smacking someone down and not even bothering to help them back up, but since your mother didn't teach you manners, I'll let this one slide.",
-		"visualnovel_rudeSecond": "By the looks of it, you're late for school as well, and by a stroke of once-in-a-lifetime luck you just happened to bump into the prettiest girl in town.",
-		"visualnovel_rudeThird": "So I'll forgive you for your extreme transgression of laying your hands on a fair maiden if you tell me which way to go, since I seem to have gotten lost on the way.",
+		"visualnovel_rudeFirst2": "난 네가 누군지도 모르겠지만 넌 누군가를 넘어뜨리고 도와줄 생각도 않는 참으로 뻔뻔한 태도를 가진 녀석이구나. 하지만 그건 네 부모님이 어릴 적 네 예절 교육을 제대로 하지 못한 것 뿐이니까, 그냥 너그럽게 넘어가 줄게.",
+		"visualnovel_rudeSecond": "보아하니 너도 지각한 것 같구나. 그리고 넌 지금 인생에 한 번 만날까 말까 한 도내 최상위 랭크 미녀와 우연히 마주쳤고 말이지.",
+		"visualnovel_rudeThird": "그럼 이 길 잃은 소녀에게 학교로 가려면 어디 가야 되는지 말해 줄래? 그럼 이 아름다운 처녀에게 손을 댄 중범죄를 가볍게 용서해 주도록 하지.",
 
 		"visualnovel_middlePrompt1": "\"사실, 나도 길을 잃었어.\"",
 		"visualnovel_middlePrompt2": "\"싫은데.\"",
 		"visualnovel_middlePrompt3": "\"나는 학교에 안 가.\"",
 
 		"visualnovel_middleResponseFirst1": "으! 운도 더럽게 없지.",
-		"visualnovel_middleResponseFirst2": "Though in retrospect, I guess you wouldn't be here with me right now if you weren't lost as well...",
-		"visualnovel_middleResponseFirst3": "Oh well, no point in crying over spilled blood.",
-		"visualnovel_middleResponseFirst4": "We might as well just wait for another student to come by and follow them instead.",
+		"visualnovel_middleResponseFirst2": "다시 생각해 보니, 너도 길을 잃은 게 아니라면 지금 쯤 나랑 같이 있지도 않았겠구나.",
+		"visualnovel_middleResponseFirst3": "무릎이 까지고 피가 나서 애기처럼 앵앵 울고 있어도 소용 없는 거야.",
+		"visualnovel_middleResponseFirst4": "우린 차라리 그냥 다른 학생이 오길 기다렸다가 따라가는 편이 낫겠어.",
 		"visualnovel_middleResponseFirst5": "나는 미라지라고 해.",
 		"visualnovel_middleResponseFirst6": "네 이름은 굳이 말할 필요 없어, 딱히 신경 안 쓰거든.",
 
 		"visualnovel_middleResponseSecond1": "뭐?",
 		"visualnovel_middleResponseSecond2": "이 씨발 '싫은데' 가 대체 무슨 소리야?",
 		"visualnovel_middleResponseSecond3": "네가 길을 안 알 려 주 면 우리 모두 학교에 못 간 다 고!",
-		"visualnovel_middleResponseSecond4": "Or did that thought not even cross your crayon-fed brain cavity!? ",
+		"visualnovel_middleResponseSecond4": "아니면 그 우동사리만 들어찬 머리통으로 생각이라는 걸 하지도 않는 거야?!",
 
 		"visualnovel_middleResponseThird1": "말도 안 돼!",
-		"visualnovel_middleResponseThird2": "개소리 집어치워, I can see your crusty-ass uniform and no living person would dare to go out looking like a filled trash bag by choice!",
+		"visualnovel_middleResponseThird2": "개소리 집어쳐, I can see your crusty-ass uniform and no living person would dare to go out looking like a filled trash bag by choice!",
 		"visualnovel_middleResponseThird3": "Though considering how little activity there actually is inside your skull, I'm willing to admit you sure as hell don't seem like you've ever been to school.",
 
 		"visualnovel_middlePromptSecondRecklessness": "\"You could do with being a bit nicer to people you've only just met.\"",
