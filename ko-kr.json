@@ -173,7 +173,7 @@
 
 		"cybergrind_wavesTitle": "단계",
 		"cybergrind_wavesDescription1": "시작할 단계를 선택하세요",
-		"cybergrind_wavesDescription2": "(최고 기록이 선택할 단계의 두 배 이상이어야 함.)",
+		"cybergrind_wavesDescription2": "(최고 기록이 선택할 단계의 두 배 이상이어야 합니다.)",
 
 		"cybergrind_noPatternsSelected": "선택된 패턴 없음."
 	},
@@ -184,7 +184,7 @@
 		"books_pressToClose2": "를 누르십시오.",
 
 		"books_limboFourth1": "텍스트 감지됨 - 특이 문구:",
-		"books_limboFourth2": "...나의 마음은 영원한 고통에 휩쓸리고 있네. 음침한 색채로 그려진 망측한 풍경화, 닿기만 하면 소리지르는 공허한 벽. 그칠 줄 모르는 조롱의 노래, 심지어 새 지저귀는 소리는 가짜다. 모든 것이 내가 지옥에 있다는 것을 상기시킨다.",
+		"books_limboFourth2": "...나의 마음은 영원한 고통에 휩쓸리고 있네. 음침한 색채로 그려진 망측한 풍경화, 닿기만 하면 소리지르는 공허한 벽. 그칠 줄 모르는 조롱의 노래, 심지어 새 지저귀는 소리도 가짜다. 모든 것이 내가 지옥에 있다는 것을 상기시킨다.",
 		"books_limboFourth3": "가브리엘 나의 사랑하는 친구여, 끝없는 참회 속에서 나는 자네의 천국으로의 수용을 기다리고 있다네. 나는 운명을 받아들이면서도, 가장 성실하게 지내왔건만, 대체 무엇을 위해 그랬을까? 이것은 대체 무슨 형벌이기에, 구원에 대한 일말의 가능성도 없는 파멸로 향하는 열쇠를 쥐고 있어야 한단 말인가... 해골들은 악마같은 조소로 나를 비웃고 있고, 소리 내어 떠들며, 나를 더 깊은 지옥의 구렁텅이로 떨어지도록 꼬드기고 있네... 나는 그렇게 하지 않을 것일세.",
 		"books_limboFourth4": "나는 그 해골들을 식기, 책, 그리고 이 저주받은 곳의 근원에 숨겨놓았다네. 용서해주게 가브리엘, 자네를 기다리겠네...",
 		"books_limboFourth5": "나머지 텍스트: 무관함.",
@@ -196,7 +196,7 @@
 		"books_lustSecond5": "나머지 텍스트: 무관함.",
 
 		"books_greedSecond1": "텍스트 감지됨 - 특이 문구:",
-		"books_greedSecond2": "마지막으로 천사를 본 지 며칠이 되었다. 천사들의 억압이 없는 이상, 우리는 우리의 벌을 계속 받을 필요가 없다. 지옥으로 떨어진 사람들 중 가장 온순한 자들마저 싸우기 위해 참회를 그만두었다. 모두가 그들이 어떻게 우리의 마음과, 몸과, 영혼을 빼앗고, 오지 않을 구원을 향한 희망만을 남겨두었는지만을 보았지만, 이제는 아니다.",
+		"books_greedSecond2": "마지막으로 천사를 본 지 며칠이 지났다. 천사들의 억압이 없는 이상, 우리는 우리의 벌을 계속 받을 필요가 없다. 지옥으로 떨어진 사람들 중 가장 온순한 자들마저 싸우기 위해 참회를 그만두었다. 모두가 그들이 어떻게 우리의 마음과, 몸과, 영혼을 빼앗고, 오지 않을 구원을 향한 희망만을 남겨두었는지만을 보았지만, 이제는 아니다.",
 		"books_greedSecond3": "시시포스 왕께서는 지금까지 비밀리에 움직여, 군대를 집결해 그 힘과 수를 엄청나게 늘려왔지만, 이제 더 이상 숨을 이유는 없다. 우리는 천국의 그늘에서 두려움을 잊어버릴 수 있을 만큼 오래 살아왔다. 이제 시시포스의 반란군은 전쟁을 준비하고 있다.",
 		"books_greedSecond4": "미노스가 평화로운 혁명을 시작했다는 소식을 들었지만, 우리의 시시포스 왕은 그런 온건함은 우리를 가둔 잔학한 자들에게 환영받지 못한다는 것을 알고 계시다. 왕께서는 오직 힘만이 힘을 이길 수 있다고 생각하시고, 우리를 자유로 이끌어주실 것일 터이다.",
 		"books_greedSecond5": "다만 우리가 그 고통이 우리에게 들이닥칠 것임을 알았더라면...",
@@ -210,9 +210,9 @@
 		"books_wrathSecond1": "텍스트 감지됨 - 가독 문서:",
 		"books_wrathSecond2": "뱃사공의 일기에서 발췌",
 		"books_wrathSecond3": "필멸자의 세계에 어떤 재앙이 덮쳤다. 한때 스틱스 강이었던 것은 이제 헤아릴 수 없이 깊은 바다가 되었다. 날마다 수백만의 흐느끼는 영혼들이 해변을 가득 채울 정도로 쏟아져 내렸다. 통곡하는 파도가 넘쳐 흘러, 허리 굽혀 절하고, 자비를 구하며, 안전하게 강을 건너고 싶다고 애원했다. 하지만 모든 영혼이 값을 치르지는 못하고, 이 늙은이의 손은 그 많은 동전을 받기에 역부족이었다.",
-		"books_wrathSecond4": "그러던 어느 날. 세상의 멱을 따고 머리를 젖혀 망자를 들이붓기라도 하는 듯 수백, 수천만 명의 물결이 몇 분 동안 그침 없이 파도쳐 들어왔다. 내가 반응할 시간조차 없었다. 끝없는 노동으로 지친 내 몸은 나를 요동치는 바다 속에 미끄러져, 스틱스 해의 밑바닥에 떨어지게 했고, 셀 수 없이 많은 사람들에 깔린 내가 맞이할 운명은 하나뿐이었다.",
-		"books_wrathSecond5": "갑자기, 주님께서 오시기라도 한 듯이 밝은 빛이 나타나, 내가 겪어본 적 없는 연민과 온정을 담아 굳센 손으로 나를 어둠으로부터 이끌어주면서:",
-		"books_wrathSecond6": "\"두려워하지 마라, 죄인아. 너의 헌신이 네 속의 선함을 보여주니; 진실로 가득하구나. 마음은 원하지만, 몸은 쉬어야 하니, 주님의 피조물 하나가 허투루 쓰이지 않도록 하라.\"",
+		"books_wrathSecond4": "그러던 어느 날. 세상의 멱을 따고 머리를 젖혀 망자들을 들이붓기라도 하는 듯 수백, 수천만 명의 물결이 몇 분 동안 끊임 없이 파도쳐 들어왔다. 내가 반응할 시간조차 없었다. 끝없는 노동으로 지친 내 몸은 나를 요동치는 바다 속에 미끄러져, 스틱스 해의 밑바닥에 떨어지게 했고, 셀 수 없이 많은 사람들에 깔린 내가 맞이할 운명은 하나뿐이었다.",
+		"books_wrathSecond5": "그러나 갑자기, 주님께서 오시기라도 한 듯이 밝은 빛이 나타나, 내가 겪어본 적 없는 연민과 온정을 담아 굳센 손으로 나를 어둠으로부터 이끌어주면서 이같이 말하였다.",
+		"books_wrathSecond6": "\"두려워하지 마라, 죄인아. 너의 헌신이 네 속의 선함을 보여주니, 진실로 가득하구나. 마음은 원하지만, 몸은 쉬어야 하니, 주님의 피조물 하나가 허투루 쓰이지 않도록 하여라.\"",
 		"books_wrathSecond7": "그의 부드러운 음성은 고통을 녹이고 내 상처를 고쳐 주었다. 나는 기쁨의 눈물로 얼굴을 적셨고, 내가 짊어진 사명의 무게로 인해 감히 입을 열 수 없었다. 나는 천사님의 포용에 감동해, 경의를 표할 수밖에 없었다.",
 		"books_wrathSecond8": "그가 내 어둠 속의 빛이니, 가브리엘은 실로 찬란하시다.",
 		"books_wrathSecond9": "나머지 텍스트: 무관함."
@@ -231,7 +231,7 @@
 		"act1_intermission_first11": "감히 물건 따위가 넘볼 수 없는 것이다.",
 		"act1_intermission_first12": "그는 그걸 알고 있다.",
 
-		"act1_intermission_second1": "\"신성한 의회시여, 저희 창조주에 대한 제 헌신은 절대적입니다. 저는 한 번도 아버지 뜻에서 벗어난 적이 없었습니다, 하지만 한 기계가-\"",
+		"act1_intermission_second1": "\"신성한 의회시여, 저희 창조주에 대한 제 헌신은 절대적입니다. 저는 한 번도 아버지 뜻에서 벗어난 적이 없었습니다, 하지만 한 기계가...\"",
 		"act1_intermission_second2": "\"감히 아버지의 뜻이 물건 따위에게 흔들릴 수 있다고 말하는 건가?\"",
 		"act1_intermission_second3": "\"불가능하다.\"",
 		"act1_intermission_second4": "\"이단이다.\"",
@@ -247,21 +247,21 @@
 		"act1_intermission_third1": "그의 존재에서 빛이 뜯겨 나가니, 가브리엘의 비명은 나지막하게 신을 찬양하는 기도문에 파묻혔다.",
 		"act1_intermission_third2": "지옥의 불과도 비교할 수 없는 끓어오르는 통한.",
 		"act1_intermission_third3": "고통의 불꽃 속에서 하나의 타오르는 증오가 새로 생겨났다.",
-		"act1_intermission_third4": "기계가 피를 찾는다면, 그는 순순히 내어줄 것이다;",
-		"act1_intermission_third5": "그리고 그 정도 분노라면, 쇠붙이도 피를 흘릴 것이다.",
+		"act1_intermission_third4": "기계가 피를 찾는다면, 그는 순순히 내어줄 것이다.",
+		"act1_intermission_third5": "그리고 그 정도 분노라면, 금속조차 피를 흘릴 것이다.",
 
 		"act2_intermission_first1": "침묵.",
 		"act2_intermission_first2": "내성.",
 		"act2_intermission_first3": "그는 얼마나 많은 목숨을 죽여왔는가?",
-		"act2_intermission_first4": "그것을 셀 수는 있는 것일까?",
+		"act2_intermission_first4": "그것을 세아릴 수는 있는 것일까?",
 		"act2_intermission_first5": "대체 그는 얼마나 잔학했던 것이며... 무슨 목표를 위해 그랬던 것일까?",
 		"act2_intermission_first6": "얼마나 많은 자들을 지옥에 떨어뜨렸으며, 그래서 누가 이익을 보았는가..?",
 
 		"act2_intermission_first7": "기계로부터의 두 번의 패배가 가브리엘을 변화시켰다.",
 		"act2_intermission_first8": "한때 신의 의지를 받드는 세계였던 것은 이제 산산조각났으며 그는 그저 그 조각을 다시 맞추려 하고 있었다.",
-		"act2_intermission_first9": "그들은 새 연료로 살릴 수 없는, 죽어가는 불 곁에 모였고, 새로운 빛은 가브리엘에게 진실을 보여주었다:",
+		"act2_intermission_first9": "그들은 새 연료로 살릴 수 없는, 죽어가는 불 곁에 모였고, 새로운 빛은 가브리엘에게 진실을 보여주었다.",
 
-		"act2_intermission_first10": "이 조각은 처음부터 맞지 않았다.",
+		"act2_intermission_first10": "이 조각은 처음부터 맞지 않았던 것이었다.",
 
 		"act2_intermission_second1": "신의 의지를 계승하는 \"사람\" 의 의회는 이제 그곳에 없었다.",
 		"act2_intermission_second2": "없어졌다.",
@@ -322,10 +322,10 @@
 		"act2_intermission_sixth2": "His arm outstretched, without a word, the people saw.",
 		"act2_intermission_sixth3": "In the silence the message rang out to the far ends of the cosmos.",
 
-		"act1_intermission_tobecontinued": "II막 : 불완전한 증오로 이어짐",
-		"act1_intermission_tobecontinuedshadow": "II막 : 불완전한 증오로 이어짐",
+		"act1_intermission_tobecontinued": "II막 : 불완전한 증오에서 계속...",
+		"act1_intermission_tobecontinuedshadow": "II막 : 불완전한 증오에서 계속...",
 
-		"act1_intermission_endof": "1막 끝",
+		"act1_intermission_endof": "I막 끝",
 		"act1_intermission_insertAct2": "II막 : 불완전한 증오를 재생하려면 디스크 2를 넣으십시오",
 		"act1_intermission_insert": "투입",
 		"act1_intermission_returnToMenu": "메뉴로 돌아가기",
@@ -376,7 +376,7 @@
 		"chapter_prelude": "서곡",
 		"chapter_act1": "I 막: 무한한 죽음",
 		"chapter_act2": "II 막: 불완전한 증오",
-		"chapter_act3": "III 막: 신권 자살",
+		"chapter_act3": "III 막: 신권의 자살",
 		"chapter_prime": "프라임 성소",
 		"chapter_cyberGrind": "사이버 그라인드",
 		"chapter_sandbox": "샌드박스",
@@ -646,10 +646,10 @@
 		"category_colors": "색상",
 		"category_saves": "세이브 파일",
 
-		"general_mouseSensitivity": "마우스 민감도",
+		"general_mouseSensitivity": "마우스 감도",
 		"general_xInversion": "X축 반전",
 		"general_yInversion": "Y축 반전",
-		"general_fieldOfVision": "FOV",
+		"general_fieldOfVision": "시야 각도",
 		"general_weaponPosition": "무기 위치",
 		"general_weaponPositionRight": "오른쪽",
 		"general_weaponPositionMiddle": "중앙",
@@ -660,7 +660,7 @@
 		"general_screenShakeMaximum": "약 빨음",
 		"general_cameraTilt": "카메라 회전",
 		"general_restartWarning": "임무 재시작/종료 경고",
-		"general_discordRpc": "DISCORD 결합",
+		"general_discordRpc": "디스코드 연결",
 		"general_seasonalEvent": "계절성 이벤트",
 
 		"controls_resetDefault": "기본값으로 재설정",
@@ -890,7 +890,7 @@
 		"levelName_preludeThird": "더블 다운",
 		"levelName_preludeFourth": "원 머신 아미",
 		"levelName_preludeFifth": "케르베로스",
-		"levelName_preludeSecret": "사악한 것",
+		"levelName_preludeSecret": "사악한 무언가",
 
 		"levelName_limboFirst": "해돋이의 심장",
 		"levelName_limboSecond": "불타는 세계",
