@@ -415,9 +415,9 @@
 
 		"visualnovel_introFirst7": "어느덧 종소리가 울린다.",
 
-		"visualnovel_introSecond1": "나는 마지막으로 입에 물고 있던 내 아침밥을 입으로 더욱 세게 물었다.",
+		"visualnovel_introSecond1": "나는 마지막으로 입에 물고 있던 내 식량을 입으로 더욱 세게 물었다.",
 		"visualnovel_introSecond2": "나를 구원해 줄 익숙한 그 광경을 찾기 위해 불타는 내 기억의 조각을 더듬거리느라 정신없이 주위를 되돌아보면서 간신히 매달린다.",
-		"visualnovel_introSecond3": "지금쯤이면 교문이 닫혔겠지.",
+		"visualnovel_introSecond3": "지금쯤이면 문이 닫혔겠지.",
 		"visualnovel_introSecond4": "마지막 몇 명만이 간신히 들어갔을 것이다.",
 		"visualnovel_introSecond5": "나머지 녀석들은 들어갈 기회조차 없었을 거야.",
 
@@ -983,7 +983,7 @@
 
 		"leveltips_lustFirst": "적들은 죽을 수 있는 피해를 입는 높이에서 떨어지면 재밌는 비명을 지릅니다.",
 
-		"leveltips_lustSecond1": "슬램 바운싱:",
+		"leveltips_lustSecond1": "지면 내려찍기:",
 		"leveltips_lustSecond2": "공중 내려찍기를 시전해 착지한 직후 빠르게 점프하면 더 높은 높이를 뛰어오를 수 있습니다.",
 		"leveltips_lustSecond3": "높은 고도에서 그라운드 슬램으로 착지할 수록 더 높이 뛰어오릅니다.",
 
@@ -1203,7 +1203,7 @@
 		"shop_colorsCustom": "사용자 지정",
 		"shop_colorsAlternative": "얼터네이트",
 		"shop_colorsDone": "완료",
-		"shop_colorsCustomUnlockPrompt": "사용자 지정 색상 잠금 해제 : "
+		"shop_colorsCustomUnlockPrompt": "사용자 지정 색상 잠금 해제 "
 	},
 	"enemyNames": {
 		"enemyname_filth": "필스",
