@@ -40,7 +40,7 @@
 		"credits_VATitle": "참여하신 성우 분들:",
 		"credits_VA1": "<color=orange>GIANNI MATRAGRANO</color> (가브리엘)",
 		"credits_VA2": "<color=orange> STEPHAN WEYTE </color> (미노스 프라임)",
-		"credits_VA3": "<color=orange>MANDALORE HERRINGTON</color> (드루이드기사)",
+		"credits_VA3": "<color=orange>MANDALORE HERRINGTON</color> (드루이드 기사)",
 		"credits_VA4": "<color=orange>JUST SHAMMY </color> (&부엉이)",
 
 		"credits_QATitle": "QA에 참여하신 분들:",
@@ -1346,7 +1346,7 @@
 
 		"enemyBios_filth_1": "허스크는 저주받은 자들의 영혼을 물리적으로 표현한 것이다. ",
 		"enemyBios_filth_2": "허스크의 물리적 형태는 원래 영혼의 가치에 기반하는데, 이는 그 의지의 힘과 그것을 기억하는 살아있는 영혼의 의식이 얼마나 많은가에 의해 결정된다. ",
-		"enemyBios_filth_3": "필스는 허스크의 가장 낮은 등급의 형태로, 영혼이 너무 약하고 보잘것 없었기에 완전한 육체를 형성할 수 없었다.",
+		"enemyBios_filth_3": "필스는 허스크의 가장 낮은 등급의 형태로, 영혼이 너무 약하고 보잘것 없었기에 제대로 된 육체를 형성할 수 없었다.",
 		"enemyBios_filth_4": "따라서 허스크 중에서도 지능이 가장 낮으며, 이들은 순전히 굶주림에 의해서만 움직인다.",
 
 		"enemyBios_filth_strategy1": "대부분의 무기는 필스들을 쉽게 쓰러뜨릴 수 있지만, 그들의 강력한 턱과 순전한 숫자를 과소평가할 경우 목표물을 빠르게 압도할 수 있다.",
@@ -1359,27 +1359,27 @@
 		"enemyBios_stray_strategy1": "대부분의 무기들은 스트레이를 상대하는 데 효과적지만, 리볼버의 헤드샷은 스트레이를 빠르고 확실하게 제거할 수 있는 방법 중 하나다.",
 		"enemyBios_stray_strategy2": "스트레이의 정적인 특성과 느린 공격 속도 때문에, 발사체를 패링하기에 좋은 표적으로 삼을 수 있다.",
 
-		"enemyBios_schism_1": "The result of two souls attempting to manifest in the same space, causing an amalgamation of two physical bodies. ",
-		"enemyBios_schism_2": "Due to the doubled body mass, they're quite resilient to damage, but have very poor motor control and thus cannot aim with any degree of accuracy, resorting to barrages of energy orbs in the general direction of their opponent.",
+		"enemyBios_schism_1": "두 영혼이 한 공간에서 발현하려다가 두 육체가 융합되어버린 결과물이다. ",
+		"enemyBios_schism_2": "체중에 두 배로 증가했기 때문에 그들은 공격을 받아도 빠르게 회복되지만 운동 제어력이 매우 떨어지기 때문에 일정한 정확도를 유지할 수 없으며, 적을 향해 투사체를 난사하기만 하는 공격에 의존한다.",
 
-		"enemyBios_schism_strategy1": "Piercer revolver's charged headshots are an efficient tool for a quick kill against Schisms, though their displaced head can make aiming difficult for the inexperienced.",
-		"enemyBios_schism_strategy2": "A point-blank Pump Charge shotgun blast with 2 pumps will be able to take them down in a single shot.",
-		"enemyBios_schism_strategy3": "Due to their poor aim, they aren't a priority target, but the sheer amount of projectiles can sometimes make avoiding them tricky in busy encounters.",
+		"enemyBios_schism_strategy1": "피어서 리볼버의 충전 사격을 헤드샷으로 맞추면 스키즘을 빠르게 처치할 수 있지만, 그들의 교체된 머리는 경험이 적은 사람들에게 조준을 어렵게 만든다.",
+		"enemyBios_schism_strategy2": "펌프를 두 번 당긴 펌프 차지 샷건을 영거리에서 맞추면 한 방에 처치할 수 있다.",
+		"enemyBios_schism_strategy3": "명중율이 좋지 않아 최우선 표적은 아니지만, 이들이 날려대는 대량의 투사체들은 난전 상황에서 무시하기가 어려울 수 있다.",
 
-		"enemyBios_soldier_1": "Soldiers are an augmented version of Strays, whose technological implants have been scavenged from broken machines to channel Hell Energy with greater efficiency.",
-		"enemyBios_soldier_2": "This increase in power gives Soldiers more self-confidence, causing them to act more aggressively than normal Strays.",
-		"enemyBios_soldier_3": "Despite the enhancements, their intelligence remains low and it has yet to be determined who or what actually augmented them.",
+		"enemyBios_soldier_1": "솔저는 고장난 기계들로부터 임플란트를 추출해내 지옥 에너지를 더 효율적으로 다룰 수 있게끔 개조한 스트레이의 강화 버전이다.",
+		"enemyBios_soldier_2": "이러한 화력 증가는 솔저에게 더 큰 자신감을 부여해 주고, 그들이 일반 스트레이보다 더 공격적으로 행동할 수 있게 해 준다.",
+		"enemyBios_soldier_3": "개조를 받았음에도 불구하고, 솔저들의 지능은 여전히 낮은 편이며 누가 어떤 목적으로 스트레이들을 개조했는지에 대해선 아직 알려진 바가 없다.",
 
-		"enemyBios_soldier_strategy1": "The shotgun is an excellent weapon against Soldiers, as long as its use is swift so as to not allow them to protect themselves with melee attacks. ",
-		"enemyBios_soldier_strategy2": "Since Soldiers charge their shots in front of them rather than above them, the charge is also easier to interrupt via a precise revolver shot for an explosive kill.",
-		"enemyBios_soldier_strategy3": "Thanks to their augmentations, Soldiers are able to withstand normal explosions with little to no damage. The more powerful red explosions will go through their guard however, and they are unable to block if not on the ground.",
+		"enemyBios_soldier_strategy1": "샷건을 사용하면 솔저들이 근접공격을 사용해 자신을 보호할 틈을 주지 않고 신속하게 처치할 수 있다.",
+		"enemyBios_soldier_strategy2": "솔저들은 머리 위에서 투사체를 발사하는 스트레이들과는 달리 전방에서 투사체를 발사하기 때문에 공격하기 직전 정확한 리볼버 사격을 통해 폭사시키기가 더 쉽다.",
+		"enemyBios_soldier_strategy3": "향상된 장갑 덕분에 솔저들은 일반 폭발에 의한 피해를 거의 받지 않고 버텨낼 수 있다. 그러나 더 강력한 붉은 폭발은 그들의 장갑을 뚫을 수 있으며, 솔저가 공중에 떠 있으면 방어하지 못한다.",
 
-		"enemyBios_ferryman_1": "Ferrymen are rare husks whose powerful bodies, trained skills and blind faith have granted them the chance of becoming the transporters of souls between the layers of Hell.",
-		"enemyBios_ferryman_2": "They have each been given a holy cloth by Heaven as a symbol of their devotion to God's order, which they wear over their bodies to hide the human form that they've grown to despise as a reminder of their sins in life stopping them from becoming angels.",
-		"enemyBios_ferryman_3": "Due to the holy power emanating from the cloth, Ferrymen's skeletal bodies have slowly been colored bright and radiant, and their skulls have enough latent energy to open gates that otherwise stop Husks from exiting their places of torment.",
-		"enemyBios_ferryman_4": "Each ferry can only have one Ferryman at a time, so when a new Ferryman is formed, it will fight another to the death in order to take their place and inherit their cloth. The loser's skull is taken as a trophy and used to grant the winner passage across the layers in order to transport the souls of the damned to their destinations.",
-		"enemyBios_ferryman_5": "Ferrymen will often use the knowledge from their past life to improve their ferries, growing past the need for oars, which are now used by Ferrymen only as weapons.",
-		"enemyBios_ferryman_6": "As the influx of souls has ended with the death of mankind, the Ferrymen have lost their purpose and now wander around aimlessly, hoping that the angels would grant them passage into Heaven, despite Gabriel being the only one who cares about their efforts.",
+		"enemyBios_ferryman_1": "뱃사공은 강력한 신체와 훈련된 기술, 그리고 맹목적인 믿음으로 지옥의 층들 사이에서 영혼의 운반자가 될 수 있는 기회를 가진 보기 드문 허스크들이다.",
+		"enemyBios_ferryman_2": "뱃사공들은 각각 신의 명령에 대한 헌신의 상징으로 천국으로부터 거룩한 천을 수여받았다. 그들은 자신들이 천사가 되는 것을 막는 삶의 죄를 상기시키기 위해 경멸하게 된 인간으로써의 모습을 감추기 위해 몸에 항상 걸치고 있다.",
+		"enemyBios_ferryman_3": "천에서 뿜어져 나오는 거룩한 힘에 의해 뱃사공의 해골 신체는 천천히 밝고 빛이 나게 되었으며 뱃사공의 두개골은 허스크가 고통의 장소에서 빠져나오는 것을 막는 문을 열기에 충분한 잠재 에너지를 보유하고 있다.",
+		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 물려받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 층을 가로질러 승자의 통로를 부여하는 데 사용된다.",
+		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 영혼을 실어나르기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 데 사용한다.",
+		"enemyBios_ferryman_6": "인류의 멸망으로 영혼의 유입이 끊기게 된 뱃사공들은 이제 목적 없이 떠돌아다니며 그들의 노력을 눈여겨보는 유일한 천사가 가브리엘뿐임에도 불구하고 천국으로의 통행을 허락해 주길 기다리고 있다.",
 
 		"enemyBios_ferryman_strategy1": "Ferrymen choose their attacks based on their opponent's actions. When approached, they move to safety, and when retreated from, they'll apply pressure via attacks with greater reach.",
 		"enemyBios_ferryman_strategy2": "Despite its looks, their uppercut is quite dangerous and can be difficult to dodge. It's best not to stay in the air for too long.",
