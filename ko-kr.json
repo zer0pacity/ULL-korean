@@ -1352,12 +1352,12 @@
 		"enemyBios_filth_strategy1": "대부분의 무기는 필스들을 쉽게 쓰러뜨릴 수 있지만, 그들의 강력한 턱과 순전한 숫자를 과소평가할 경우 목표물을 빠르게 압도할 수 있다.",
 		"enemyBios_filth_strategy2": "폭발성 무기는 필스 무리를 제압할 수 있는 가장 효과적인 방법이지만, 두 마리 이상의 목표물을 타격할 수 있는 무기 역시 효율적일 것이다.",
 
-		"enemyBios_stray_1": "While their tall stature may seem intimidating, Strays are afraid of most danger and will try to stay at a safe distance, only attacking via projectiles formed with Hell Energy. ",
-		"enemyBios_stray_2": "Although controlling and manifesting this energy is a complicated task, Strays have very low intelligence and are only able to do so via pure instinct.",
-		"enemyBios_stray_3": "Nevertheless, humans were unable to replicate this level of accuracy and control, particularly the Stray's ability to cause the energy orbs to selectively ignore other Husks.",
+		"enemyBios_stray_1": "스트레이의 큰 신장이 위협적으로 보일지라도, 그들은 위험을 두려워하며 지옥 에너지로 이루어진 발사체를 던지기만 하면서 최대한 안전 거리를 유지하려고 할 것이다.",
+		"enemyBios_stray_2": "비록 지옥 에너지를 조절하고 실체화하는 것은 복잡한 일이지만, 스트레이들은 매우 낮은 지능을 가졌으며 순수한 본능을 통해서 지옥 에너지를 다룰 수 있다.",
+		"enemyBios_stray_3": "그럼에도 불구하고, 인간은 스트레이처럼 다른 허스크를 선택적으로 무시하는 발사체를 다룰 수 있을 정도의 정확성과 통제력을 흉내낼 순 없었다.",
 
-		"enemyBios_stray_strategy1": "Most weapons will be effective against them, but a Revolver headshot is the quickest and surest way to eliminate a Stray.",
-		"enemyBios_stray_strategy2": "Due to their static nature and slow rate of attacking, they are an excellent target for projectile parrying.",
+		"enemyBios_stray_strategy1": "대부분의 무기들은 스트레이를 상대하는 데 효과적지만, 리볼버의 헤드샷은 스트레이를 빠르고 확실하게 제거할 수 있는 방법 중 하나다.",
+		"enemyBios_stray_strategy2": "스트레이의 정적인 특성과 느린 공격 속도 때문에, 발사체를 패링하기에 좋은 표적으로 삼을 수 있다.",
 
 		"enemyBios_schism_1": "The result of two souls attempting to manifest in the same space, causing an amalgamation of two physical bodies. ",
 		"enemyBios_schism_2": "Due to the doubled body mass, they're quite resilient to damage, but have very poor motor control and thus cannot aim with any degree of accuracy, resorting to barrages of energy orbs in the general direction of their opponent.",
