@@ -311,7 +311,7 @@
 		"act2_intermission_fifth1": "그가 마지막 일격을 위해 칼을 들어올리자 바닥의 울부짖는 자가 바로 전의 하찮은 논쟁을 더듬었다.",
 
 		"act2_intermission_fifth2": "\"하...하, 하지만 아버지의 빛은!",
-		"act2_intermission_fifth3": "내가 없으면 넌 두번 다시 아버지의 빛과 이어질 수 없을 거다! 네가 날 죽인면 넌 몇 시간 이내에 죽을 거라고!\"",
+		"act2_intermission_fifth3": "내가 없으면 넌 두번 다시 아버지의 빛과 이어질 수 없을 거다! 네가 날 죽이면 넌 몇 시간 안에 죽을 거라고!\"",
 		"act2_intermission_fifth4": "\"알고 있다.\"",
 
 		"act2_intermission_fifth5": "칼날이 깨끗하고 조용하게 평의원의 목 위를 미끄러지듯 스치며 여유롭게 척추를 베어낸다.",
@@ -466,20 +466,20 @@
 		"visualnovel_middleResponseFirst6": "네 이름은 굳이 말할 필요 없어, 딱히 신경 안 쓰거든.",
 
 		"visualnovel_middleResponseSecond1": "뭐?",
-		"visualnovel_middleResponseSecond2": "이 씨발 '싫은데' 가 대체 무슨 소리야?",
+		"visualnovel_middleResponseSecond2": "너 이 씨 '싫은데' 가 대체 무슨 소리야?",
 		"visualnovel_middleResponseSecond3": "네가 길을 안 알 려 주 면 우리 모두 학교에 못 간 다 고!",
 		"visualnovel_middleResponseSecond4": "아니면 그 우동사리만 들어찬 머리통으로 생각이라는 걸 하지도 않는 거야?!",
 
 		"visualnovel_middleResponseThird1": "말도 안 돼!",
-		"visualnovel_middleResponseThird2": "개소리 집어쳐, I can see your crusty-ass uniform and no living person would dare to go out looking like a filled trash bag by choice!",
-		"visualnovel_middleResponseThird3": "Though considering how little activity there actually is inside your skull, I'm willing to admit you sure as hell don't seem like you've ever been to school.",
+		"visualnovel_middleResponseThird2": "개소리 집어쳐, 너 그 촌스러운 교복 입고 있는 거 다 보이고, 아무도 자기 의지로 그런 쓰레기통같은 꼴을 하고 밖에 나가진 않을 거야!",
+		"visualnovel_middleResponseThird3": "그래도 네가 머리를 퍽이나 잘 쓰는 걸 보니, 한 번도 학교에 가본 적 없는 것 같긴 하네.",
 
-		"visualnovel_middlePromptSecondRecklessness": "\"You could do with being a bit nicer to people you've only just met.\"",
-		"visualnovel_middlePromptSecondWaiting": "\"Just waiting here won't get us anywhere, we should be looking for a way to the school.\"",
+		"visualnovel_middlePromptSecondRecklessness": "\"방금 만난 사람인데 좀 상냥하게 대해줘.\"",
+		"visualnovel_middlePromptSecondWaiting": "\"여기서 가만히 있다고 일이 해결되지는 않아, 학교로 가는 길을 찾아야 해.\"",
 
-		"visualnovel_recklessnessFirst": "Yeah? Well you could do with a beatdown, so fuck off.",
+		"visualnovel_recklessnessFirst": "그래? 두드려패 줄 수는 있는데, 이제 꺼져.",
 		"visualnovel_recklessnessSecond1": "하지만 그래, 네 말이 맞긴 해.",
-		"visualnovel_recklessnessSecond2": "I don't really care about what you or anyone else thinks of me, so I'm not interested in trying to be nice just so you'll be in a good mood.",
+		"visualnovel_recklessnessSecond2": "난 너나 다른 사람이 날 보고 어떻게 생각하든 신경 안 써, 너 기분 좋으라고 상냥하게 대해주고 싶지는 않아.",
 
 		"visualnovel_recklessnessPrompt1": "Why not? If we're stuck in here together anyway, what's the point in making it worse for both of us?",
 		"visualnovel_recklessnessPrompt2": "I find that hard to believe considering how heated up you get from practically anything I say.",
@@ -493,9 +493,9 @@
 		"visualnovel_recklessnessResponseSecond1": "Don't flatter yourself.",
 		"visualnovel_recklessnessResponseSecond2": "Blowing off steam is just how I cope.",
 
-		"visualnovel_recklessnessPrompt3": "\"Cope with what?\"",
+		"visualnovel_recklessnessPrompt3": "\"뭘 극복하라고?\"",
 
-		"visualnovel_recklessnessResponseThird": "Everything.",
+		"visualnovel_recklessnessResponseThird": "모든 걸.",
 
 		"visualnovel_waitingFirst": "Wandering around like headless chickens would only get us even more lost.",
 		"visualnovel_waitingSecond": "Since we were both heading to school and ended up meeting right here, that means there's a very high likelihood this spot is somewhere along the way.",
@@ -1725,7 +1725,7 @@
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
-		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 형제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
+		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
 
