@@ -1500,12 +1500,12 @@
 		"enemyBios_v2Second_strategy2": "V2의 네일건 공격은 자석을 통해 다른 곳으로 보내거나 V2에게 다시 되돌려줄 수 있다.",
 		"enemyBios_v2Second_strategy3": "V2를 너클블래스터로 가격하면 즉시 격노 상태에 돌입한다.",
 
-		"enemyBios_maliciousFace_1": "Demons are creatures born from the mass of Hell. They are most easily recognisable by their hard stone-like exterior and slow movement.",
-		"enemyBios_maliciousFace_2": "Demons have higher intelligence than Husks, but are still incapable of rational thought and communication. No demons have been able to pass the mirror test, though studies are limited due to their hostility.",
-		"enemyBios_maliciousFace_3": "Malicious Faces are the most common type of demon, but are incredibly dangerous, especially in swarms, due to their mastery of the use of Hell Energy as a weapon.",
+		"enemyBios_maliciousFace_1": "악마들은 지옥의 덩어리에서부터 태어난 생명체이다. 그들은 단단한 돌처럼 생긴 외관과 굼뜬 움직임으로 쉽게 알아볼 수 있다.",
+		"enemyBios_maliciousFace_2": "악마들은 허스크보다 지능이 높은 편이지만, 여전히 이성적인 사고와 의사소통이 불가능하다. 비록 그들의 적대적인 성질 때문에 연구는 제한되어 있지만, 어떤 악마도 거울 실험을 통과할 수는 없었다.",
+		"enemyBios_maliciousFace_3": "멀리셔스 페이스는 가장 흔한 유형의 악마지만, 지옥 에너지를 다루는 것에 숙달되어 있기 때문에 무리들 중에서 가장 위험한 존재라고 할 수 있다.",
 
-		"enemyBios_maliciousFace_strategy1": "Due to their burst fire, they can be quite difficult to get close to, so despite the effectiveness of a point blank shotgun shot, nails are the recommended course of action, with magnets enabling long-range combat.",
-		"enemyBios_maliciousFace_strategy2": "Due to their invulnerability to explosions, they don't need to hold back the energy of their beam attacks, so staying away from walls and other surfaces is recommended when they begin charging an energy beam.",
+		"enemyBios_maliciousFace_strategy1": "멀리셔스 페이스의 점사 사격은 그들에게 가까이 다가가기 어렵게 만든다. 때문에 근거리 샷건 사격보다는 어트랙터 네일건의 자석을 활용해서 조금 더 먼 거리에서 화력을 쏟아붓는 전투를 하는 것이 권장된다.",
+		"enemyBios_maliciousFace_strategy2": "멀리셔스 페이스는 폭발 공격에 면역을 보유하고 있다. 때문에 그들은 빔 공격의 에너지를 억제하지 않으므로 에너지 빔을 충전할 땐 벽면이나 바닥으로부터 멀리 떨어져 있는 것이 좋다.",
 
 		"enemyBios_cerberus_1": "Although they do not resemble the mythological three-headed dog, this name was chosen due to their nature as protectors of Hell. However, it's not yet known why some stay dormant despite provocation.",
 		"enemyBios_cerberus_2": "Despite the fact that keeping an energy orb stable takes a considerable amount of focus and effort, they seem to always keep one in hand, most likely as a display of their power to scare off intruders.",
