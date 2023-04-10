@@ -985,7 +985,7 @@
 
 		"leveltips_lustSecond1": "지면 내려찍기:",
 		"leveltips_lustSecond2": "공중 내려찍기를 시전해 착지한 직후 빠르게 점프하면 더 높은 높이를 뛰어오를 수 있습니다.",
-		"leveltips_lustSecond3": "높은 고도에서 그라운드 슬램으로 착지할 수록 더 높이 뛰어오릅니다.",
+		"leveltips_lustSecond3": "높은 고도에서 공중 내려찍기로 착지할 수록 더 높이 뛰어오릅니다.",
 
 		"leveltips_lustThird": "레일캐논의 변형들은 모두 동일한 대기 시간을 가집니다. 적합한 상황에 현명하게 사용하십시오.",
 
@@ -1016,7 +1016,7 @@
 		"leveltips_primeFirst1": "패링은 매우 강력한 회복 수단이 될 수 있습니다.",
 		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 체력을 충분히 보충할 수 있습니다.",
 
-		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날라갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
+		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
         	"leveltips_sandbox1": "치트는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
         	"leveltips_sandbox2": "랭크를 활성화하면 치트가 비활성화됩니다."
 	},
@@ -1375,10 +1375,10 @@
 		"enemyBios_soldier_strategy3": "향상된 장갑 덕분에 솔저들은 일반 폭발에 의한 피해를 거의 받지 않고 버텨낼 수 있다. 그러나 더 강력한 붉은 폭발은 그들의 장갑을 뚫을 수 있으며, 솔저가 공중에 떠 있으면 방어하지 못한다.",
 
 		"enemyBios_ferryman_1": "뱃사공은 강력한 신체와 훈련된 기술, 그리고 맹목적인 믿음으로 지옥의 층들 사이에서 영혼의 운반자가 될 수 있는 기회를 가진 보기 드문 허스크들이다.",
-		"enemyBios_ferryman_2": "뱃사공들은 각각 신의 명령에 대한 헌신의 상징으로 천국으로부터 거룩한 천을 수여받았다. 그들은 자신들이 천사가 되는 것을 막는 삶의 죄를 상기시키기 위해 경멸하게 된 인간으로써의 모습을 감추기 위해 몸에 항상 걸치고 있다.",
-		"enemyBios_ferryman_3": "천에서 뿜어져 나오는 거룩한 힘에 의해 뱃사공의 해골 신체는 천천히 밝고 빛이 나게 되었으며 뱃사공의 두개골은 허스크가 고통의 장소에서 빠져나오는 것을 막는 문을 열기에 충분한 잠재 에너지를 보유하고 있다.",
-		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 물려받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 층을 가로질러 승자의 통로를 부여하는 데 사용된다.",
-		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 영혼을 실어나르기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 데 사용한다.",
+		"enemyBios_ferryman_2": "뱃사공들은 각각 신의 명령에 대한 헌신의 상징으로 천국으로부터 거룩한 천을 수여받았다. 그들은 자신들이 천사가 되는 것을 막는 전생의 죄를 상기시키기 위해 경멸하게 된 인간으로써의 모습을 감추기 위해 몸에 항상 걸치고 있다.",
+		"enemyBios_ferryman_3": "천에서 뿜어져 나오는 거룩한 힘에 의해 뱃사공의 해골 신체는 천천히 밝고 빛이 나게 되었으며 뱃사공의 두개골은 허스크들이 고통의 장소에서 빠져나오는 것을 막는 문을 여는, 일종의 열쇠 역할을 할 수 있는 충분한 잠재 에너지를 보유하고 있다.",
+		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 물려받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 승자에게 지옥의 층을 가로지르는 통로를 부여하는 데 사용된다.",
+		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 자신의 나룻배를 개선하기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 수준에 이르렀다.",
 		"enemyBios_ferryman_6": "인류의 멸망으로 영혼의 유입이 끊기게 된 뱃사공들은 이제 목적 없이 떠돌아다니며 그들의 노력을 눈여겨보는 유일한 천사가 가브리엘뿐임에도 불구하고 천국으로의 통행을 허락해 주길 기다리고 있다.",
 
 		"enemyBios_ferryman_strategy1": "뱃사공은 상대의 행동에 따라 공격 방식을 바꿀 수 있다. 상대가 가까이 붙으려 하면 안전한 곳으로 물러나려 할 것이고, 상대방이 멀리 떨어지면 긴 사거리의 공격으로 압박을 가할 것이다.",
@@ -1404,10 +1404,10 @@
 		"enemyBios_leviathan_strategy2": "비록 힘들겠지만, 짧은 시간동안 레비아탄 위에 올라탈 수 있다. 타이밍에 맞춰 점프하면 레비아탄의 물어뜯기 공격을 피할 수 있을 뿐만 아니라 머리 위에 착지해 노출된 심장을 노릴 수 있다.",
 		"enemyBios_leviathan_strategy3": "레비아탄의 꼬리는 낮은 높이 또는 높은 높이로 휘두를 수 있으며, 회전하는 방향에 따라 높이가 달라진다.",
 
-		"enemyBios_corpseOfKingMinos_1": "한때 위대하고 사랑받는 음욕의 층의 왕이었던 미노스는 이제 비틀거리는 시체로 전락했다.",
+		"enemyBios_corpseOfKingMinos_1": "한때 위대하고 사랑받는 색욕의 층의 왕이었던 미노스는 이제 비틀거리는 시체로 전락했다.",
 		"enemyBios_corpseOfKingMinos_2": "그의 놀라운 의지력과 죽은 뒤에도 수천년이 지난 후에도 기억되는 삶의 정의로운 통치자로써의 지위로 인해, 그의 영혼의 발현은 지금까지 기록된 것들 중 가장 거대하다.",
 		"enemyBios_corpseOfKingMinos_3": "원래 영혼의 작은 흔적은 여전히 몸에서 감지되지만, 시체 자체는 그가 한때 명령했던 뱀과 같은 기생충에 의해 완전히 살아있고 통제되고 있다.",
-		"enemyBios_corpseOfKingMinos_4": "한때 음욕의 층의 부흥을 일으켰으나, 그의 시체는 이제 처벌할 죄인만을 찾고 있을 뿐이다.",
+		"enemyBios_corpseOfKingMinos_4": "한때 색욕의 층의 부흥을 일으켰으나, 그의 시체는 이제 처벌할 죄인만을 찾고 있을 뿐이다.",
 
 		"enemyBios_corpseOfKingMinos_strategy1": "거대한 크기 때문에 피를 얻는 것이 상당히 어려울 것 같아 보이지만, 그의 손들은 경기장 벽 양 옆을 붙잡고 있어 재급유를 위한 피를 얻기 위해 사용할 수 있다.",
 		"enemyBios_corpseOfKingMinos_strategy2": "이 정도 크기의 적에게는 어떤 무기라도 피해를 가할 수 있지만, 근접전과 발사체 패링은 강력한 피해를 입힐 수 있는 빠른 방법 중 하나다.",
@@ -1523,7 +1523,7 @@
 		"enemyBios_hideousMass_strategy4": "작살에 맞게 되면 작살을 맞추거나 꼬리에 피해를 줘서 신속하게 제거해야 한다.",
 
 		"enemyBios_gabriel_1": "가장 존경받고 두려워하는 대천사들 중 한 명인 가브리엘은 힘과 효율성을 통해 그의 명성을 얻었다.",
-		"enemyBios_gabriel_2": "주어진 임무에 관계없이, 가브리엘은 언제나 신속하고 단호하게 임무를 수행했고, 미노스 왕을 폐위시키고 음욕의 층의 르네상스를 끝장낸 후 지옥의 심판관이라는 칭호를 얻었다.",
+		"enemyBios_gabriel_2": "주어진 임무에 관계없이, 가브리엘은 언제나 신속하고 단호하게 임무를 수행했고, 미노스 왕을 폐위시키고 색욕의 층의 르네상스를 끝장낸 후 지옥의 심판관이라는 칭호를 얻었다.",
 		"enemyBios_gabriel_3": "특히 신앙의 교리를 엄격히 따르고 지키는 평의회에 비해, 평의회의 답변에도 불구하고 빛나는 성격과 활발한 성격 덕분에 천국의 천사들 사이에서 훨씬 더 인기가 많으며 사랑받고 있다.",
 
 		"enemyBios_gabriel_strategy1": "가브리엘은 움직임이 빠르고 치명적인 공격을 하지만, 가브리엘이 어떤 무기를 사용하는지 관찰함으로써 공격을 시작하기도 전에 정확히 예측할 수 있다.",
@@ -1538,40 +1538,40 @@
 		"enemyBios_gabrielSecond_strategy2": "비록 그의 칼 던지기 공격이 피하기 어려워 보이지만, 패링하게 되면 훌륭한 무기로 역이용할 수 있다.",
 		"enemyBios_gabrielSecond_strategy3": "감정에 사로잡힌 가브리엘은 때때로 상대방을 도발하기 위해 전투 중에 잠시 멈춰서 회복의 기회를 얻을 수 있다.",
 
-		"enemyBios_virtue_1": "The basis of a lesser angel's forming are quite similar to that of the Husks', wherein the physical manifestation of the soul is dependant on its value, though unlike for Husks, virtuousness also acts as a factor for angels.",
-		"enemyBios_virtue_2": "Lesser angels come from human souls, which are formed into abstract or animalistic shapes, making them distinct from the humanoid bodies of greater and supreme angels, who were created as such and are considered purer and placed higher on Heaven's societal hierarchy.",
-		"enemyBios_virtue_3": "Due to their past lives as humans, Virtues are often sent to complete tasks that greater angels deem below them or otherwise uninteresting, such as acting as wardens in Hell. There Virtues use heavenly fire to punish sinners who aren't acting out their punishment, in order to not waste Gabriel's time with minor offences and fluctuations.",
-		"enemyBios_virtue_4": "Virtues are normally known to have a multitude of eyes, though for unknown reasons, these eyes are hidden or removed for ones that become wardens in Hell. Some have speculated this may be related to why almost all husks lack eyes, with the only verified exception being the previous Judge of Hell, King Minos.",
-		"enemyBios_virtue_5": "Little is known about the specifics of angels, as Heaven is exclusionary and segregated due to wanting little to no direct contact with God's human experiment.",
+		"enemyBios_virtue_1": "하급 천사는 생성 과정이 영혼의 물리적 표현이 영혼의 가치에 달려있는 허스크와 매우 유사하지만, 허스크와는 달리 미덕 또한 천사의 요소로 작용한다.",
+		"enemyBios_virtue_2": "하급 천사들의 영혼은 추상적이거나 동물에 가까운 형태로 만들어지는데, 천국의 사회 계층에서 더 높은 위치에 있는 상급 및 최고 등급 천사들이 가진 인간 형태의 몸과는 구별된다. ",
+		"enemyBios_virtue_3": "인간 시절의 전생으로 인해 버추들은 상급 천사들의 잡다한 임무를 수행하거나 지옥의 감시자같이 흥미롭지 않은 일을 완수하기 위해 보내진다. 그렇게 파견된 버추는 가브리엘의 시간을 사소한 죄악과 변동 따위로 낭비하지 않기 위해 지옥의 벌을 행하지 않는 죄인들을 하늘의 불로 징벌할 것이다.",
+		"enemyBios_virtue_4": "버추는 일반적으로 많은 눈을 가지고 있다고 알려져 있으나, 알 수 없는 이유로 눈들은 지옥에서 감시자가 되는 사람들을 위해 숨겨지거나 제거된다. 일부는 이것이 왜 모든 허스크들이 눈이 없는지와 관련이 있을 것이라고 추측하고 있는데, 유일하게 검증된 예외는 이전의 지옥의 심판관인 미노스 왕이었다.",
+		"enemyBios_virtue_5": "이들은 신의 인간 실험에 거의 또는 전혀 접촉하지 않고 배제되고 분리되기 때문에 천사의 구체적인 내용에 대해서는 알려진 바가 거의 없다.",
 
-		"enemyBios_virtue_strategy1": "Verticality and cover give little safety against the Virtue's light beams, so constant horizontal movement is encouraged, though retracing one's steps can be dangerous as the beams linger.",
-		"enemyBios_virtue_strategy2": "If ignored for too long, Virtues will enrage, making their light beams predict their target's movement. Although it's easy to avoid their attacks with enough space, leaving them unattended can quickly turn the tables in their favor",
+		"enemyBios_virtue_strategy1": "수직 범위로 회피하거나 천장 밑에 숨는 것은 버추의 광선을 막지 못하므로 뒷걸음질이 비록 위험하더라도 수평 방향의 움직임으로 광선을 피하는 것이 좋다.",
+		"enemyBios_virtue_strategy2": "버추를 오랫동안 무시하면 격노 상태가 되어 대상의 움직임을 예측하여 공격하기 시작한다. 충분한 공간이 있다면 피하기엔 무리가 없으나, 방치하면 상황이 빠르게 역전될 수 있다.",
 
 		"enemyBios_somethingWicked_1": "이 생물에 대해 알려진 바가 거의 없다. ",
-		"enemyBios_somethingWicked_2": "일각에서는 허스크라고 추측하지만, 이 생물은 찾기가 어렵고 극도로 적대적인 성질 때문에 그 누구도 이 가설을 확인할 수 없었다.",
+		"enemyBios_somethingWicked_2": "일각에서는 허스크라고 추측하지만, 이 생물은 찾기가 어렵고 극도로 적대적인 성질 때문에 그 누구도 이 가설을 증명할 수 없었다.",
 		"enemyBios_somethingWicked_3": "지금까지 단 한 개체만이 관찰되었으며, 그것이 자리잡고 있는 지옥의 입 부분을 벗어나는 것은 단 한번도 목격되지 않았다.",
 
 		"enemyBios_somethingWicked_strategy1": "어떠한 공격이라도 받게 되면 잠시 다른 곳으로 돌려보낼 수 있지만, 죽일 수 있는 방법은 알려지지 않았다.",
 		"enemyBios_somethingWicked_strategy2": "공격 방식은 신체적 접촉 외에는 알려지지 않았으나, 어떠한 보호도 희생자들을 구하지 못했다.",
 
-		"enemyBios_fleshPrison_1": "Flesh Prison is an uncategorized organism created by the angels to imprison Minos' soul after he was slain by Gabriel.",
-		"enemyBios_fleshPrison_2": "Although it is similar to Husks, it does not possess a soul or any amount of thought. All of its actions are purely predetermined reactions to stimulus, making it more of an organic machine than a living being.",
-		"enemyBios_fleshPrison_3": "In order to make it as impenetrable as possible, it was given both divine power and hell energy, which makes its attacks erratic and chaotic.",
+		"enemyBios_fleshPrison_1": "살점 감옥은 미노스 왕이 가브리엘에게 살해된 후 그의 영혼을 가두기 위해 천사들의 손으로 만들어진 미분류 유기체이다.",
+		"enemyBios_fleshPrison_2": "그것은 허스크와 유사하지만, 영혼을 가지고 있지 않으며 스스로 생각하지 못한다. 살점 감옥의 모든 행동은 순전히 자극에 대한 미리 결정된 반응으로, 살아있는 존재라기보다는 유기적인 기계라고 부르는 것이 옳다.",
+		"enemyBios_fleshPrison_3": "가능한 한 뚫을 수 없게 만들기 위해, 살점 감옥에는 신의 힘과 지옥 에너지가 모두 부여되어 있어 불규칙하고 혼란스러운 공격 방식을 가진다.",
 
-		"enemyBios_fleshPrison_strategy1": "Flesh Prison will use its spawn to heal its own wounds. The more spawn are left, the more likely it is for Flesh Prison to attempt to heal its wounds, so it's advisable to avoid damaging it until the spawn are dead.",
-		"enemyBios_fleshPrison_strategy2": "The long window of a delayed split shot timing makes for a great way to clear out multiple spawn at once. Throwing multiple coins high into the air and waiting for them to reach the delayed split shot state before shooting them is a strong opening move after Flesh Prison creates its spawn.",
+		"enemyBios_fleshPrison_strategy1": "살점 감옥은 자신의 상처를 치료하기 위해 자신의 소환수들을 사용하려 할 것이다. 더 많은 소환수들이 남아있을수록 살점 감옥이 상처를 치료하려 할 가능성이 높기 때문에 소환수들이 다 죽을 때까지 피해를 입지 않는 것이 좋다.",
+		"enemyBios_fleshPrison_strategy2": "긴 창은 느린 광역 공격이 여러 마리의 소환수들을 한 번에 제거할 수 있는 좋은 상황을 만들어준다. 코인 여러 개를 공중으로 높이 던져 느린 광역 공격 상태에 도달한 뒤 공격하는 것은 살점 감옥이 소환수를 만들고 난 후에 하는 것이 좋다.",
 
-		"enemyBios_minosPrime_1": "A prime soul is an incredibly rare occurrence in which a soul amasses so much power that it no longer requires a Husk as a vessel to manifest physically.",
-		"enemyBios_minosPrime_2": "As manifestations of pure will, prime souls are incredibly powerful, to the point that even the prideful angels see them as a threat and will use any means necessary to stop them from forming.",
-		"enemyBios_minosPrime_3": "King Minos felt that eternal suffering was an unfair and unreasonable punishment for those whose only sin was loving another. After the Disappearance of God, as angels were lost and Heaven was in chaos, Minos began his efforts to reform the Lust layer.",
-		"enemyBios_minosPrime_4": "The Lust renaissance was prosperous, as King Minos guided its inhabitants to come together and build a new civilization. The combined efforts of the countless who had been damned to the second layer bore great results as the grand city of Lust grew and grew.",
-		"enemyBios_minosPrime_5": "However, after the Council took control of Heaven and brought stability to it through their iron fist rule, they saw that Minos had gone against God's will by freeing sinners from the punishment that God had designed for them.",
-		"enemyBios_minosPrime_6": "Gabriel, the brightest of the angels, was sent to kill Minos. The king, rather than fight back, tried to reason with him, but Gabriel mercilessly struck him down without listening.",
-		"enemyBios_minosPrime_7": "As Minos' will was strong enough to attempt to stand up to Heaven's rule, the angels chose to imprison his soul in an attempt to stop it from forming into a prime soul and appointed Gabriel as the new Judge of Hell.",
-		"enemyBios_minosPrime_8": "From the prison inside his own body, Minos helplessly watched as his soulless corpse, now controlled by parasites, tore apart everything he had worked so hard to build, cursing his own weakness for failing to protect his people, vowing to take revenge...",
+		"enemyBios_minosPrime_1": "프라임 소울은 영혼이 너무 많은 힘을 모아서 더 이상 껍데기를 육체성을 드러내는 그릇으로 필요로 하지 않는다.",
+		"enemyBios_minosPrime_2": "순수한 의지 그 자체의 표현으로써, 프라임 소울은 극도로 강력하며 심지어 교만한 천사들조차 프라임 소울이 형성되는 것을 막기 위해 가능한 모든 수단을 동원할 것이다.",
+		"enemyBios_minosPrime_3": "미노스 왕은 영원한 고통이 다른 사람을 사랑하는 죄밖에 없는 사람들에게 불공평하고 불합리한 처벌이라고 느꼈다. 신이 사라진 후 천사들이 무너지고 천국이 혼란에 빠지자 미노스는 색욕의 층을 개혁하기 위한 노력을 시작했다.",
+		"enemyBios_minosPrime_4": "색욕의 층의 르네상스는 미노스 왕이 주민들과 함께 모여 새로운 문명을 건설하도록 인도함으로써 번영할 수 있었다. 두 번째 층까지 저주받은 수많은 영혼들과의 노력이 합쳐진 결과물은 거대한 도시인 색욕의 층이 성장하고 또 성장함에 따라 큰 결과를 낳을 수 있었다.",
+		"enemyBios_minosPrime_5": "그러나 평의회가 그들의 철권통치로 천국을 장악하고 안정의 시기를 가져온 후, 평의회의 천사들은 그제서야 미노스 왕이 신이 죄인들을 위해 계획한 벌에서 죄인들을 해방시킴으로써 창조주의 뜻을 거스른 것을 보게 된다.",
+		"enemyBios_minosPrime_6": "그렇게 천사들 중에서 가장 빛난 대천사 가브리엘은 미노스 왕을 시해하기 위해 보내졌다. 미노스 왕은 맞서 싸우기 커녕 오히려 그를 설득하려 시도했으나, 가브리엘은 듣지도 않고 미노스 왕을 무자비하게 내려쳤다.",
+		"enemyBios_minosPrime_7": "그러나 미노스 왕의 의지가 천국의 지배에 맞설 정도로 강했기에, 천사들은 그의 영혼이 프라임 소울로 형성되는 것을 막기 위해 그의 영혼을 가두기로 결정했고, 가브리엘을 새로운 지옥의 심판관으로 임명한다.",
+		"enemyBios_minosPrime_8": "미노스 왕은 자신의 시체 안의 감옥에서 이제는 기생충에 의해 통제된 자신의 시체가 그동안 피땀흘려 쌓아온 모든 것을 찢어버리는 것을 무기력하게 지켜보았고, 자신의 백성들을 지키지 못한 자신의 나약함을 저주하며 오랜 시간 동안 복수를 다짐해 왔다...",
 
-		"enemyBios_minosPrime_strategy1": "It's rare for Minos Prime to give a window of opportunity to heal, so it's vital to learn what attacks leave him momentarily vulnerable and how to dodge them in a way that gives an advantageous position during those moments.",
-		"enemyBios_minosPrime_strategy2": "His snake projectiles can be parried using the Feedbacker for a full heal, even if the projectile doesn't hit Minos Prime."
+		"enemyBios_minosPrime_strategy1": "미노스 프라임의 피로 회복의 시간을 얻을 수 있는 타이밍이 매우 드물기 때문에 어떤 공격 패턴이 그를 순간적으로 취약하게 만들고 그 짧은 순간을 이용해 자신에 유리한 위치를 선점하는 방식으로 공격을 피하는 것이 가장 중요하다.",
+		"enemyBios_minosPrime_strategy2": "미노스 프라임이 사용하는 뱀 형상의 투사체는 미노스 프라임에게 적중시키지 못하더라도 피드배커를 사용해 패링하여 체력을 회복하는 데 사용할 수 있다."
 	},
 
 	"tutorial": {
@@ -1664,9 +1664,9 @@
 		"act1_limboFirst_nailgun2": "을 눌러 못을 끌어들이는 자석을 발사하세요",
 		"act1_limboFirst_nailgun3": "주위에 부착해 함정을 만들 수 있습니다.",
 
-		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 공격을 패링이 불가능함을 나타냅니다.",
+		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
 		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위해 해골이 <color=red>하나만</color> <color=cyan>필요합니다</color>.",
-		"act1_limboThird_splitDoor2": "고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
+		"act1_limboThird_splitDoor2": "사서 고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
 		"act1_limboFourth_hank1": "아무런 일도 일어나지 않았지만, 당신은 묘한 만족감을 느낀다.",
@@ -1680,7 +1680,7 @@
 		"act1_lustFirst_knuckleblaster2": "을 눌러 적을 밀쳐내는 충격파를 발사하세요.",
 		"act1_lustFirst_dashjump": "대쉬 점프: 대쉬 중 점프해서 속도를 유지하세요.",
 
-		"act1_lustSecond_feedbacker1": "<color=cyan>피드배커</color>(<color=cyan>파란 팔</color>)만이 투사체를 <color=orange>패링할</color> 수 있습니다.",
+		"act1_lustSecond_feedbacker1": "<color=cyan>피드배커</color>(<color=cyan>파란색 팔</color>)만이 적의 투사체를 <color=orange>패링할</color> 수 있습니다.",
 		"act1_lustSecond_feedbacker2": "팔을 바꾸려면: ",
 		"act1_lustSecond_railcannon": "<color=cyan>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
 
@@ -1725,7 +1725,7 @@
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
-		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
+		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 형제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
 
@@ -1910,8 +1910,8 @@
 		"subtitles_gabrielSecondDefeated5": "이건 내 피인건가?",
 		"subtitles_gabrielSecondDefeated6": "이런 꼴을 당해보니 처음으로...",
 		"subtitles_gabrielSecondDefeated7": "마음이... 편안해져...?",
-		"subtitles_gabrielSecondDefeated8": "조-조금 생각할 시간이 필요하다...",
-		"subtitles_gabrielSecondDefeated9": "우리는 언젠가 다시 만날 거다. 기계여.",
+		"subtitles_gabrielSecondDefeated8": "나, 난 조금 생각할 시간이 필요하다...",
+		"subtitles_gabrielSecondDefeated9": "우리는 언젠가 다시 만날 것이다. 기계여.",
 		"subtitles_gabrielSecondDefeated10": "너의 고통은 많고...",
 		"subtitles_gabrielSecondDefeated11": "...너의 날은 적기를."
 	},
@@ -1980,7 +1980,7 @@
 		"endstats_noDamage": "피해 입지 않음",
 
 		"weapons_unavailable": "사용 불가",
-		"weapons_alreadyBought": "이미 구입함",
+		"weapons_alreadyBought": "구매 완료",
 		"weapons_underConstruction": "개발 중",
 
 		"pressToSkip": "스킵하려면 <color=orange>ESC</color> 를 누르세요",
