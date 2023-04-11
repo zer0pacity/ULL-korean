@@ -53,7 +53,7 @@
 	"style": {
 		"style_airslam": "공중 내려찍기",
 		"style_airshot": "에어샷",
-		"style_attraptor": "자기공명 함정",
+		"style_attraptor": "자기공명의 함정",
 		"style_arsenal": "무기콤보",
 		"style_bigheadshot": "빅 헤드샷",
 		"style_bigkill": "빅 킬",
@@ -481,19 +481,19 @@
 		"visualnovel_recklessnessSecond1": "하지만 그래, 네 말이 맞긴 해.",
 		"visualnovel_recklessnessSecond2": "난 너나 다른 사람이 날 보고 어떻게 생각하든 신경 안 써, 너 기분 좋으라고 상냥하게 대해주고 싶지는 않아.",
 
-		"visualnovel_recklessnessPrompt1": "Why not? If we're stuck in here together anyway, what's the point in making it worse for both of us?",
-		"visualnovel_recklessnessPrompt2": "I find that hard to believe considering how heated up you get from practically anything I say.",
+		"visualnovel_recklessnessPrompt1": "어째서? 우리가 여기에 같이 발이 묶여 있다면, 우리 모두에게 상황을 안 좋게 만들 이유가 어디 있어?",
+		"visualnovel_recklessnessPrompt2": "내가 뭘 말하든 네가 열폭하는 걸 생각하면 그건 틀린 말인 것 같아.",
 
-		"visualnovel_recklessnessResponseFirst1": "What's the point of making it better?",
-		"visualnovel_recklessnessResponseFirst2": "What's the point of even bothering to care?",
-		"visualnovel_recklessnessResponseFirst3": "Hell, what's the point of anything at all?",
-		"visualnovel_recklessnessResponseFirst4": "Nothing.",
-		"visualnovel_recklessnessResponseFirst5": "Absolutely nothing.",
+		"visualnovel_recklessnessResponseFirst1": "상황을 좋게 만드는 게 무슨 의미가 있어?",
+		"visualnovel_recklessnessResponseFirst2": "그런 거에까지 신경쓰는 것에 무슨 의미가 있어?",
+		"visualnovel_recklessnessResponseFirst3": "젠장, 무슨 일이든지 그걸 하는 의미가 있어?",
+		"visualnovel_recklessnessResponseFirst4": "없어.",
+		"visualnovel_recklessnessResponseFirst5": "완벽하게 없어.",
 
-		"visualnovel_recklessnessResponseSecond1": "Don't flatter yourself.",
-		"visualnovel_recklessnessResponseSecond2": "Blowing off steam is just how I cope.",
+		"visualnovel_recklessnessResponseSecond1": "잘난 척하지 마.",
+		"visualnovel_recklessnessResponseSecond2": "이렇게 화풀이하는 게 내가 이겨내는 방법이야.",
 
-		"visualnovel_recklessnessPrompt3": "\"뭘 극복하라고?\"",
+		"visualnovel_recklessnessPrompt3": "\"뭘 이겨내는데?\"",
 
 		"visualnovel_recklessnessResponseThird": "모든 걸.",
 
@@ -1284,7 +1284,7 @@
 		"cheats_fullBright": "최대 밝기",
 		"cheats_noclip": "노클립",
 		"cheats_flight": "비행",
-		"cheats_infiniteWallJumps": "무한 벽점프",
+		"cheats_infiniteWallJumps": "무한 벽 점프",
 		"cheats_noWeaponCooldown": "무기 쿨다운 없음",
 		"cheats_infinitePowerUps": "무한 파워업",
 		"cheats_blindEnemies": "적 전체 실명",
@@ -1377,7 +1377,7 @@
 		"enemyBios_ferryman_1": "뱃사공은 강력한 신체와 훈련된 기술, 그리고 맹목적인 믿음으로 지옥의 층들 사이에서 영혼의 운반자가 될 수 있는 기회를 가진 보기 드문 허스크들이다.",
 		"enemyBios_ferryman_2": "뱃사공들은 각각 신의 명령에 대한 헌신의 상징으로 천국으로부터 거룩한 천을 수여받았다. 그들은 자신들이 천사가 되는 것을 막는 전생의 죄를 상기시키기 위해 경멸하게 된 인간으로써의 모습을 감추기 위해 몸에 항상 걸치고 있다.",
 		"enemyBios_ferryman_3": "천에서 뿜어져 나오는 거룩한 힘에 의해 뱃사공의 해골 신체는 천천히 밝고 빛이 나게 되었으며 뱃사공의 두개골은 허스크들이 고통의 장소에서 빠져나오는 것을 막는 문을 여는, 일종의 열쇠 역할을 할 수 있는 충분한 잠재 에너지를 보유하고 있다.",
-		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 계승받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 승자에게 지옥의 층을 가로지르는 통로를 부여하는 데 사용된다.",
+		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 계승하기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 지옥의 여러 층을 오갈 수 있게 해 준다.",
 		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 자신의 나룻배를 개선하기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 수준에 이르렀다.",
 		"enemyBios_ferryman_6": "인류의 멸망으로 영혼의 유입이 끊기게 된 뱃사공들은 이제 목적 없이 떠돌아다니며 그들의 노력을 눈여겨보는 유일한 천사가 가브리엘뿐임에도 불구하고 천국으로의 통행을 허락해 주길 기다리고 있다.",
 
@@ -1598,7 +1598,7 @@
 		"tutorial_introObjective2": "무기 탐색",
 		"tutorial_introRed1": "인류는 멸종했다.",
 		"tutorial_introRed2": "피는 연료다.",
-		"tutorial_introRed3": "지옥은 연료로 가득하다.",
+		"tutorial_introRed3": "지옥은 가득 찼다.",
 
 		"tutorial_audioCalibrationTitle": "수동 사운드 보정",
 		"tutorial_audioCalibrationWarning1": "마스터 볼륨이 꺼진 상태입니다.",
@@ -1725,7 +1725,7 @@
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
-		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 형제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
+		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 조상들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
 
