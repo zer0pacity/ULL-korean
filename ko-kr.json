@@ -53,7 +53,7 @@
 	"style": {
 		"style_airslam": "공중 내려찍기",
 		"style_airshot": "에어샷",
-		"style_attraptor": "자기공명의 함정",
+		"style_attraptor": "자기공명 함정",
 		"style_arsenal": "무기콤보",
 		"style_bigheadshot": "빅 헤드샷",
 		"style_bigkill": "빅 킬",
@@ -351,7 +351,7 @@
 		"difficulty_hard":"전문가",
 		"difficulty_harmless": "무해함",
 		"difficulty_lenient": "온순함",
-		"difficulty_standard": "보통",
+		"difficulty_standard": "보통 <color=orange>*</color>",
 		"difficulty_violent": "폭력적",
 		"difficulty_brutal": "잔인함",
 		"difficulty_umd": "ULTRAKILL 머스트 다이",
@@ -1359,7 +1359,7 @@
 		"enemyBios_stray_strategy1": "대부분의 무기들은 스트레이를 상대하는 데 효과적지만, 리볼버의 헤드샷은 스트레이를 빠르고 확실하게 제거할 수 있는 방법 중 하나다.",
 		"enemyBios_stray_strategy2": "스트레이의 정적인 특성과 느린 공격 속도 때문에, 발사체를 패링하기에 좋은 표적으로 삼을 수 있다.",
 
-		"enemyBios_schism_1": "두 영혼이 한 공간에서 발현하려다가 두 육체가 융합되어버린 결과물이다. ",
+		"enemyBios_schism_1": "두 영혼이 한 공간에서 발현하려다가 두 육체가 융합되어버린 결과물이다.",
 		"enemyBios_schism_2": "체중이 두 배로 증가했기 때문에 그들은 공격을 받아도 빠르게 회복되지만 운동 제어력이 매우 떨어지기 때문에 일정한 정확도를 유지할 수 없으며, 적을 향해 투사체를 난사하기만 하는 공격에 의존한다.",
 
 		"enemyBios_schism_strategy1": "피어서 리볼버의 충전 사격을 헤드샷으로 맞추면 스키즘을 빠르게 처치할 수 있지만, 그들의 교체된 머리는 경험이 적은 사람들에게 조준을 어렵게 만든다.",
@@ -1377,7 +1377,7 @@
 		"enemyBios_ferryman_1": "뱃사공은 강력한 신체와 훈련된 기술, 그리고 맹목적인 믿음으로 지옥의 층들 사이에서 영혼의 운반자가 될 수 있는 기회를 가진 보기 드문 허스크들이다.",
 		"enemyBios_ferryman_2": "뱃사공들은 각각 신의 명령에 대한 헌신의 상징으로 천국으로부터 거룩한 천을 수여받았다. 그들은 자신들이 천사가 되는 것을 막는 전생의 죄를 상기시키기 위해 경멸하게 된 인간으로써의 모습을 감추기 위해 몸에 항상 걸치고 있다.",
 		"enemyBios_ferryman_3": "천에서 뿜어져 나오는 거룩한 힘에 의해 뱃사공의 해골 신체는 천천히 밝고 빛이 나게 되었으며 뱃사공의 두개골은 허스크들이 고통의 장소에서 빠져나오는 것을 막는 문을 여는, 일종의 열쇠 역할을 할 수 있는 충분한 잠재 에너지를 보유하고 있다.",
-		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 물려받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 승자에게 지옥의 층을 가로지르는 통로를 부여하는 데 사용된다.",
+		"enemyBios_ferryman_4": "영혼을 실어나르는 나룻배들은 각각 한 명의 뱃사공만이 다룰 수 있기 때문에, 새로운 뱃사공이 나타나면 그 자리를 차지하고 거룩한 천을 계승받기 위해 다른 뱃사공과 죽을 때까지 전투를 벌인다. 패자로부터 얻는 전리품인 뱃사공의 두개골은 저주받은 자들의 영혼을 목적지까지 나르기 위해 승자에게 지옥의 층을 가로지르는 통로를 부여하는 데 사용된다.",
 		"enemyBios_ferryman_5": "뱃사공들은 과거의 삶에서 얻은 지식들을 자신의 나룻배를 개선하기 위해 종종 사용하며 지금의 뱃사공들이 무기로만 사용하는 노의 필요성을 극복하는 수준에 이르렀다.",
 		"enemyBios_ferryman_6": "인류의 멸망으로 영혼의 유입이 끊기게 된 뱃사공들은 이제 목적 없이 떠돌아다니며 그들의 노력을 눈여겨보는 유일한 천사가 가브리엘뿐임에도 불구하고 천국으로의 통행을 허락해 주길 기다리고 있다.",
 
@@ -1511,11 +1511,11 @@
 		"enemyBios_cerberus_2": "에너지 구체를 유지하는 것은 상당한 집중력과 노력이 요구된다는 사실에도 불구하고, 케르베로스들은 침입자들을 겁주기 위한 힘의 과시로 언제나 그것을 손에 쥐고 있는 것으로 보인다.",
 
 		"enemyBios_cerberus_strategy1": "케르베로스는 깨어날 때까지 완전히 정지해 있다가 매우 느리게 움직이기 때문에 거리를 조절하기 쉽다.",
-		"enemyBios_cerberus_strategy2": "케르베로스는 에너지 구체를 투척함으로써 원거리 전투에 매우 능숙하지만, 자가 피해를 받지 않기 위해 표적이 가까이 머물러 있는 동안은 구체를 던지지 않으려 할 것이다. 이것으로 케르베로스의 공격 패턴을 조절하는 데 사용할 수 있지만, 한 번 던지기 시작하면 멈출 수 없다.",
+		"enemyBios_cerberus_strategy2": "케르베로스는 에너지 구체를 투척하는 원거리 전투에 매우 능숙하지만, 자가 피해를 받지 않기 위해 표적이 가까이 머물러 있는 동안은 구체를 던지지 않으려 할 것이다. 이것으로 케르베로스의 공격 패턴을 조절하는 데 사용할 수 있지만, 한 번 던지기 시작하면 멈출 수 없다.",
 		"enemyBios_cerberus_strategy3": "에너지 구체는 극도로 집중되어 있기 때문에, 던져진 구체는 어떠한 충격을 받아도 폭발할 수 있다. 때문에 바닥이나 벽과 같은 표면에 가까이 붙어있는 것은 원거리 공격을 피하기 더 어렵게 만들 수 있다.",
 
-		"enemyBios_hideousMass_1": "히디어스 매스는 하나의 껍질에 과도한 양의 지옥 덩어리를 들이부은 탓에 껍질 내부에서 넘쳐나고 이음새가 터져 나올 때 드물게 생기는 악마 종류이다.",
-		"enemyBios_hideousMass_2": "부러진 이음새들은 외부를 구부릴 필요 없이 움직일 수 있게 해 주기 때문에, 돌 껍질은 일반적인 악마의 껍데기보다 더욱 단단해져서 현재까지 알려진 모든 공격에 전혀 영향을 받지 않을 정도이다.",
+		"enemyBios_hideousMass_1": "히디어스 매스는 하나의 껍데기에 과도한 양의 지옥 덩어리를 들이부은 탓에 껍데기 내부에서 넘쳐나고 이음새가 터져 나올 때 드물게 생기는 악마 종류이다.",
+		"enemyBios_hideousMass_2": "부러진 이음새들은 외부를 구부릴 필요 없이 움직일 수 있게 해 주기 때문에, 돌 껍데기는 일반적인 악마의 껍데기보다 더욱 단단해져서 현재까지 알려진 모든 공격에 전혀 영향을 받지 않을 정도이다.",
 
 		"enemyBios_hideousMass_strategy1": "히디어스 매스의 돌로 된 껍데기는 뚫는 것이 불가능하지만, 배와 꼬리 부분은 여전히 노출되어 있어 취약하다.",
 		"enemyBios_hideousMass_strategy2": "히디어스 매스가 일어서 있는 동안, 근거리에서 빠른 공격을 쏟아붇는 것이 피해를 줄 수 있는 가장 효과적인 방법이지만, 공격 패턴을 변경시킬 가능성이 크기 때문에 빠르고 결정적인 판단을 내리는 것이 핵심이다.",
@@ -1523,7 +1523,7 @@
 		"enemyBios_hideousMass_strategy4": "작살에 맞게 되면 작살을 맞추거나 꼬리에 피해를 줘서 신속하게 제거해야 한다.",
 
 		"enemyBios_gabriel_1": "가장 존경받고 두려움받는 대천사들 중 한 명인 가브리엘은 힘과 효율성을 통해 그의 명성을 얻었다.",
-		"enemyBios_gabriel_2": "주어진 임무에 관계없이, 가브리엘은 언제나 신속하고 단호하게 임무를 수행했고, 미노스 왕을 폐위시키고 색욕의 층의 르네상스를 끝장낸 후 지옥의 심판관이라는 칭호를 얻었다.",
+		"enemyBios_gabriel_2": "주어진 임무에 관계없이, 가브리엘은 언제나 신속하고 단호하게 임무를 수행했고, 미노스 왕을 폐위시키고 색욕의 층의 르네상스를 끝장낸 후 지옥의 심판관으로 새로이 임명되었다.",
 		"enemyBios_gabriel_3": "특히 신앙의 교리를 엄격히 따르고 지키는 평의회에 비해, 평의회의 답변에도 불구하고 빛나는 성격과 활발한 성격 덕분에 천국의 천사들 사이에서 훨씬 더 인기가 많으며 사랑받고 있다.",
 
 		"enemyBios_gabriel_strategy1": "가브리엘은 움직임이 빠르고 치명적인 공격을 하지만, 가브리엘이 어떤 무기를 사용하는지 관찰함으로써 공격을 시작하기도 전에 정확히 예측할 수 있다.",
@@ -1551,7 +1551,7 @@
 		"enemyBios_somethingWicked_2": "일각에서는 허스크라고 추측하지만, 이 생물은 찾기가 어렵고 극도로 적대적인 성질 때문에 그 누구도 이 가설을 입증할 수 없었다.",
 		"enemyBios_somethingWicked_3": "지금까지 단 한 개체만이 관찰되었으며, 그것이 자리잡고 있는 지옥의 입 부분을 벗어나는 것은 단 한번도 목격되지 않았다.",
 
-		"enemyBios_somethingWicked_strategy1": "어떠한 공격이라도 받게 되면 잠시 다른 곳으로 돌려보낼 수 있지만, 죽일 수 있는 방법은 알려지지 않았다.",
+		"enemyBios_somethingWicked_strategy1": "사악한 것은 어떠한 공격이라도 받으면 잠시 다른 곳으로 돌려보낼 수 있지만, 죽일 수 있는 방법은 알려지지 않았다.",
 		"enemyBios_somethingWicked_strategy2": "공격 방식은 신체적 접촉 외에는 알려지지 않았으나, 어떠한 보호도 희생자들을 구하지 못했다.",
 
 		"enemyBios_fleshPrison_1": "살점 감옥은 미노스 왕이 가브리엘에게 살해된 후 그의 영혼을 가두기 위해 천사들의 손으로 만들어진 미분류 유기체이다.",
@@ -1665,7 +1665,7 @@
 		"act1_limboFirst_nailgun3": "주위에 부착해 함정을 만들 수 있습니다.",
 
 		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
-		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위해 해골이 <color=red>하나만</color> <color=cyan>필요합니다</color>.",
+		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위해 해골이 <color=red>하나만</color> 있어도 <color=cyan>작동합니다</color>.",
 		"act1_limboThird_splitDoor2": "사서 고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
@@ -1725,7 +1725,7 @@
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
-		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
+		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 형제들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
 
@@ -1739,7 +1739,7 @@
 		"primeSanctum_first_secretText5": "[참고: 조까 톰 시팔롬아 난 이 ㅈ같은 노래에 질렸고 난 이걸 매일 아침 그 쓰레기같은 인터폰으로 들어야 된다고]",
 		"primeSanctum_first_secretText6": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
 		"primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=red>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
-		"primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라고 농담을 했지만 고장난 터미널을 수리한 후 정비사만 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장하지만, 이는 검증할 수가 없다.",
+		"primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
 		"primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=red>링크 삭제됨</color>] 및 [<color=red>링크 삭제됨</color>]를 참조하십시오."
 	},
 	"secretLevels": {
@@ -1811,7 +1811,7 @@
 		"subtitles_mandalore_taunt1": "내가 널 씨팔 독살할 거다!",
 		"subtitles_mandalore_taunt2": "나 저거 총으로 쏠 거야!",
 		"subtitles_mandalore_taunt3": "네가 무엇을 대면할지 너는 상상도 못 할 거다!",
-		"subtitles_mandalore_taunt4": "기다려!",
+		"subtitles_mandalore_taunt4": "으으...가만히 있어!",
 		"subtitles_mandalore_taunt5": "우리 왜 과거에 있는 거지?",
 
 		"subtitles_mandalore_attack1": "자동 사격.",
@@ -1820,7 +1820,7 @@
 		"subtitles_mandalore_phaseChangeFirst1": "드루이드의 마법으로, 내 속도를 올린다!",
 		"subtitles_mandalore_phaseChangeFirst2": "그냥 시발 저거 좀 때려!",
 		"subtitles_mandalore_phaseChangeSecond1": "내 최고 속도를 느껴 봐라!",
-		"subtitles_mandalore_phaseChangeSecond2": "속도 좀 줄여!",
+		"subtitles_mandalore_phaseChangeSecond2": "콜록 콜록...속도 좀 줄여!",
 		"subtitles_mandalore_phaseChangeThird1": "소금을 써!",
 		"subtitles_mandalore_phaseChangeThird2": "찾고 있어!",
 
@@ -1866,13 +1866,13 @@
 		"subtitles_gabrielSecondIntro1": "림보.",
 		"subtitles_gabrielSecondIntro2": "색욕.",
 		"subtitles_gabrielSecondIntro3": "모두 사라졌다...",
-		"subtitles_gabrielSecondIntro4": "그리고 식탐도 마찬가지가 되겠지.",
+		"subtitles_gabrielSecondIntro4": "그리고 식탐의 층도 마찬가지가 되겠지.",
 		"subtitles_gabrielSecondIntro5": "네 족속들이 알고 있는 것이라곤 굶주림 뿐이며",
 		"subtitles_gabrielSecondIntro6": "위쪽 계층의 모든 생명을 취했는데도,",
 		"subtitles_gabrielSecondIntro7": "아직 너희들은 만족하지 못하는구나...",
 		"subtitles_gabrielSecondIntro8": "...네놈도 그렇고.",
 		"subtitles_gabrielSecondIntro9": "네놈은 나에게서 모든 것을 가져갔다, 기계여.",
-		"subtitles_gabrielSecondIntro10": "그리고, 이제 남은 것은,",
+		"subtitles_gabrielSecondIntro10": "그리고 내게 남은 것은,",
 		"subtitles_gabrielSecondIntro11": "완벽한...",
 		"subtitles_gabrielSecondIntro12": "...증오뿐!",
 
@@ -1917,7 +1917,7 @@
 	},
 
 	"misc": {
-		"hud_noArm1": "<color=red>팔이 없으면 때릴 수도 없어, 븅신아.</color>",
+		"hud_noArm1": "<color=red>팔이 없으면 때릴 수도 없어, 멍청아.</color>",
 		"hud_noArm2": "팔은 상점에서 다시 장착할 수 있습니다.",
 		"hud_majorAssists": "<color=blue>주요 어시스트가 활성화되었습니다.</color>",
 		"hud_overhealOrb1": "<color=red>붉은</color> 소울 오브는 200 HP를 줍니다.",
