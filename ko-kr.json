@@ -53,7 +53,7 @@
 	"style": {
 		"style_airslam": "공중 내려찍기",
 		"style_airshot": "에어샷",
-		"style_attraptor": "자기공명의 함정",
+		"style_attraptor": "자기-공명의 함정",
 		"style_arsenal": "무기콤보",
 		"style_bigheadshot": "빅 헤드샷",
 		"style_bigkill": "빅 킬",
@@ -80,7 +80,7 @@
 		"style_homerun": "홈런",
 		"style_instakill": "즉사",
 		"style_interruption": "방해",
-		"style_kill": "사살",
+		"style_kill": "처치",
 		"style_limbshot": "팔다리 타격",
 		"style_mauriced": "멀리셔스에 깔림",
 		"style_multikill": "멀티 킬",
@@ -134,8 +134,8 @@
 		"cybergrind_time": "시간",
 
 		"cybergrind_cgTitle": "사이버 그라인드",
-		"cybergrind_previousRun": "현재",
-		"cybergrind_bestRun": "최고",
+		"cybergrind_previousRun": "현재 기록",
+		"cybergrind_bestRun": "최고 기록",
 
 		"cybergrind_total": "총합",
 
