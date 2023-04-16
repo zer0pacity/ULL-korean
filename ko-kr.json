@@ -1718,9 +1718,9 @@
 
 		"act2_wrathSecond_idol": "<color=cyan>우상</color>은 오직 <color=orange>근접 공격</color>으로만 부술 수 있습니다",
 		"act2_wrathSecond_neptune": "잘 들어라! 넵튠이 그들을 쳐 죽였다.",
-		"act2_wrathSecond_jakito1": "나는 JAKITO. 제물을 가져와라. 내가 탈출할 수 있게 할 것이다.",
-		"act2_wrathSecond_jakito2": "고맙다. 이제 나는 이 세상에 파멸을 가져올지어다.",
-		"act2_wrathSecond_jakito3": "안 돼. 무고한 생명이어야 한다.",
+		"act2_wrathSecond_jakito1": "<color=red>나는 JAKITO다. 제물을 가져와라. 내가 탈출할 수 있게 할 것이다.</color>",
+		"act2_wrathSecond_jakito2": "<color=red>고맙다. 이제 나는 이 세상에 파멸을 가져올지어다.</color>",
+		"act2_wrathSecond_jakito3": "<color=red>안 돼. 무고한 생명이어야 한다.</color>",
 
 		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
 		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
