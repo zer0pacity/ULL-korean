@@ -84,7 +84,7 @@
 		"style_limbshot": "팔다리 타격",
 		"style_mauriced": "멀리셔스에 깔림",
 		"style_multikill": "멀티 킬",
-		"style_nailbombed": "못을 피하지 못함",
+		"style_nailbombed": "못을 못 피함",
 		"style_parry": "패링",
 		"style_projectileboost": "투사체 가속",
 		"style_quickdraw": "퀵드로우",
@@ -292,8 +292,8 @@
 
 		"act2_intermission_fourth1": "\"하...하지만 사람들은 우리의 편이다!",
 		"act2_intermission_fourth2": "천국의 국민들은 우리가 정의의 편이라는 걸 알고 있다고!\"",
-		"act2_intermission_fourth3": "\"대중은 그저 두려움과 절박함 때문에 너희를 따르는 것 뿐이다.",
-		"act2_intermission_fourth4": "내가 그들에게 더 이상 두려울 것이 없다는 걸 보여줄 것이다. 이 날카로운 칼날을 막을 어떤 종도, 출신도, 기득권자도, 거룩한 신분도 없다는 것을.",
+		"act2_intermission_fourth3": "\"대중들은 그저 두려움과 절박함 때문에 너희를 따르는 것 뿐이다.",
+		"act2_intermission_fourth4": "내가 그들에게 더 이상 두려울 것이 없다는 걸 보여줄 것이다... 이 날카로운 칼날을 막을 어떤 종도, 출신도, 기득권자도, 거룩한 신분도 없다는 것을.",
 
 		"act2_intermission_fourth5": "우리는 모두 같은 피가 흐르고 있고, 너희의 왕좌는 네놈들을 모두 약하고 무력하게 만들었지.\"",
 
@@ -964,10 +964,10 @@
 		"leveltips_preludeSecond2": "헤드샷은 2배의 피해를 주며, 사지에는 1.5배의 피해를 줍니다.",
 
 		"leveltips_preludeThird1": "대쉬: 아주 짧은 순간 무적이 되지만 스태미나를 소모합니다.",
-		"leveltips_preludeThird2": "슬라이드: 먼 거리를 이동할 수 있지만 무적 상태가 되지 않습니다.",
+		"leveltips_preludeThird2": "슬라이드: 보다 먼 거리를 이동할 수 있지만 무적 상태가 되지 않습니다.",
 		"leveltips_preludeThird3": "점프: 근접 공격 범위를 빠르게 벗어날 수 있지만 공중에선 방향 제어력이 떨어집니다.",
 
-		"leveltips_preludeFourth1": "샷건 패링:",
+		"leveltips_preludeFourth1": "샷건으로 패링하기:",
 		"leveltips_preludeFourth2": "적이 공격하기 직전 적의 몸통에 영거리 사격을 하면 엄청난 피해를 줄 수 있습니다.",
 
 		"leveltips_preludeFifth": "공격을 할 때 나오는 특유의 소리를 잘 귀울이면 시야 밖의 적이 언제 공격하는지 알 수 있습니다.",
@@ -979,15 +979,15 @@
 		"leveltips_limboThird1": "적들은 유형이 다른 경우 서로에게 피해를 줄 수 있습니다.",
 		"leveltips_limboThird2": "빠른 생각과 위치 선정을 잘 활용하면 적들을 강력한 무기로 삼을 수 있습니다.",
         
-		"leveltips_limboFourth": "어트랙터 네일건의 자석을 적에게 부착하면 빠르게 움직일 때 쉽게 유도 타격을 할 수 있습니다.",
+		"leveltips_limboFourth": "어트랙터 네일건의 자석을 적에게 부착하면 빠르게 움직이더라도 쉽게 유도 타격을 할 수 있습니다.",
 
-		"leveltips_lustFirst": "적들은 죽을 수 있는 피해를 입는 높이에서 떨어지면 재밌는 비명을 지릅니다.",
+		"leveltips_lustFirst": "적들은 낙사할 정도로 높은 곳에서 떨어지면 재밌는 비명을 지릅니다.",
 
 		"leveltips_lustSecond1": "지면 내려찍기:",
 		"leveltips_lustSecond2": "공중 내려찍기를 시전해 착지한 직후 빠르게 점프하면 더 높은 높이를 뛰어오를 수 있습니다.",
 		"leveltips_lustSecond3": "높은 고도에서 공중 내려찍기로 착지할 수록 더 높이 뛰어오릅니다.",
 
-		"leveltips_lustThird": "레일캐논의 변형들은 모두 동일한 대기 시간을 가집니다. 적합한 상황에 현명하게 사용하십시오.",
+		"leveltips_lustThird": "레일캐논의 변형들은 모두 재사용 대기시간을 공유합니다. 적절한 상황에 현명하게 사용하십시오.",
 
 		"leveltips_lustFourth1": "슬라이딩은 짧은 시간 동안 이전의 운동량을 유지합니다. ",
 		"leveltips_lustFourth2": "대쉬 점프를 한 다음 빠른 슬라이딩 점프를 사용하면 빠른 이동 속도를 유지할 수 있습니다.",
@@ -997,7 +997,7 @@
 		"leveltips_gluttonySecond1": "만약 여러분이 강한 적을 따라잡는 데 어려움을 겪고 있다면, 잠깐 뒤로 물러서서 관찰하세요. ",
 		"leveltips_gluttonySecond2": "모든 적들은 그들만의 대사와 공격 패턴을 가지고 있고, 그것들을 배우는 것은 승리의 열쇠가 될 수 있습니다.",
 
-		"leveltips_greedFirst": "히트스캔 무기를 사용하면 샷건의 코어 이젝트의 보조 사격을 공중에서 맞춰 즉시 폭파시키고, 폭발 반경을 더욱 늘릴 수 있습니다.",
+		"leveltips_greedFirst": "히트스캔 무기를 사용하면 코어 이젝트 샷건의 보조 사격을 공중에서 맞춰 즉시 폭파시키고, 폭발 반경을 더욱 늘릴 수 있습니다.",
 		"leveltips_greedSecond": "파워 업 아이템은 중복 적용이 가능합니다.",
 		"leveltips_greedThird": "폭발 범위의 가장자리에 휘말리게 하면 적을 밀쳐내 스토커와 같은 적을 효과적으로 물리칠 수 있습니다.",
 		"leveltips_greedFourth": "공중에 뜬 코인은 어떠한 히트스캔 무기로도 적중시킬 수 있습니다.",
@@ -1018,7 +1018,7 @@
 
 		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
         	"leveltips_sandbox1": "치트는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
-        	"leveltips_sandbox2": "랭크를 활성화하면 치트가 비활성화됩니다."
+        	"leveltips_sandbox2": "치트를 활성화하면 랭크가 비활성화됩니다."
 	},
 	"shop": {
 		"shop_tipofthedayTitle": "오늘의 팁",
@@ -1056,7 +1056,7 @@
 		"shop_weaponsArms": "팔",
 
 		"shop_revolverPiercer": "피어서",
-		"shop_revolverPiercerDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 최대 <color=orange>3명의 적을 관통</color>하는 광선을 충전합니다.",
+		"shop_revolverPiercerDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 최대 <color=orange>3연타</color>가 가능한 광선을 충전합니다.",
 		"shop_revolverPiercerDescription2": "사용 시 짧은 <color=orange>쿨타임</color> 이 있습니다.",
 
 		"shop_revolverMarksman": "마크스맨",
@@ -1067,18 +1067,18 @@
 		"shop_shotgunCoreEject": "코어 이젝트",
 		"shop_shotgunCoreEjectDescription1": "보조 발사 버튼으로 샷건의 <color=orange>코어</color>를 과열시켜 <color=orange>사출</color>합니다.",
 		"shop_shotgunCoreEjectDescription2": "<color=orange>오래 누를수록</color> 사거리가 <color=orange>늘어납니다.</color>",
-		"shop_shotgunCoreEjectDescription3": "코어는 착탄 시 <color=orange>폭발합니다<color=orange>.",
+		"shop_shotgunCoreEjectDescription3": "코어는 착탄 시 <color=orange>폭발<color=orange>합니다.",
 
 		"shop_shotgunPumpCharge": "펌프 차지",
 		"shop_shotgunPumpChargeDescription1": "보조 발사 버튼로 샷건을 <color=orange>펌프질</color>하여, <color=orange>다음 사격</color>의 <color=orange>위력</color>을 늘리는 대신 <color=orange>정확도</color>가 감소합니다.",
-		"shop_shotgunPumpChargeDescription2": "너무 많이 펌프한 경우 발사 시 <color=orange>폭발</color>할 수 있습니다.",
+		"shop_shotgunPumpChargeDescription2": "너무 많이 펌프한 경우 발사 시 <color=orange>자폭</color>할 수 있습니다.",
 
 		"shop_nailgunMagnet": "어트랙터",
 		"shop_nailgunMagnetDescription1": "보조 발사 버튼을 눌러 근처에 있는 모든 <color=orange>못</color>들을 끌어당기는 <color=orange>자석</color>을 발사할 수 있습니다.",
-		"shop_nailgunMagnetDescription2": "자석은 <color=orange>지면, 벽</color>이나 <color=orange>적</color>에 붙으며, <color=orange>히트스캔</color> 무기로 파괴됩니다.",
+		"shop_nailgunMagnetDescription2": "자석은 <color=orange>지면, 벽</color>이나 <color=orange>적</color>에 달라붙으며, <color=orange>히트스캔</color> 무기로 적중시키면 파괴됩니다.",
 
 		"shop_nailgunOverheat": "오버히트",
-		"shop_nailgunOverheatDescription1": "발사 중 보조 발사 버튼을 눌러 과열해 <color=orange>히트싱크</color>를 대가로 짧은 시간 동안 <color=orange>폭발적인</color> 피해를 입힐 수 있습니다.",
+		"shop_nailgunOverheatDescription1": "발사 중 보조 발사 버튼을 눌러 과열해 <color=orange>히트싱크</color>를 소모하여 짧은 시간 동안 <color=orange>폭발적인</color> 피해를 입힐 수 있습니다.",
 		"shop_nailgunOverheatDescription2": "히트싱크는 발사하지 않는 동안 충전됩니다.",
 
 		"shop_railcannonElectric": "일렉트릭",
@@ -1088,7 +1088,7 @@
 
 		"shop_railcannonScrewdriver": "스크류드라이버",
 		"shop_railcannonScrewdriverDescription1": "적에게 <color=orange>꽃혀</color> 고속으로 회전해 <color=orange>지속 피해</color>를 입히는 강력한 드릴을 발사합니다.",
-		"shop_railcannonScrewdriverDescription2": "드릴은 적들을 지속적으로 출혈시키고 더 넓은 회복 반경을 제공합니다.",
+		"shop_railcannonScrewdriverDescription2": "드릴은 적을 지속적으로 출혈시키고 넓은 회복 반경을 제공합니다.",
 
 		"shop_railcannonMalicious": "멀리셔스",
 		"shop_railcannonMaliciousDescription1": "어딘가 익숙한 얼굴의 빔을 닮은, <color=orange>대폭발</color>을 일으키는 폭발성 광선을 발사합니다.",
@@ -1117,23 +1117,23 @@
 		"shop_loreRevolver1": "중장거리 전투를 위해 최후의 전쟁에서 만들어진 무기다. 전기 펄스를 사용하여 미세한 금속 조각을 극도로 빠른 속도로 발사할 수 있다.",
 		"shop_loreRevolver2": "이러한 기술을 사용하는 무기를 \"전기 무기\"라고 불렸고, 기존의 실탄 화기를 대체하는 새로운 표준으로 자리잡았다. 여전히 미세한 발사체가 필요하기 때문에 탄약은 실제로 무한하지 않지만, 장전된 탄약이 완전히 소진되는 데에는 몇 주가 걸리며, 고철이나 심지어 총의 표면에서 금속 조각을 긁어내는 것만으로도 탄약을 손쉽게 보충할 수 있다.",
 		"shop_loreRevolver3": "사실 표면을 긁어서 생긴 거친 표면은 전기 무기를 휘두르는 사용자들에게 있어 자랑스러운 점으로 여겨지는데, 이는 무기가 신뢰성이 높고 오랫동안 사용되었음을 보여주기 때문이다. 때문에 많은 사용자들은 이러한 이유로 총의 탄약을 보충할 때가 아니더라도 굳이 무기의 표면을 깎아내서 \"막 출고된\" 전기 무기를 개성있게 만들곤 한다.",
-		"shop_loreRevolver4": "비록 전기 총은 발사 후 배터리를 충전하는 데 시간이 걸리지만, 리볼버 방식의 디자인은 사격 후 회전하는 다중 배터리 실린더가 탑재됨으로써 각 배터리의 과열 속도를 늦추지 않고 충전하게 만들어 문제를 우회적으로 해결했다.",
+		"shop_loreRevolver4": "비록 전기 무기는 발사 후 배터리를 재충전하는 데 시간이 걸리지만, 리볼버 방식의 디자인은 사격 후 회전하는 다중 배터리 실린더가 탑재됨으로써 각 배터리의 과열 속도를 늦추지 않고 충전하게 만들어 문제를 우회적으로 해결했다.",
 		"shop_loreRevolver5": "일반적으로 모든 배터리의 충전을 동시에 해제하여 더 큰 전력을 공급하는 것이 일반적인 개조 사항이지만, 그만큼 충전 시간은 더 길어진다.",
 		"shop_loreRevolver6": "언뜻 보기에는 약해 보이지만, 그 힘은 일관성과 단순함에서 나온다고 할 수 있다. 리볼버의 사격은 즉각적인 이동 시간과 어떠한 전투 거리에서도 잘 작동하기 때문에, 빠르게 움직이거나 적의 공격을 회피하면서 사용하기 좋다.",
 		"shop_loreRevolver7": "헤드샷은 2배의 피해를 입히며, 팔다리를 맞출 경우 1.5배의 피해를 준다.",
-		"shop_loreRevolver8": "마크스맨 변형에서 사용할 수 있는 코인은 빛나는 타이밍에 정확히 명중하면 탄환이 두 발로 쪼개져서 한 번에 두 개의 표적을 맞출 수 있다. 비록 타이밍이 빠듯하지만, 코인이 계속해서 휘파람 소리를 내며 공중에 떠 있는 두 번째 타이밍을 노릴 수 있다.",
+		"shop_loreRevolver8": "마크스맨 변형에서 사용할 수 있는 코인은 빛나는 타이밍에 정확히 명중하면 탄환이 두 발로 쪼개져서 한 번에 두 개의 표적을 맞출 수 있다. 비록 타이밍이 빠듯하지만, 코인이 계속해서 소리를 내며 공중에 떠 있는 두 번째 타이밍을 노릴 수 있다.",
 		"shop_loreRevolver9": "마크스맨 변형에서 사용할 수 있는 코인은 빛난 이후에 펀치를 하면 코인이 깨지지 않고 가장 가까운 대상에 즉시 적중하여 후속타로 가하는 펀치나 사격의 피해량을 더욱 증가시킬 수 있다.",
 		"shop_loreRevolver10": "피어서 변형의 충전 사격 또한 마크스맨 변형의 코인을 적중시킬 수 있다.",
 
 		"shop_loreShotgun1": "고도로 응축된 열을 발사체로 사용하는 실험용 근거리 무기다.",
-		"shop_loreShotgun2": "무기를 발사할 때마다 샷건의 열을 발생시키는 코어가 과열되어 녹거나 폭발하는 것을 방지하기 위해 냉각시킬 필요가 있다. 이 프로세스는 대부분 자동화되어 있어 사용자가 손목을 한 번 튕기기만 해도 작동된다.",
-		"shop_loreShotgun3": "코어가 과열될 경우, 펌프를 수동 열 생성 매커니즘으로 사용할 수 있다. 이 과정은 샷건을 펌프질하는 손잡이 근처의 작은 버튼을 통해 단순화되어 있으나 사용 편의성 또한 사용자가 한 발에 과도한 열을 펌핑함으로써 보고된 불발률을 크게 증가시켰다.",
+		"shop_loreShotgun2": "무기를 발사할 때마다 샷건의 열을 발생시키는 코어가 과열되어 녹거나 폭발하는 것을 방지하기 위해 냉각시킬 필요가 있다. 이 프로세스는 대부분 자동화되어 있어 사용자가 손목을 한 번 튕기기만 해도 원활하게 작동된다.",
+		"shop_loreShotgun3": "코어가 고장난 경우, 펌프를 수동 열 생성 매커니즘으로 사용할 수 있다. 이 과정은 샷건을 펌프질하는 손잡이 근처의 작은 버튼을 통해 단순화되어 있으나 사용 편의성 또한 사용자가 한 발에 과도한 열을 펌핑함으로써 보고된 불발률을 크게 증가시켰다.",
 		"shop_loreShotgun4": "고열 무기는 휘발적 특성과 엄격한 냉각 요건 때문에 전기 무기만큼 큰 인기를 끌지 못했으나, 전기 무기와는 달리 별도의 발사체를 필요하지 않아 실질적으로 탄약이 무한한 것이 아닌, 실제로 무한 탄약인 무기이다.",
 		"shop_loreShotgun5": "샷건은 근거리에서만 유효하기 때문에 위험하지만 파괴적인 공격 수단이 될 수 있다. 또한 이것은 회복을 위해 피를 얻을 때 이상적이다.",
-		"shop_loreShotgun6": "정확한 타이밍에 적의 몸통을 사격하면 근거리 공격을 튕겨낼 수 있다. 피드배커를 사용하는 것보다 위험하지만 그에 따른 보상으로 더 강력한 피해를 줄 수 있다.",
+		"shop_loreShotgun6": "정확한 타이밍에 적의 몸통을 사격하면 근거리 공격을 패링할 수 있다. 피드배커를 사용하는 것보다 위험하지만 그에 따른 보상으로 더 강력한 피해를 줄 수 있다.",
 		"shop_loreShotgun7": "무기를 신속하게 교체하면 사격 후 대기 시간을 생략하여 장시간 가까이 있어야 하는 위험을 감수히면서도 지속적으로 막대한 피해를 줄 수 있다.",
-		"shop_loreShotgun8": "코어 이젝트 변형으로 발사한 폭발성 코어는 리볼버와 같은 히트스캔 무기로 맞추면 즉시 폭발함과 동시에 폭발 반경과 피해량이 증가한다. 원래부터 폭발 공격을 다하는 히트스캔 무기를 사용하면 폭발 반경이 대폭 증가한다.",
-		"shop_loreShotgun9": "응축된 열 발사체의 속도가 느리다는 것은 단점으로 보일 수 있지만, 이는 적절한 타이밍의 피드배커 펀치가 발사체를 타격할 수 있다는 것을 의미하며 훨씬 더 높은 정확도 및 추가 피해를 위해 자신의 사격을 튕겨서 날려보낼 수 있다.",
+		"shop_loreShotgun8": "코어 이젝트 변형으로 발사한 폭발성 코어는 리볼버와 같은 히트스캔 무기로 맞추면 즉시 폭발함과 동시에 폭발 반경과 피해량이 증가한다. 원래부터 폭발 공격을 가하는 히트스캔 무기를 사용하면 폭발 반경이 대폭 증가한다.",
+		"shop_loreShotgun9": "응축된 열 발사체의 속도가 느리다는 것은 단점으로 보일 수 있지만, 이는 적절한 타이밍의 피드배커 펀치가 발사체를 타격할 수 있다는 것을 의미하며 훨씬 더 높은 정확도 및 추가 피해를 위해 자신의 사격을 패링해서 날려보낼 수 있다.",
 
 		"shop_loreNailgun1": "산업용 네일건과 구식 실탄 무기의 조합으로 탄생한 결과물이다. 대부분의 기계들은 건설 작업용 기계로 만들어졌고, 모든 기계들, 심지어 전쟁을 위해 만들어지지 않은 기계들도 인류의 멸종 이후 스스로 생존하는 법을 배워야 했기 때문이다.",
 		"shop_loreNailgun2": "실탄 무기들은 전기 무기, 고열 무기 등의 무한 탄약 시스템이 발명된 후 대부분 버려졌는데, 이는 대규모 군대를 위해 탄약을 사지 않아도 되는 비용이 시간이 지남에 따라 얼마나 저렴해지는가에 대한 것 때문이다.",
