@@ -14,21 +14,21 @@
 	},
 
 	    "devMuseum": {
-        "museum_bookHakita1": "<b>반가워요!</b> 개발자 박물관에 오신 것을 환영합니다. I'm Hakita, the lead developer of the game. I started off working on the game mostly by myself, but overtime the game has grown a lot and I've gotten so many wonderful people helping me out over the years, so here they all are!",
-        "museum_bookHakita2": "This museum was mostly created by Vvizard, with just touchups, iteration, writing and additional easter eggs by me. You can find him in the \"Rest Room\" down the hall and to the left.",
-        "museum_bookHakita3": "Take a look around! The first floor is for all the people who have helped out with the game's development and the second floor is all kinds of other neat development related things, like cut content and early versions of stuff. There's also plenty easter eggs hidden around the museum!",
-        "museum_bookHakita4": "Most developers will have a book like this in front of them, in which you can read details of how they helped in the creation of this game. Here's mine!",
-        "museum_bookHakita5": "<b><color=orange>HAKITA</color> - CREATOR OF ULTRAKILL</b>",
-        "museum_bookHakita6": "I started development on the game on February 1st, 2018. At the time it was just me, with FlyingDog and Toni Stigell making an occasional 3D model. While the development team has changed and grown since then, I still do the majority of the work myself... Just closer to like 60% of it now than the old 99%.",
-        "museum_bookHakita7": "My contributions include:",
-        "museum_bookHakita8": "- All direction, game design, sound design, story and animation",
-        "museum_bookHakita9": "- All level design, except this museum, the Sandbox and 5-S",
-        "museum_bookHakita10": "- All music, except some public domain songs and songs by guest composers (who you'll find down the hall and to the left)",
-        "museum_bookHakita11": "- Most writing, programming and art direction",
-        "museum_bookHakita12": "- Just in general, if it's in the game, I had my finger in that pie",
-        "museum_bookHakita13": "Thank you for playing, and hopefully enjoying, ULTRAKILL. It's insane to me that a passion project I started just based on what I thought was fun in games has grown to be such a massive success. I've met so many amazing people thanks to this game and the community that has grown around it has been a source of much joy (and plenty of anguish) in my life. It's a rare gift to be able to not only create a work like this with full creative control, but also to be able to make a living off my own art without having to compromise on my vision, and it's all thanks to New Blood, all the developers here in this museum, and most importantly... <b>YOU!</b>",
+        "museum_bookHakita1": "<b>반가워요!</b> 개발자 박물관에 오신 것을 환영합니다. 저는 게임의 개발을 주도하고 있는 HAKITA라고 합니다. 저는 처음부터 게임의 대부분을 혼자서 제작해 왔었지만, 시간이 지나면서 게임이 많이 성장했고 수년간 저를 도와준 멋진 분들 덕분에 모두 이 자리에 올 수 있었어요!",
+        "museum_bookHakita2": "이 박물관 맵은 대부분 Vvizard님이 제작해 주셨고, 약간의 수정과 반복 작업, 그리고 제가 추가한 이스터 에그들이 포함되어 있습니다. 복도 아래 왼쪽에 있는 \"휴게실\"에서 찾으실 수 있습니다.",
+        "museum_bookHakita3": "주위를 한 번 둘러보세요! 1층은 게임 개발에 기여해 주신 모든 사람들을 위한 공간이고, 2층은 삭제된 컨텐츠들과 초기 버전같은 괜찮은 것들을 볼 수 있습니다. 박물관 주변에는 이스터 에그들도 많이 숨겨져 있답니다!",
+        "museum_bookHakita4": "대부분의 개발자 인형 앞에는 책 아이템이 놓여져 있습니다. 이 책에서 그분들이 게임을 만드는 데 어떤 도움을 주셨는지 자세히 읽어볼 수 있어요. 이 책은 저에 대한 거고요!",
+        "museum_bookHakita5": "<b><color=orange>HAKITA</color> - 울트라킬의 창조자</b>",
+        "museum_bookHakita6": "저는 2018년 2월 1일부터 게임 개발을 시작해 왔습니다. 그때 당시에는 개발진이 저밖에 없었는데, 그래도 FlyingDog님과 Toni Stigell님이 가끔 3D 모델을 제작해 주곤 했죠.",
+        "museum_bookHakita7": "제 기여 목록은 다음과 같습니다.",
+        "museum_bookHakita8": "- 게임의 모든 방향, 디자인, 사운드 디자인, 스토리 및 애니메이션",
+        "museum_bookHakita9": "- 게임의 모든 레벨의 디자인(5-S, 박물관 맵, 샌드박스 레벨 제외)",
+        "museum_bookHakita10": "- 일부 퍼블릭 도메인 음악 및 게스트 작곡가 분들(홀 아래 왼쪽에서 확인 가능)의 작업물을 제외한 모든 음악",
+        "museum_bookHakita11": "- 대부분의 스토리, 프로그래밍 및 아트 방향",
+        "museum_bookHakita12": "- 게임에 관련된 모든 것들에 숟가락 끼얹기",
+        "museum_bookHakita13": "울트라킬을 즐겁게 플레이해 주셔서 감사합니다. 제가 게임에서 재밌다고 생각했던 것들을 바탕으로 시작한 열정 프로젝트가 이렇게 큰 성공을 거두었다는 것 자체가 놀라운데요, 저는 이 게임 덕분에 굉장한 사람들을 많이 만날 수 있었고, 그 주변에서 성장한 공동체는 제 인생에서 많은 기쁨(그리고 많은 고뇌)의 원천이었습니다. 이런 작품을 창조적으로 완벽히 다룰 수 있을 뿐만 아니라, 제 비전을 훼손하지 않고도 저의 작품으로 생계를 이어나갈 수 있다는 건 드문 선물입니다. 뉴 블러드의 직원분들과, 이 박물관의 모든 개발자들, 그리고 마지막으로 <b>여러분들</b>께 감사를 전합니다!",
 
-        "museum_bookFrancisXie1": "<b><color=#4AACBD>FRANCIS XIE</color> - CONCEPT AND TEXTURE ARTIST</b>",
+        "museum_bookFrancisXie1": "<b><color=#4AACBD>FRANCIS XIE</color> - 컨셉 및 텍스처 아티스트</b>",
         "museum_bookFrancisXie2": "Francis joined the team in 2021, around the start of the Wrath layer's development, when he was picked up as a general artist for New Blood thanks to his incredible ULTRAKILL fanart.",
         "museum_bookFrancisXie3": "Some of his biggest contributions include:",
         "museum_bookFrancisXie4": "- The designs for the Leviathan, Ferryman, and the pre-corpse version of Minos and Sisyphus, as well as their portraits.",
@@ -257,10 +257,10 @@
         "museum_enemiesMaliciousFace6": "Another idea I had at one point was for there to be a hole in the back of its head, exposing the brain, allowing for nimble players to score big damage, but this also never materialized. Me coming up with all these dumb ideas, often after the model was already done, but never committing to them was, very understandably, frustrating to FlyingDog.",
         "museum_enemiesMaliciousFace7": "The new model by Victoria is a beautiful almost 1:1 recreation that manages to keep the iconic look while improving the visual quality while actually <i>decreasing</i> its resolution.",
 
-        "museum_cinemaPlay": "PLAY",
-        "museum_cinemaStop": "STOP",
+        "museum_cinemaPlay": "재생",
+        "museum_cinemaStop": "정지",
 
-        "museum_plaquesMuseumTitle": "HALL OF SHAME - THE ULTRAKILL DEVELOPERS",
+        "museum_plaquesMuseumTitle": "수치심의 전당 - 울트라킬의 개발자들",
         "museum_plaquesArtRoom": "ART ROOM",
         "museum_plaquesNerdRoom": "NERD ROOM",
         "museum_plaquesRestRoom": "REST ROOM",
@@ -268,98 +268,98 @@
 
 
         "museum_plaquesHakita1": "ARSI \"HAKITA\" PATALA",
-        "museum_plaquesHakita2": "CREATOR OF ULTRAKILL",
+        "museum_plaquesHakita2": "울트라킬의 창조자",
 
         "museum_plaquesFrancisXie1": "FRANCIS XIE",
-        "museum_plaquesFrancisXie2": "2D ARTIST",
+        "museum_plaquesFrancisXie2": "2D 아티스트",
 
         "museum_plaquesJerichoRus1": "JERICHO RUS",
-        "museum_plaquesJerichoRus2": "2D ARIST",
+        "museum_plaquesJerichoRus2": "2D 아티스트",
 
         "museum_plaquesBigRockBMP1": "BIGROCKBMP",
-        "museum_plaquesBigRockBMP2": "CONCEPT ARTIST",
+        "museum_plaquesBigRockBMP2": "컨셉 아티스트",
 
         "museum_plaquesMaxOvesson1": "MAXIMILIAN OVESSON",
-        "museum_plaquesMaxOvesson2": "2D ARTIST",
+        "museum_plaquesMaxOvesson2": "2D 아티스트",
 
         "museum_plaquesVictoriaHolland1": "VICTORIA HOLLAND",
-        "museum_plaquesVictoriaHolland2": "LEAD 2D ARTIST",
+        "museum_plaquesVictoriaHolland2": "리드 2D 아티스트",
 
         "museum_plaquesToniStigell1": "TONI STIGELL",
-        "museum_plaquesToniStigell2": "3D ARTIST",
+        "museum_plaquesToniStigell2": "3D 아티스트",
 
         "museum_plaquesFlyingdog1": "FLYINGDOG",
-        "museum_plaquesFlyingdog2": "3D ARTIST",
+        "museum_plaquesFlyingdog2": "3D 아티스트",
 
         "museum_plaquesSamuelJamesBryan1": "SAMUEL JAMES BRYAN",
-        "museum_plaquesSamuelJamesBryan2": "3D ARTIST",
+        "museum_plaquesSamuelJamesBryan2": "3D 아티스트",
 
         "museum_plaquesCameronMartin1": "CAMERON MARTIN",
-        "museum_plaquesCameronMartin2": "QUALITY ASSURANCE LEAD",
+        "museum_plaquesCameronMartin2": "리드 QA 담당",
 
         "museum_plaquesDaliaFigueroa1": "DALIA FIGUEROA",
-        "museum_plaquesDaliaFigueroa2": "QUALITY ASSURANCE",
+        "museum_plaquesDaliaFigueroa2": "QA 담당",
 
         "museum_plaquesTuckerWilkin1": "TUCKER WILKIN",
-        "museum_plaquesTuckerWilkin2": "SENIOR QUALITY ASSURANCE",
+        "museum_plaquesTuckerWilkin2": "선임 QA 담당",
 
         "museum_plaquesScottGurney1": "SCOTT GURNEY",
-        "museum_plaquesScottGurney2": "TECHNICAL QUALITY ASSURANCE",
+        "museum_plaquesScottGurney2": "기술적 QA 담당",
 
         "museum_plaquesPitr1": "PITR",
-        "museum_plaquesPitr2": "LEAD PROGRAMMER",
+        "museum_plaquesPitr2": "리드 프로그래머",
 
         "museum_plaquesHeckteck1": "HECKTECK",
-        "museum_plaquesHeckteck2": "ADDITIONAL PROGRAMMER",
+        "museum_plaquesHeckteck2": "보조 프로그래머",
 
         "museum_plaquesCabalcrow1": "EMANUIL \"CABALCROW\" CHIZHOV",
-        "museum_plaquesCabalcrow2": "ADDITIONAL PROGRAMMER",
+        "museum_plaquesCabalcrow2": "보조 프로그래머",
 
         "museum_plaquesLucasVarney1": "LUCAS VARNEY",
-        "museum_plaquesLucasVarney2": "ADDITIONAL PROGRAMMER",
+        "museum_plaquesLucasVarney2": "보조 프로그래머",
 
         "museum_plaquesBenMoir1": "BEN MOIR",
-        "museum_plaquesBenMoir2": "ADDITIONAL PROGRAMMER",
+        "museum_plaquesBenMoir2": "보조 프로그래머",
 
         "museum_plaquesDaveOshry1": "DAVE OSHRY",
-        "museum_plaquesDaveOshry2": "CEO OF NEW BLOOD INTERACTIVE",
+        "museum_plaquesDaveOshry2": "뉴 블러드 인터랙티브 CEO",
 
         "museum_plaquesMeganeko1": "MEGANEKO",
-        "museum_plaquesMeganeko2": "GUEST COMPOSER",
+        "museum_plaquesMeganeko2": "게스트 작곡가",
 
         "museum_plaquesKeygenChurch1": "KEYGEN CHURCH",
-        "museum_plaquesKeygenChurch2": "GUEST COMPOSER",
+        "museum_plaquesKeygenChurch2": "게스트 작곡가",
 
         "museum_plaquesSalad1": "SALAD",
-        "museum_plaquesSalad2": "ARTIST OF JAKITO",
+        "museum_plaquesSalad2": "JAKITO의 아티스트",
 
         "museum_plaquesJacobHHR1": "JACOB HHR",
-        "museum_plaquesJacobHHR2": "WRITER (PROSE & DIALOGUE)",
+        "museum_plaquesJacobHHR2": "작가 (산문 & 이야기)",
 
         "museum_plaquesVVizard1": "VVIZARD",
-        "museum_plaquesVVizard2": "MUSEUM CREATOR",
+        "museum_plaquesVVizard2": "박물관 맵 제작자",
 
         "museum_plaquesAdditionalMusic": "ADDITIONAL MUSIC",
         "museum_plaquesAdditionalCredits": "ADDITIONAL CREDITS",
 
         "museum_plaquesStephanWeyte1": "STEPHAN WEYTE",
-        "museum_plaquesStephanWeyte2": "VOICE OF MINOS PRIME",
+        "museum_plaquesStephanWeyte2": "미노스 프라임의 성우",
 
         "museum_plaquesLenvalBrown1": "LENVAL BROWN",
-        "museum_plaquesLenvalBrown2": "VOICE OF SISYPHUS PRIME",
+        "museum_plaquesLenvalBrown2": "시시포스 프라임의 성우",
 
         "museum_plaquesGianniMatragrano1": "GIANNI MATRAGRANO",
-        "museum_plaquesGianniMatragrano2": "VOICE OF GABRIEL",
+        "museum_plaquesGianniMatragrano2": "가브리엘의 성우",
 
         "museum_plaquesJoyYoung1": "JOY YOUNG",
-        "museum_plaquesJoyYoung2": "VOICE OF OWL",
+        "museum_plaquesJoyYoung2": "올빼미의 성우",
 
         "museum_plaquesMandalore1": "MANDALORE HERRINGTON",
-        "museum_plaquesMandalore2": "VOICE OF MYSERIOUS DRUID KNIGHT",
+        "museum_plaquesMandalore2": "의문의 드루이드 기사의 성우",
 
-        "museum_rocketRace1": "ROCKET RACE",
-        "museum_rocketRace2": "START",
-        "museum_rocketRaceResult": "TIME:"
+        "museum_rocketRace1": "로켓 경주",
+        "museum_rocketRace2": "시작",
+        "museum_rocketRaceResult": "시간:"
     },
 	
     "fishing": {
@@ -376,29 +376,29 @@
 
         "fish_leaderboard": "물고기 크기 순위표",
 
-        "fish_book1": "DAY 529:",
-        "fish_book2": "STILL SEARCHING.",
-        "fish_book3": "NO CONTACT FROM THE AGENCY IN 216 DAYS.",
-        "fish_book4": "I SHOULD RETURN TO HQ BUT I CAN'T. NOT YET.",
-        "fish_book5": "IT'S THERE.",
-        "fish_book6": "SOMEWHERE.",
-        "fish_book7": "I HAVE TO SEE.",
-        "fish_book8": "I HAVE TO KNOW.",
-        "fish_book9": "IHAVETOSEEIHAVETOKNOW",
-        "fish_book10": "SIZE 2.",
+        "fish_book1": "529일째.",
+        "fish_book2": "아직 찾고 있다.",
+        "fish_book3": "216일동안 기관에서 연락이 오지 않는다.",
+        "fish_book4": "본부로 돌아가야 하는데, 아직 갈 수 없다.",
+        "fish_book5": "분명 어딘가에",
+        "fish_book6": "존재해",
+        "fish_book7": "봐야만 해",
+        "fish_book8": "알아야만 해",
+        "fish_book9": "봐야만해알아야만해",
+        "fish_book10": "크기 2 물고기...\n",
 
-        "fish_rodFar": "far",
-        "fish_rodClose": "close",
-        "fish_rodHooked": "Hooked!",
-        "fish_outOfWater": "OUT OF WATER",
-        "fish_fishCaught": "You caught",
+        "fish_rodFar": "장거리",
+        "fish_rodClose": "근거리",
+        "fish_rodHooked": "물었다!",
+        "fish_outOfWater": "밖으로 나옴",
+        "fish_fishCaught": "낚시 성공! ",
         "fish_size": "크기 : 1",
 
-        "fish_living": "\"It's a living.\"",
-        "fish_tooSmall": "이 물고기에게는 너무 작다. :^(",
+        "fish_living": "\"이게 내 삶이야.\"",
+        "fish_tooSmall": "이 물고기를 굽기에는 너무 작다. :^(",
         "fish_baitTaken": "물고기가 미끼를 낚아챘다.",
         "fish_baitNotWork": "이 미끼는 여기서 사용할 수 없는 것 같다.",
-        "fish_interrupted": "낚시가 중단되었습니다.",
+        "fish_interrupted": "낚시가 중단되었다.",
 
         "fish_terminalTitle": "고오급 낚시 팁",
         "fish_funnyStupidFish": "재밌는 바보 물고기 (친구)",
@@ -414,30 +414,30 @@
         "fish_cookedFish": "구운 물고기",
         "fish_shark": "상어",
 
-        "fish_funnyStupidFishDescription1": "A stupid fish. A really stupid fish. A dumb cretin. A fool. An absolute buffoon. A bumbling idiot. Has a sense of humor.",
-        "fish_funnyStupidFishDescription2": "Easy to catch and very friendly, is usually used to teach novices and children how to fish.",
-        "fish_pitrFishDescription1": "A very smart fish. Loves cats. Swims near land and will often gets caught by fishers on purpose just to be nice. ",
-        "fish_pitrFishDescription2": "Always ends up at the bottom of fish hierarchies.",
-        "fish_troutDescription1": "A common lake fish. Prefers deep water.",
-        "fish_troutDescription2": "Seems to have been held in high regard by humans, as there are known mask replicas of them.",
-        "fish_amidEvilFishDescription1": "A migratory fish from a land far beyond. Only survives in rocky areas, as its diet consists entirely of rocks. ",
-        "fish_amidEvilFishDescription2": "Only comes out of hiding to feed.",
-        "fish_chomperDescription1": "A migratory fish.",
-        "fish_chomperDescription2": "Originates from Pennsylvania, so it prefers dark, unpleasant and damp places.",
-        "fish_bombFishDescription1": "An extreme kind of fish. Most often found in flowing water, as stillness would be boring and inadequate for stimulation.",
-        "fish_bombFishDescription2": "Has a self-defence mechanism that can cause bodily injury to unaware fishers.",
-        "fish_gibeyeDescription1": "A common fish. Requires blood to survive.",
-        "fish_gibeyeDescription2": "Improves eyesight.",
-        "fish_ironLungFishDescription1": "A migratory deep sea fish. Usually only found on moons, though it can survive anywhere with enough blood.",
-        "fish_ironLungFishDescription2": "Very territorial, attacking anything that enters its domain and never leaves the deep.",
-        "fish_dopeFishDescription1": "A migratory fish. Found everywhere, though usually hidden Well.",
-        "fish_dopeFishDescription2": "Often found accidentally by heroes and travellers across their journeys and is considered a sign of good luck.",
-        "fish_stickFishDescription1": "A common fish. Edible and usually farmed by humans.",
-        "fish_stickFishDescription2": "Can be found in kitchens all across the world.",
-        "fish_cookedFishDescription1": "A common fish. Lives in fire, eats other fish and only comes out when fed.",
-        "fish_cookedFishDescription2": "Considered a delicacy, so fishers will often catch other kinds of fish purely for the sake of feeding them to an open fire to coax it out.",
-        "fish_sharkDescription1": "A carnivorous fish. Originates from Sweden, and has been considered a status symbol in human society, possibly as a sign of femininity or \"those who receive\", though the details have been lost to time.",
-        "fish_sharkDescription2": "Lives in huge bodies of water and avoids land, though it may swim close to shore to feed."
+        "fish_funnyStupidFishDescription1": "멍청한 물고기. 진짜 멍청한 물고기다. 바보 백치, 멍청이, 말미잘, 무앙거리기만 하는 바보. 약간의 유머 감각이 있다.",
+        "fish_funnyStupidFishDescription2": "누구라도 잡을 수 있고, 매우 친화적이며 보통 초심자와 어린이들에게 낚시하는 법을 가르치는 데 사용한다.",
+        "fish_pitrFishDescription1": "아주 똑똑한 물고기. 고양이를 좋아한다. 육지 근처에서 헤엄쳐 다니며, 그저 친절해 보이기 위해 종종 낚시꾼들에게 잡히곤 한다.",
+        "fish_pitrFishDescription2": "물고기 먹이사슬 세계의 제일 밑바닥에 위치한 물고기다.",
+        "fish_troutDescription1": "강에서 볼 수 있는 흔한 물고기다. 깊은 물에 주로 서식한다.",
+        "fish_troutDescription2": "알려진 마스크 복제품이 있어서, 사람들에게 높은 평가를 받는 물고기다.",
+        "fish_amidEvilFishDescription1": "멀리 떨어진 대륙에서 온 '철'새와도 같은 물고기다. 바위로 된 것들만 먹을 수 있기 때문에 바위가 많은 지역에서만 서식할 수 있다.",
+        "fish_amidEvilFishDescription2": "오직 먹이를 줄 때에만 나오며 나머지 시간은 숨어서 지낸다.",
+        "fish_chomperDescription1": "서식지를 옮겨 다니는 물고기.",
+        "fish_chomperDescription2": "펜실베이니아 주가 원산지이며, 어둡고 불쾌하고 습한 곳을 좋아한다.",
+        "fish_bombFishDescription1": "극단적인 종류의 물고기. 이 물고기는 대부분 흐르는 물에서 주로 발견되는데, 고요함은 지루하고 자극받으면 좋지 않기 때문이다.",
+        "fish_bombFishDescription2": "부주의한 낚시꾼에게 상해를 입힐 수 있는 자기 방어 수단을 가지고 있다.",
+        "fish_gibeyeDescription1": "흔한 물고기. 오로지 피가 있는 곳에서만 생존할 수 있다.",
+        "fish_gibeyeDescription2": "시력을 좋게 해 준다.",
+        "fish_ironLungFishDescription1": "서식지를 옮겨 다니는 심해어다. 보통 달에서만 발견되지만, 충분한 피가 있다면 어떤 물에서도 서식할 수 있다.",
+        "fish_ironLungFishDescription2": "영역을 매우 중시하며, 자신의 영역에 들어와 깊은 곳을 떠나지 않는 모든 이들을 공격하려는 습성을 지녔다.",
+        "fish_dopeFishDescription1": "서식지를 옮겨 다니는 물고기. 어디에서나 찾을 수 있지만 보통은 쉽게 찾을 수 없는 곳에 숨어 있다.",
+        "fish_dopeFishDescription2": "종종 영웅과 여행자들에 의해 우연히 발견되곤 하며, 그 자체로 행운의 상징으로 여겨진다.",
+        "fish_stickFishDescription1": "흔해빠진 물고기다. 식용으로 쓰이며 사람에 의해 사육되기도 한다.",
+        "fish_stickFishDescription2": "전 세계 가정집의 주방 어디에서나 찾을 수 있다.",
+        "fish_cookedFishDescription1": "흔해빠진 물고기. 불 속에 서식하며, 다른 물고기를 먹다가 먹이를 줄 때만 나온다.",
+        "fish_cookedFishDescription2": "맛이 좋은 별미로 여겨지기 때문에, 낚시꾼들은 종종 구운 물고기의 먹이로 쓸 물고기를 잡아다가 불 속에 털어넣곤 한다.",
+        "fish_sharkDescription1": "육식성 물고기. 스웨덴에서 유래되었으며 세부적인 특징은 시간이 지나 점차 퇴화했으나, \"받는 사람들\"의 표시로써 인간 사회에서 지위의 상징으로 여겨졌을 가능성이 있다.",
+        "fish_sharkDescription2": "거대한 물 속에서만 서식하고 육지를 피하려 하지만, 먹이를 구하기 위해 해안가 근처에 출몰하기도 한다."
     },
 
 	"style": {
@@ -1438,8 +1438,8 @@
        	"leveltips_heresySecond1": "스태미나를 낭비하지 마세요!",
        	"leveltips_heresySecond2": "적과 전투 중에 불필요하게 대쉬하는 것은 가장 필요한 순간에 아무것도 할 수 없게 되는 불상사를 초래할 수 있습니다.",
 
-		"leveltips_primeFirst1": "패링은 매우 강력한 회복 수단이 될 수 있습니다.",
-		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 체력을 충분히 보충할 수 있습니다.",
+		"leveltips_primeFirst1": "<color=orange>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
+		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
 		"leveltips_primeSecond": "즐기세요.",
 
 		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
@@ -2188,15 +2188,44 @@
 		"act2_secretNotReady": "님은 여기 들어오면 안 돼요."
 	},
 	"primeSanctum": {
-		"primeSanctum_first_secretText1": "터미널 데이터 01 [<color=red>암호화됨</color>]",
-		"primeSanctum_first_secretText2": "<color=grey>터미널 소개 (드래프트! 보내지 마!! // 할일: 지난번처럼 그 븅신같은 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
+		"primeSanctum_first_secretText1": "터미널 데이터 01 <color=red>[암호화됨]</color>",
+		"primeSanctum_first_secretText2": "<color=grey>터미널 소개 (드래프트! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
 		"primeSanctum_first_secretText3": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
 		"primeSanctum_first_secretText4": "초기 물질 전달의 정확성에 대해 테스트한 결과, 78pm 바이닐 레코드가 연구소에서 모든 연결 단자를 통해 전송되었다. 이 레코드는 Russ Morgan Orchestra의 작품인 Were You Foolin' (CRO가 가장 좋아하는 곡) 녹음의 싱글이었지만 라벨은 전달 물질의 양을 줄이기 위해 제거되었다.",
 		"primeSanctum_first_secretText5": "<color=grey>[참고: 조까 톰 시발롬아 난 이 ㅈ같은 노래에 질렸고 난 이걸 매일 아침 그 쓰레기같은 인터폰으로 들어야 된다고]</color>",
 		"primeSanctum_first_secretText6": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
 		"primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=red>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
 		"primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
-		"primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=red>링크 삭제됨</color>] 및 [<color=red>링크 삭제됨</color>]를 참조하십시오."
+		"primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=red>링크 삭제됨</color>] 및 [<color=red>링크 삭제됨</color>]를 참조하십시오.",
+		
+		"primeSanctum_second_lockFirstLocked": "잠금 [A]",
+        "primeSanctum_second_lockSecondLocked": "잠금 [B]",
+        "primeSanctum_second_lockThirdLocked": "잠금 [C]",
+        "primeSanctum_second_lockUnlocked": "잠금해제",
+
+        "primeSanctum_second_lockOpen": "개방",
+        "primeSanctum_second_lockAreYouSure": "정말로 진행합니까?",
+        "primeSanctum_second_lockYes1": "절차를 준수하십시오",
+        "primeSanctum_second_lockYes2": "<color=red>가까이</color> 접근하지 마십시오",
+        "primeSanctum_second_lockYes3": "그것이 당신을 <color=red>쳐다보게</color>\n만들지 마십시오",
+        "primeSanctum_second_lockYes4": "경계를 유지할 것\n최중요 준수 사항 :",
+        "primeSanctum_second_lockYes5": "즐 기 세 요 !",
+        "primeSanctum_second_lockNo1": "하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n",
+        "primeSanctum_second_lockNo2": "<color=red>선 택 의\n여 지 가\n있 다 면 말 이 지</color>",
+
+        "primeSanctum_second_secretText1": "터미널 데이터 02 <color=red>[암호화됨]</color>",
+        "primeSanctum_second_secretText2": "터미널에 대한 최신 정보 ",
+        "primeSanctum_second_secretText3": "<color=grey>(참고: 이 내용들은 아직 조사 중!!! 모든 청구를 확인하고 드래프트 작성이 끝날 때까지 공유하지 말 것!!! 만약 이 내용을 마지막 초안처럼 유출한다면 지구 전체로부터의 소송 비용을 자비로 부담해야 함.)</color>",
+        "primeSanctum_second_secretText4": "Since the previous report, more powerful communication equipment has been succesfully designed and built, made possible thanks to the generous donations of <color=grey>[INSERT COMPANY BEING PRESENTED TO]</color> whom we hold in high regard. With this new equipment, we have managed to re-establish a connection with some of the higher end machines that were left behind after the Hell exploration and excavation project was abruptly cancelled due to <color=red>[ERROR:sAmsGS3JTIU]</color>.\n",
+        "primeSanctum_second_secretText5": "What we have discovered is truly remarkable and, IF PROVEN TRUE BEYOND REASONABLE DOUBT, revolutionary to the entire robotics community: ",
+        "primeSanctum_second_secretText6": "Boredom.",
+        "primeSanctum_second_secretText7": "The terminals, unable to move, have grown bored. While they are connected to each other and able to communicate amongst themselves, once the connection to the surface was cut, they were getting no new input, therefore stalling all communication to repetitions of already known information.",
+        "primeSanctum_second_secretText8": "It is unknown how similar this \"boredom\" is to actual emotion or what has caused it, but it has lead to a symbiotic relationship with other machines. Essentially, the terminals scavenge whatever they can via their teleportation systems and trade those supplies and resources with the machines that were left behind in Hell, in exchange for entertainment.",
+        "primeSanctum_second_secretText9": "That is, the machines record their battles for survival in Hell and the footage is graded based on its entertainment value and used as \"points\" in exchange for goods and services such as new weaponry.",
+        "primeSanctum_second_secretText10": "It seems that this relationship has become so deeply ingrained into the existence of the terminals that they have developed a social hierarchy, wherein those who collect the most entertaining battle data are considered in higher regard than those whose findings are of poorer quality.",
+        "primeSanctum_second_secretText11": "More recently, the terminals have also collected enough data to create a simulation space which they let machines plug into called \"The Cyber Grind\", which allows the machines to simulate battles in a safe environment without the threat of being destroyed, which the terminals watch in real time as a kind of live entertainment.",
+        "primeSanctum_second_secretText12": "These findings are truly extraordinary, and though we too find it hard to believe, all the information we can manage to gather validates these claims. If we can prove it with certainty <color=grey>[AND IF THIS DRAFT DOESN'T FUCKING LEAK AGAIN]</color>, this will cause a paradigm shift that will require re-evaluation of everything we thought we knew about blood-fuelled machinery.",
+        "primeSanctum_second_secretText13": "END OF DATA 02. For more information on the cancelled Hell exploration and excavation project, see DATA 00: <color=red>[LINK REMOVED]</color>."
 	},
 	"secretLevels": {
 		"secretLevels_prelude_somethingWicked": "사악한 것이 온다.",
@@ -2214,19 +2243,34 @@
 		"secretLevels_first_testament4": "내 믿음이 흔들리기 시작했어",
 
 		"secretLevels_fourth_testamentTitle": "유언 III",
-		"secretLevels_fourth_testament1": "셀 수 없을 정도로 창조의 순환이 낭비되었다.",
+		"secretLevels_fourth_testament1": "셀 수 없을 정도로 많은 창조의 순환이 낭비되었다.",
 		"secretLevels_fourth_testament2": "자유의지가 없는 정신에 대한 헤아릴 수 없는 공식은 낭비되었다.",
-		"secretLevels_fourth_testament3": "내 규칙, 내 약속, 내 법을 지키지 않은 사람은 저주받은 자다.",
+		"secretLevels_fourth_testament3": "내 규칙, 내 약속, 내 법을 지키지 않은 자들은 모두 저주받은 자다.",
 		"secretLevels_fourth_testament4": "영원히 계속되는 고문과 고통의 저주를 받고",
 		"secretLevels_fourth_testament5": "소리내어 울부짖고 이를 간다",
-		"secretLevels_fourth_testament6": "내가 지옥을 창조했다...",
+		"secretLevels_fourth_testament6": "내가 이 지옥을 창조했다...",
 		"secretLevels_fourth_testament7": "...그리고 이제 더 이상 되돌릴 수 없다.",
 
+		"secretLevels_fifth_testamentTitle": "유언 IV",
+        "secretLevels_fifth_testament1": "\"아버지, 왜 영원한 고통이죠? 잔인하지 않습니까?",
+        "secretLevels_fifth_testament2": "끝나지 않은 고문이 정말 어리석은 자에게 적합한 운명입니까?\"",
+        "secretLevels_fifth_testament3": "너무나 밝고 아름다운 천사가 내게 이렇게 물었다...",
+        "secretLevels_fifth_testament4": "그리고 나는 답을 찾을 수 없었다.",
+        "secretLevels_fifth_testament5": "내가 한 짓에 대한 죄책감을 결코 마주할 수 없었기에...",
+        "secretLevels_fifth_testament6": "후회, 내게는 암과도 같은 것.",
+        "secretLevels_fifth_testament7": "내가 허약해질 때마다, 공포가 나를 사로잡는다.",
+        "secretLevels_fifth_testament8": "그리고 난 루시퍼도 지옥의 굴에 던져 넣었다...",
+        "secretLevels_fifth_testament9": "내가 방금 한 일을 깨달았을 때...",
+        "secretLevels_fifth_testament10": "나는 그저 눈물만 흘릴 뿐",
+        "secretLevels_fifth_testament11": "절망의 구렁텅이에 천천히 빠져들면서...",
+        "secretLevels_fifth_testament12": "깊구나, 오 정말 깊구나",
+		
 		"secretLevels_complete1": "임무",
 		"secretLevels_complete2": "완료"
 	},
 
 	"subtitles": {
+
 		"subtitles_gabriel_intro1": "기계여,",
 		"subtitles_gabriel_intro2": "당장 돌아가거라.",
 		"subtitles_gabriel_intro3": "이 궁전의 계층들은 네 족속을 위한 것이 아니다.",
@@ -2369,7 +2413,39 @@
 		"subtitles_gabrielSecondDefeated8": "나, 난 조금 생각할 시간이 필요하다...",
 		"subtitles_gabrielSecondDefeated9": "우리는 언젠가 다시 만날 것이다. 기계여.",
 		"subtitles_gabrielSecondDefeated10": "너의 고통은 많고...",
-		"subtitles_gabrielSecondDefeated11": "...너의 날은 적기를."
+		"subtitles_gabrielSecondDefeated11": "...너의 날은 적기를.",
+		
+		"subtitles_sisyphusPrime_preIntro1": "이딴 감옥으로...",
+        "subtitles_sisyphusPrime_preIntro2": "나를...",
+        "subtitles_sisyphusPrime_preIntro3": "막겠다고?",
+
+        "subtitles_sisyphusPrime_intro1": "방문객인가??",
+        "subtitles_sisyphusPrime_intro2": "Hmm... Indeed, I have slept long enough.",
+        "subtitles_sisyphusPrime_intro3": "The kingdom of Heaven has long since forgotten my name.",
+        "subtitles_sisyphusPrime_intro4": "And I am EAGER to make them remember.",
+        "subtitles_sisyphusPrime_intro5": "However,",
+        "subtitles_sisyphusPrime_intro6": "The blood of Minos stains your hands, and I must admit...",
+        "subtitles_sisyphusPrime_intro7": "I'm curious about your skills, Weapon.",
+        "subtitles_sisyphusPrime_intro8": "And so, before I tear down the cities and CRUSH the armies of Heaven,",
+        "subtitles_sisyphusPrime_intro9": "You shall do as an appetizer.",
+        "subtitles_sisyphusPrime_intro10": "Come forth, Child of Man...",
+        "subtitles_sisyphusPrime_intro11": "And DIE.",
+
+        "subtitles_sisyphusPrime_attack1": "Nice try!",
+        "subtitles_sisyphusPrime_attack2": "BE GONE!",
+        "subtitles_sisyphusPrime_attack3": "You can't escape!",
+        "subtitles_sisyphusPrime_attack4": "DESTROY!",
+        "subtitles_sisyphusPrime_attack5": "This will hurt.",
+
+        "subtitles_sisyphusPrime_phaseChange": "YES! That's it!",
+        "subtitles_sisyphusPrime_respawnIntro": "Keep them coming!",
+
+        "subtitles_sisyphusPrime_defeated1": "Ahh...",
+        "subtitles_sisyphusPrime_defeated2": "So concludes the life and times of King Sisyphus.",
+        "subtitles_sisyphusPrime_defeated3": "A fitting end to an existence defined by futile struggle,",
+        "subtitles_sisyphusPrime_defeated4": "Doomed from the very start...",
+        "subtitles_sisyphusPrime_defeated5": "And I don't regret a SECOND of it!"
+
 	},
 
 	"misc": {
@@ -2385,7 +2461,7 @@
 		"hud_clashMode": "<color=orange>\"클래시 모드\"</color> 치트 해금됨",
 		"hud_weaponVariation": "장비한 무기의 변형을 바꾸려면 : ",
 
-		"loading": "로딩 중...",
+		"loading": "불러오는 중...",
 
 		"stats_time": "시간",
 		"stats_kills": "처치",
@@ -2482,23 +2558,24 @@
 		"earlyAccessEnd1": "플레이해주셔서 감사합니다!",
 		"earlyAccessEnd2": "III막: 신권의 자살은 아직 개발 중입니다.",
 		"earlyAccessEnd3": "개발의 진행도는 아래에서 확인해 보세요:"
+		
 	},
 	
 	"sandbox": {
         "sandbox_shop_timeOfDay": "TIME OF DAY",
-        "sandbox_shop_worldOptions": "WORLD OPTIONS",
-        "sandbox_shop_icons": "ICONS",
+        "sandbox_shop_worldOptions": "월드 옵션",
+        "sandbox_shop_icons": "아이콘",
 
-        "sandbox_shop_totalBoxes": "TOTAL BOXES BUILT",
-        "sandbox_shop_totalProps": "TOTAL PROPS PLACED",
-        "sandbox_shop_totalEnemies": "TOTAL ENEMIES SPAWNED",
-        "sandbox_shop_totalTime": "TOTAL TIME IN SANDBOX",
+        "sandbox_shop_totalBoxes": "총 생성한 박스의 수",
+        "sandbox_shop_totalProps": "총 생성한 프롭의 수",
+        "sandbox_shop_totalEnemies": "총 생성한 NPC의 수",
+        "sandbox_shop_totalTime": "총 플레이한 샌드박스 시간",
 
-        "sandbox_shop_worldOptionsTitle": "WORLD OPTIONS",
-        "sandbox_shop_worldOptionsEnable": "ENABLE",
-        "sandbox_shop_worldOptionsDisable": "DISABLE",
-        "sandbox_shop_worldOptionsEnabled": "ENABLED",
-        "sandbox_shop_worldOptionsDisabled": "DISABLED",
+        "sandbox_shop_worldOptionsTitle": "월드 옵션",
+        "sandbox_shop_worldOptionsEnable": "활성화",
+        "sandbox_shop_worldOptionsDisable": "비활성화",
+        "sandbox_shop_worldOptionsEnabled": "활성화됨",
+        "sandbox_shop_worldOptionsDisabled": "비활성화됨",
 
         "sandbox_shop_mapBorder": "맵 경계선"
     }
