@@ -139,6 +139,18 @@
         "museum_bookKeygenChurch3": "We also collaborated on the connected ARG, with him doing most of the heavy lifting since he had already done similar things with his projects.",
         "museum_bookKeygenChurch4": "\"Low Resolution. High Imagination. Praise the code.\"",
 
+		"museum_bookHealth1": "<b><color=red>HEALTH</color> - GUEST COMPOSER</b>",
+        "museum_bookHealth2": "<b><color=red>BENJAMIN MILLER</color> - DRUMS",
+        "museum_bookHealth3": "<color=red>JACOB DUZSIK</color> - VOCALS, GUITAR",
+        "museum_bookHealth4": "<color=red>JOHN FAMIGLIETTI</color> - BASS, SOFTWARE</b>",
+        "museum_bookHealth5": "In early 2023 we collaborated with the band HEALTH to premiere their song \"HATEFUL\" in the Cyber Grind. I've been a fan of HEALTH ever since I heard their music in Max Payne 3 and their heavy, blood-pumping electronic beats are a perfect fit for ULTRAKILL's mayhem, so I'm very happy that their music became a part of the game.",
+        "museum_bookHealth6": "\"BACK TO THE CYBER GRIND\"",
+
+        "museum_bookQuetzalTirado1": "<b><color=#AA4CAD>QUETZAL TIRADO</color> - GUEST MUSICIAN</b>",
+        "museum_bookQuetzalTirado2": "I met Quetzal through a mutual friend in early 2021, when I asked her if she could record a saxophone solo for the P-1 song \"CHAOS\". The solo didn't really end up working out, but parts of her recordings were still included and scattered about the track for added noise and texture.",
+        "museum_bookQuetzalTirado3": "Later, she recorded improvised saxophone solos for the 5-1 song \"Deep Blue\", which I edited into what you hear in the final version. She also recorded the bass clarinet drone which turned into the Sisyphean Insurrectionist's horn sound effect.",
+        "museum_bookQuetzalTirado4": "\"my mom liked the song i'm on in ultrakill, so i think at this point i count as a successful artist, right? also many thanks to the gay people, find me on that one level where the water fucks up the music, baby\"",
+
         "museum_bookSalad1": "<b><color=#20FF20>SALAD</color> - ARTIST OF JAKITO</b>",
         "museum_bookSalad2": "Salad drew Jakito.",
         "museum_bookSalad3": "Some of their biggest contributions include:",
@@ -229,6 +241,14 @@
         "museum_weaponsNailgun5": "The nailgun is probably the weapon that had to go through the most iteration before it finally found its place in the arsenal. In fact, it wasn't until the Sandbox update in Summer 2021 that it finally really clicked in, meaning it took 2 years of constant tinkering and iteration to make an automatic weapon fit the ULTRAKILL arsenal. The biggest change was the change from infinite ammo to recharging ammo, giving players more reason to switch away from it after a bit of use, but the change that finally really made it click was speeding up the equip animation, which made switching to it in combat much smoother, making it feel like an organic part of weapon combos.",
         "museum_weaponsNailgun6": "Some scrapped ideas and versions include a high damage slow recharge harpoon and a version that allowed for firing both barrels simultaneously, increasing rate of fire at the cost of the player's movement speed. The former eventually evolved into the magnet and the latter into the overheat, so despite how much things have changed, parts of the originals still remain.",
 
+		"museum_enemiesFilth1": "<b><color=orange>FILTH</color>",
+        "museum_enemiesFilth2": "LEFT: 2018 Original by Toni Stigell and FlyingDog",
+        "museum_enemiesFilth3": "RIGHT: 2020 Remake by Jericho, BigRock and Victoria</b>",
+        "museum_enemiesFilth4": "The Filth, originally just called \"Zombie\" or \"Husk\", was the second enemy designed for the game. We didn't have concept artists at the time, so I just told Toni to make a scrawny zombie like the ones from Quake. This was the usual process before BigRock joined as the first concept artist, and the contrast in design quality makes it clear that creative concept artists can really make a big difference.",
+        "museum_enemiesFilth5": "An interesting aspect of the Filth is that, in the early versions of the demo, people complained about the AI of the melee enemies being too dumb, but those complaints completely stopped after the redesign. The new version actually looks like a mindless swarming monster that only thinks about eating, so it being dumb no longer felt out of place or like a flaw. Properly messaging the purpose of an enemy or object through how it looks is an often underappreciated aspect of character design.",
+        "museum_enemiesFilth6": "The new design is inspired by the debut album by Swans, which is also where the enemy got its name from. At first the model's mouth and teeth were much smaller, but I just kept telling Victoria \"BIGGER!\" until we reached the point it's at now.",
+        "museum_enemiesFilth7": "The Filth was originally colored orange to make it fit into the Prelude chapter, but it actually became an issue where people would often have a hard time seeing them since they fit in <i>too</i> well, so their primary color was swapped to green instead.",
+
         "museum_enemiesStray1": "<color=orange>STRAY</color>",
         "museum_enemiesStray2": "LEFT: 2018 Original by Toni Stigell, FlyingDog and Hakita",
         "museum_enemiesStray3": "RIGHT: 2020 Remake by Jericho and Sam",
@@ -307,7 +327,7 @@
         "museum_plaquesScottGurney2": "기술적 QA 담당",
 
         "museum_plaquesPitr1": "PITR",
-        "museum_plaquesPitr2": "리드 프로그래머",
+        "museum_plaquesPitr2": "총괄 프로그래머",
 
         "museum_plaquesHeckteck1": "HECKTECK",
         "museum_plaquesHeckteck2": "보조 프로그래머",
@@ -325,10 +345,16 @@
         "museum_plaquesDaveOshry2": "뉴 블러드 인터랙티브 CEO",
 
         "museum_plaquesMeganeko1": "MEGANEKO",
-        "museum_plaquesMeganeko2": "게스트 작곡가",
+        "museum_plaquesMeganeko2": "객원 작곡가",
 
         "museum_plaquesKeygenChurch1": "KEYGEN CHURCH",
-        "museum_plaquesKeygenChurch2": "게스트 작곡가",
+        "museum_plaquesKeygenChurch2": " 객원 작곡가",
+		
+		"museum_plaquesHealth1": "HEALTH",
+        "museum_plaquesHealth2": "객원 작곡가",
+
+        "museum_plaquesQuetzalTirado1": "QUETZAL TIRADO",
+        "museum_plaquesQuetzalTirado": "객원 작곡가",
 
         "museum_plaquesSalad1": "SALAD",
         "museum_plaquesSalad2": "JAKITO의 아티스트",
@@ -376,6 +402,13 @@
 
         "fish_leaderboard": "물고기 크기 순위표",
 
+		"fish_bottleMessage1": "이걸 읽을 수 있다면, 제발 도와줘. 나는 몇 주 동안 바다 저편의 섬에 갇혀 있고, 식량이 얼마 안 남았어.",
+        "fish_bottleMessage2": "나는 전설의 크기 2 물고기를 찾을 수 있으리라는 희망에 이끌려 파도를 타고 갔어. 그리고 육지와 호수를 빠뜨림 없이 헛되이 뒤져보았지.",
+        "fish_bottleMessage3": "난 그 물고기가 먼 바다에 있다는 것을 소거법으로 유추했고, 그래서 한 달은 족히 먹을 양의 구운 물고기를 챙겨 바다로 떠났지만, 무언가를 찾을 새도 없이 배가 풍랑에 가라앉았어.",
+        "fish_bottleMessage4": "네가 내 마지막 희망이야.",
+        "fish_bottleMessage5": "북두칠성을 향해 배를 몰아, 그러면 섬에서 나를 찾을 수 있을 거야. 내가 탐색을 지속할 수 있도록 음식을 더 가져오고 다시 떠나.",
+        "fish_bottleMessage6": "크기 2 물고기는 내 꺼야.",
+
         "fish_book1": "529일째.",
         "fish_book2": "아직 찾고 있다.",
         "fish_book3": "216일동안 기관에서 연락이 오지 않는다.",
@@ -392,9 +425,10 @@
         "fish_rodHooked": "물었다!",
         "fish_outOfWater": "밖으로 나옴",
         "fish_fishCaught": "낚시 성공! ",
+		"fish_cookingFailed": "요리 실패.",
         "fish_size": "크기 : 1",
 
-        "fish_living": "\"이게 내 삶이야.\"",
+        "fish_living": "\"이게 내 생업이야.\"",
         "fish_tooSmall": "이 물고기를 굽기에는 너무 작다. :^(",
         "fish_baitTaken": "물고기가 미끼를 낚아챘다.",
         "fish_baitNotWork": "이 미끼는 여기서 사용할 수 없는 것 같다.",
@@ -483,9 +517,9 @@
 		"style_ricoshotUltra": "울트라",
 		"style_ricoshotCounter": "카운터",
 		"style_secret": "비밀 발견",
-		"style_scrindonguloded": "SCRINDONGULODED",
-		"style_scrongled": "SCRONGLED",
-        "style_scrongbongled": "SCRONGBONGLED",
+		"style_scrindonguloded": "송그락동그락해짐",
+		"style_scrongled": "송그러짐",
+        "style_scrongbongled": "송글봉글해짐",
 		"style_splattered": "낙사",
 		"style_triplekill": "트리플 킬",
 
@@ -540,6 +574,7 @@
 		"cybergrind_settingsDescription": "이 터미널은 사이버 그라인드 커스터마이징용입니다.",
 		"cybergrind_themes": "테마",
 		"cybergrind_patterns": "패턴",
+		"cybergrind_music": "음악",
 		"cybergrind_waves": "단계",
 
 		"cybergrind_themesTitle": "테마",
@@ -558,6 +593,15 @@
 		"cybergrind_themesCustomTopRow": "맨 윗줄",
 		"cybergrind_themesCustomTop": "위",
 		"cybergrind_themesCustomGlowIntensity": "발광 정도",
+
+		"cybergrind_musicTitle": "플레이리스트",
+        "cybergrind_musicCompleteChallengeRequirement": "도전을 성공해야 함 : ",
+        "cybergrind_musicSeeEnemyRequirement": "새로운 적과 조우하십시오",
+        "cybergrind_musicUnlockLevelRequirement": "도달해야 함 : ",
+        "cybergrind_musicCompleteLevelRequirement": "완료해야 함 : ",
+        "cybergrind_musicUnlocked": "잠금 해제됨",
+        "cybergrind_musicConfirm": "확인",
+        "cybergrind_musicSoundtrack": "사운드트랙",
 
 		"cybergrind_patternsTitle": "패턴",
 		"cybergrind_patternsRefresh": "새로 고침",
@@ -790,6 +834,10 @@
 		"level_fullIntroPromptYes": "예",
 		"level_fullIntroPromptNo": "아니오",
 		"level_fullIntroPromptCancel": "취소"
+		
+		"leaderboard_anyPercent": "모두",
+        "leaderboard_pPercent": "P 등급",
+        "leaderboard_noEntries": "순위표 항목 없음"
 	},
 	"visualnovel": {
 		"visualnovel_mirageName1": "누군가",
@@ -1492,6 +1540,10 @@
 		"shop_revolverMarksmanDescription2": "<color=orange>공중에 뜬</color> 코인을 맞추면 탄환이 <color=orange>도탄</color>되어 적의 <color=orange>약점</color>을 직격으로 맞출 수 있습니다.",
 		"shop_revolverMarksmanDescription3": "던져진 코인끼리는 리코샷이 서로 <color=orange>연결</color>됩니다.",
 
+		"shop_revolverSharpshooter": "샤프슈터",
+        "shop_revolverSharpshooterDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 관통하고 <color=orange>벽에 도탄되는</color> 광선을 충전합니다.",
+        "shop_revolverSharpshooterDescription2": "<color=orange>투사체</color>를 파괴할 수 있습니다.",
+
 		"shop_shotgunCoreEject": "코어 이젝트",
 		"shop_shotgunCoreEjectDescription1": "보조 발사 버튼으로 샷건의 <color=orange>코어</color>를 과열시켜 <color=orange>사출</color>합니다.",
 		"shop_shotgunCoreEjectDescription2": "<color=orange>오래 누를수록</color> 사거리가 <color=orange>늘어납니다.</color>",
@@ -1600,8 +1652,10 @@
         "shop_loreRocketLauncher9": "로켓 런처는 꺼낸 후 대기 시간을 거의 필요로 하지 않는다. 즉, 다른 무기들과의 연계를 이어가는 과정에서 신속하게 추가 피해를 주기 위해 빠르게 꺼내 쏜 다음 다시 다른 무기로 꺼내 대응할 수 있다.",
         "shop_loreRocketLauncher10": "로켓은 어트랙터 변형의 자석에 이끌리지만 유도되는 힘이 다소 떨어진다. 프리즈프레임 변형을 사용하면 유도탄의 정확도를 향상시킬 수 있다.",
         "shop_loreRocketLauncher11": "발사된 로켓을 위플래시로 잡으면 로켓은 추진을 멈추고 사용자를 향해 끌어당겨진다. 위플래시로 잡은 로켓이 다른 적과 충돌하지 않는 이상, 사용자와 충돌할 때 폭발을 일으키고 뒤로 밀려난다.",
-        "shop_loreRocketLauncher12": "가벼운 적들은 위플래시에 의해 당겨질 때 공중에 뜨기 때문에 에어샷을 위해 유용하게 사용할 수 있다. 그러나 사용자가 폭발의 증가된 반경을 피하려면 목표물로부터 멀리 떨어진 상태여야 한다.",
-        "shop_loreRocketLauncher13": "V1을 비롯한 몇몇 가벼운 기계들은 로켓 위에 올라탈 수 있다. 이것은 프리즈프레임 변형으로 로켓을 멈춘 후 그 위로 점프하면 쉽게 할 수 있다. 비록 낮은 무게에도 불구하고 로켓 위에 올라타면 시간이 지나면서 점차 추진력을 잃고 떨어지게 되지만, 물 속에서의 V1은 이러한 낙하를 야기하지 않을 만큼 충분히 가볍다.",
+        "shop_loreRocketLauncher12": "S.R.S. 캐논의 대포알은 때려서 더 세게 날려보낼 수 있고, 히트스캔 무기로 맞춰 폭발을 일으키거나 땅에 떨어뜨려 적들을 공중에 띄울 수 있습니다.",
+		"shop_loreRocketLauncher13": "가벼운 적들은 위플래시에 의해 당겨질 때 공중에 뜨기 때문에 에어샷을 위해 유용하게 사용할 수 있다. 그러나 사용자가 폭발의 증가된 반경을 피하려면 목표물로부터 멀리 떨어진 상태여야 한다.",
+        "shop_loreRocketLauncher14": "V1을 비롯한 몇몇 가벼운 기계들은 로켓 위에 올라탈 수 있다. 이것은 프리즈프레임 변형으로 로켓을 멈춘 후 그 위로 점프하면 쉽게 할 수 있다. 비록 낮은 무게에도 불구하고 로켓 위에 올라타면 시간이 지나면서 점차 추진력을 잃고 떨어지게 되지만, 물 속에서의 V1은 이러한 낙하를 야기하지 않을 만큼 충분히 가볍다.",
+		"shop_loreRocketLauncher15": "S.R.S. 캐논 변형의 대포알은 발사되자마자 때릴 수 있는 상태이긴 하지만, 적에게 한 번 부딪힌 뒤 때릴 경우 내구성이 훨씬 향상됩니다.",
 
 		"shop_revolverPreset1": "일반",
 		"shop_revolverPreset2": "매그넘",
@@ -1663,9 +1717,9 @@
 		"enemyname_gabriel": "가브리엘",
 		"enemyname_virtue": "버추",
 		"enemyname_somethingWicked": "사악한 것",
-		"enemyname_fleshPrison": "살점 감옥",
+		"enemyname_fleshPrison": "살덩이 감옥",
 		"enemyname_minosPrime": "미노스 프라임",
-		"enemyname_boss_fleshPanopticon": "살점 파놉티콘",
+		"enemyname_boss_fleshPanopticon": "살덩이 파놉티콘",
         "enemyname_boss_sisyphusPrime": "시시포스 프라임",
 
 		"enemyname_boss_cerberus": "케르베로스, 지옥의 문지기",
@@ -2121,6 +2175,7 @@
 		"act1_limboFirst_nailgun3": "주위에 부착해 함정을 만들 수 있습니다.",
 
 		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
+		
 		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위한 해골이 <color=red>하나만</color> 있어도 <color=cyan>작동합니다</color>.",
 		"act1_limboThird_splitDoor2": "사서 고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
@@ -2420,31 +2475,31 @@
         "subtitles_sisyphusPrime_preIntro3": "막겠다고?",
 
         "subtitles_sisyphusPrime_intro1": "방문객인가??",
-        "subtitles_sisyphusPrime_intro2": "Hmm... Indeed, I have slept long enough.",
-        "subtitles_sisyphusPrime_intro3": "The kingdom of Heaven has long since forgotten my name.",
-        "subtitles_sisyphusPrime_intro4": "And I am EAGER to make them remember.",
-        "subtitles_sisyphusPrime_intro5": "However,",
-        "subtitles_sisyphusPrime_intro6": "The blood of Minos stains your hands, and I must admit...",
-        "subtitles_sisyphusPrime_intro7": "I'm curious about your skills, Weapon.",
-        "subtitles_sisyphusPrime_intro8": "And so, before I tear down the cities and CRUSH the armies of Heaven,",
-        "subtitles_sisyphusPrime_intro9": "You shall do as an appetizer.",
-        "subtitles_sisyphusPrime_intro10": "Come forth, Child of Man...",
-        "subtitles_sisyphusPrime_intro11": "And DIE.",
+        "subtitles_sisyphusPrime_intro2": "흠... 과연, 내가 정말 오랫동안 잠들었군.",
+        "subtitles_sisyphusPrime_intro3": "하늘의 왕국은 내 이름을 망각한 지 오래 되었다.",
+        "subtitles_sisyphusPrime_intro4": "그 자들이 기억을 되찾게 해 주고 싶군.",
+        "subtitles_sisyphusPrime_intro5": "하지만,",
+        "subtitles_sisyphusPrime_intro6": "미노스의 피가 너의 손을 적시기에, 이 것 하나는 인정하도록 하지...",
+        "subtitles_sisyphusPrime_intro7": "너의 기술이 궁금하다, 무기여.",
+        "subtitles_sisyphusPrime_intro8": "그러므로, 내가 도시들을 무너뜨리고 천국의 군세를 박살내 버리기 전에,",
+        "subtitles_sisyphusPrime_intro9": "네가 에피타이저가 되어 주어야겠다.",
+        "subtitles_sisyphusPrime_intro10": "이리 와라, 사람의 아들아...",
+        "subtitles_sisyphusPrime_intro11": "그리고 죽어라.",
 
-        "subtitles_sisyphusPrime_attack1": "Nice try!",
-        "subtitles_sisyphusPrime_attack2": "BE GONE!",
-        "subtitles_sisyphusPrime_attack3": "You can't escape!",
-        "subtitles_sisyphusPrime_attack4": "DESTROY!",
-        "subtitles_sisyphusPrime_attack5": "This will hurt.",
+        "subtitles_sisyphusPrime_attack1": "시도는 좋았다!",
+        "subtitles_sisyphusPrime_attack2": "없어져라!",
+        "subtitles_sisyphusPrime_attack3": "빠져나갈 수 없다!",
+        "subtitles_sisyphusPrime_attack4": "파괴한다!",
+        "subtitles_sisyphusPrime_attack5": "이건 좀 아플 거다.",
 
-        "subtitles_sisyphusPrime_phaseChange": "YES! That's it!",
-        "subtitles_sisyphusPrime_respawnIntro": "Keep them coming!",
+        "subtitles_sisyphusPrime_phaseChange": "그래! 이거야!",
+        "subtitles_sisyphusPrime_respawnIntro": "계속 와라!",
 
-        "subtitles_sisyphusPrime_defeated1": "Ahh...",
-        "subtitles_sisyphusPrime_defeated2": "So concludes the life and times of King Sisyphus.",
-        "subtitles_sisyphusPrime_defeated3": "A fitting end to an existence defined by futile struggle,",
-        "subtitles_sisyphusPrime_defeated4": "Doomed from the very start...",
-        "subtitles_sisyphusPrime_defeated5": "And I don't regret a SECOND of it!"
+        "subtitles_sisyphusPrime_defeated1": "아...",
+        "subtitles_sisyphusPrime_defeated2": "이렇게 시시포스 왕의 삶과 이야기가 끝나는군.",
+        "subtitles_sisyphusPrime_defeated3": "헛된 몸부림으로 정의된 존재에게 걸맞는 최후지,",
+        "subtitles_sisyphusPrime_defeated4": "처음부터 잘못돼 있었어...",
+        "subtitles_sisyphusPrime_defeated5": "그리고 나는 한 순간도 후회하지 않는다!"
 
 	},
 
