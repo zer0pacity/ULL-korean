@@ -399,12 +399,12 @@
 
 		"fish_leaderboard": "물고기 크기 순위표",
 
-		"fish_bottleMessage1": "이걸 읽을 수 있다면, 제발 도와줘. 나는 몇 주 동안 바다 저편의 섬에 갇혀 있고, 식량이 얼마 안 남았어.",
-		"fish_bottleMessage2": "나는 전설의 크기 2 물고기를 찾을 수 있으리라는 희망에 이끌려 파도를 타고 갔어. 그리고 육지와 호수를 빠뜨림 없이 헛되이 뒤져보았지.",
-		"fish_bottleMessage3": "난 그 물고기가 먼 바다에 있다는 것을 소거법으로 유추했고, 그래서 한 달은 족히 먹을 양의 구운 물고기를 챙겨 바다로 떠났지만, 무언가를 찾을 새도 없이 배가 풍랑에 가라앉았어.",
-		"fish_bottleMessage4": "네가 내 마지막 희망이야.",
-		"fish_bottleMessage5": "북두칠성을 향해 배를 몰아, 그러면 섬에서 나를 찾을 수 있을 거야. 내가 탐색을 지속할 수 있도록 음식을 더 가져오고 다시 떠나.",
-		"fish_bottleMessage6": "크기 2 물고기는 내 꺼야.",
+		"fish_bottleMessage1": "이걸 읽을 수 있다면, 제발 도와주세요. 저는 몇 주 동안 바다 저편의 섬에 갇혀 있었고, 식량이 얼마 안 남았습니다.",
+		"fish_bottleMessage2": "저는 전설의 크기 2 물고기를 찾을 수 있으리라는 희망에 이끌려 파도를 타고 갔습니다. 그리고 육지와 호수를 빠뜨림 없이 헛되이 뒤져보았죠.",
+		"fish_bottleMessage3": "저 그 물고기가 머나먼 바다에 있다는 것을 소거법으로 유추해 냈고, 그래서 한 달은 족히 먹을 양의 구운 물고기를 챙겨 바다로 떠났지만, 무언가를 찾을 새도 없이 배가 풍랑에 가라앉고 말았습니다.",
+		"fish_bottleMessage4": "당신만이 제 마지막 희망입니다.",
+		"fish_bottleMessage5": "북두칠성을 향해 배를 몰고 가면, 그 섬에서 저를 찾을 수 있을 겁니다. 제가 탐색을 지속할 수 있게끔 음식을 더 가져와 주십시오.",
+		"fish_bottleMessage6": "그리고 잊지 마라. 크기 2 물고기는 내 것이다.",
 
 		"fish_book1": "529일째.",
 		"fish_book2": "아직 찾고 있다.",
@@ -1531,7 +1531,7 @@
 		"shop_revolverMarksmanDescription3": "던져진 코인끼리는 리코샷이 서로 <color=orange>연결</color>됩니다.",
 
 		"shop_revolverSharpshooter": "샤프슈터",
-		"shop_revolverSharpshooterDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 관통하고 <color=orange>벽에 도탄되는</color> 광선을 충전합니다.",
+		"shop_revolverSharpshooterDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 적을 관통하고 <color=orange>표면에 맞으면 도탄되는</color> 광선을 충전합니다.",
 		"shop_revolverSharpshooterDescription2": "<color=orange>투사체</color>를 파괴할 수 있습니다.",
 
 		"shop_shotgunCoreEject": "코어 이젝트",
@@ -2432,7 +2432,7 @@
 		"subtitles_gabrielSecondTaunt1": "더. 강해야. 할 거다.",
 		"subtitles_gabrielSecondTaunt2": "와서 피를 가져가라!",
 		"subtitles_gabrielSecondTaunt3": "이 감정은...뭐지?",
-		"subtitles_gabrielSecondTaunt4": "고철덩어리밖에 아닌 것이!",
+		"subtitles_gabrielSecondTaunt4": "고작 고철덩어리 따위가!",
 		"subtitles_gabrielSecondTaunt5": "점점 녹슬고 있군, 기계여!",
 		"subtitles_gabrielSecondTaunt6": "이게 날 이겼다고?!",
 		"subtitles_gabrielSecondTaunt7": "내 과오를 바로잡을 때다!",
