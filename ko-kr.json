@@ -79,6 +79,7 @@
 		"museum_bookToniStigell6": "- The design for the original version of the Filth",
 		"museum_bookToniStigell7": "- Getting me into DMC in the first place",
 
+
 		"museum_bookToniFlyingDog1": "<b><color=#6a36be>FLYINGDOG</color> - 3D ARTIST</b>",
 		"museum_bookToniFlyingDog2": "FlyingDog joined the team right at the start of development in early 2018, designing and creating many of the first 3D models and their textures. Although most of these models have since been remade and replaced, they're still based on his original designs and many of his original models can still be seen here and there as easter eggs. His final contribution to the game was the texture for the Feedbacker arm in mid 2019.",
 		"museum_bookToniFlyingDog3": "이 분의 주요 기여 목록은 다음과 같습니다.",
@@ -100,6 +101,7 @@
 		"museum_bookQATeam8": "\"Be it games, music, movies or the company of others, be sure to enjoy the good times that you experience and always look back on life with a positive note. Life is precious, and after all, It's your own show. Enjoy your life to its fullest and give everyone respect and love. A smile on someone's face is worth its weight in gold!\"",
 		"museum_bookQATeam9": "\"Of all the scars on my psyche, this one will always remain a favored one. from that cursed door to the accidental spawner arm slip, its been a great time regardless! Sometimes videogames can be cool as hell. hopefully we can get more of them!\"",
 		"museum_bookQATeam10": "\"Being able to help bring to fruition a strong creative vision like Hakita's has been an absolute honor and an unforgettable experience. I will remain forever grateful for the opportunity, and I look forward to whatever might come next!\"",
+
 
 		"museum_bookPitr1": "<b><color=orange>PITR</color> - LEAD PROGRAMMER</b>",
 		"museum_bookPitr2": "PITR already started helping out with programming in late 2019, but was officially added to the team in early 2020 thanks to his ULTRAKILL mods and an early attempt at a custom level system. He's responsible for most advanced programming in the game, such as systems like cheats, Cyber Grind patterns and subtitles. He also created the entirety of the Sandbox and 5-S, with only minor aesthetic touch-ups from me.",
@@ -284,6 +286,7 @@
 		"museum_plaquesRestRoom": "REST ROOM",
 		"museum_plaquesTalkRoom": "TALK ROOM",
 
+
 		"museum_plaquesHakita1": "ARSI \"HAKITA\" PATALA",
 		"museum_plaquesHakita2": "울트라킬의 창조자",
 
@@ -430,6 +433,7 @@
 		"fish_baitTaken": "물고기가 미끼를 낚아챘다.",
 		"fish_baitNotWork": "이 미끼는 여기서 사용할 수 없는 것 같다.",
 		"fish_interrupted": "낚시가 중단되었다.",
+		"fish_noFishBiting": "입질이 전혀 없다...",
 
 		"fish_terminalTitle": "고오급 낚시 팁",
 		"fish_funnyStupidFish": "재밌는 바보 물고기 (친구)",
@@ -600,6 +604,7 @@
 		"cybergrind_musicConfirm": "확인",
 		"cybergrind_musicSoundtrack": "사운드트랙",
 
+		"cybergrind_patternsWarning": "경고: 사용자 지정 패턴 사용 시 최고 기록이 저장되지 않습니다",
 		"cybergrind_patternsTitle": "패턴",
 		"cybergrind_patternsRefresh": "새로 고침",
 		"cybergrind_patternsLaunchExternalEditor": "에디터",
@@ -1302,6 +1307,7 @@
 		"rumble_slide": "Sliding",
 		"rumble_whiplashThrow": "Whiplash Throw",
 		"rumble_whiplashPull": "Whiplash Pull",
+		"rumble_weaponWheel": "Weapon Wheel Tick",
 		"rumble_intensity": "INTENSITY",
 		"rumble_endDelay": "END DELAY",
 		"rumble_reset": "RESET",
