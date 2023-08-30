@@ -29,7 +29,7 @@
 		"museum_bookHakita13": "울트라킬을 즐겁게 플레이해 주셔서 감사합니다. 제가 게임에서 재밌다고 생각했던 것들을 바탕으로 시작한 열정 프로젝트가 이렇게 큰 성공을 거두었다는 것 자체가 놀라운데요, 저는 이 게임 덕분에 굉장한 사람들을 많이 만날 수 있었고, 그 주변에서 성장한 공동체는 제 인생에서 많은 기쁨(그리고 많은 고뇌)의 원천이었습니다. 이런 작품을 창조적으로 완벽히 다룰 수 있을 뿐만 아니라, 제 비전을 훼손하지 않고도 저의 작품으로 생계를 이어나갈 수 있다는 건 드문 선물입니다. 뉴 블러드의 직원분들과, 이 박물관의 모든 개발자들, 그리고 마지막으로 <b>여러분들</b>께 감사를 전합니다!",
 
 		"museum_bookFrancisXie1": "<b><color=#4AACBD>FRANCIS XIE</color> - 컨셉 및 텍스처 아티스트</b>",
-		"museum_bookFrancisXie2": "이 분은 2021년부터 저희 팀에 합류했습니다. 분노의 층이 개발이 시작될 무렵, 엄청난 퀄리티의 울트라킬 팬아트 덕분에 뉴 블러드의 일반 아티스트로 발탁되었습니다.",
+		"museum_bookFrancisXie2": "이 분은 2021년부터 저희 팀에 합류했습니다. 분노의 층의 개발이 시작될 무렵, 엄청난 퀄리티의 울트라킬 팬아트 덕분에 뉴 블러드의 일반 아티스트로 발탁되었습니다.",
 		"museum_bookFrancisXie3": "이 분의 주요 기여 목록은 다음과 같습니다.",
 		"museum_bookFrancisXie4": "- 레비아탄, 뱃사공의 디자인, 그리고 미노스와 시시포스의 생전 디자인과 초상화",
 		"museum_bookFrancisXie5": "- 6-2: 증오의 미학 스테이지에 등장하는 교회 오르간 디자인",
@@ -177,30 +177,31 @@
 		"museum_bookAdditionalMusic9": "\"Fallen Angel\" in 6-2: AESTHETICS OF HATE: Adapted from \"BWV 639 'I call to you, Lord Jesus Christ'\" by Johann Sebastian Bach",
 		"museum_bookAdditionalMusic10": "\"7th Symphony, 2nd Movement: Allegretto\" in Intermission 2: Written by Ludwig van Beethoven, performance by Lambis Vassiliadis (Public domain)",
 
-		"museum_bookAdditionalCredits1": "<b>ADDITIONAL CREDITS:</b>",
-		"museum_bookAdditionalCredits2": "Special thanks to:",
-		"museum_bookAdditionalCredits3": "<b>Magnega</b> for telling me my previous game, Untraceable, was unfun, causing an existential crisis that resulted in me dropping that project and making ULTRAKILL instead",
-		"museum_bookAdditionalCredits4": "<b>Mikko Tamper and Robert Raulus</b> for their continued support as well as beta testing and giving feedback",
-		"museum_bookAdditionalCredits5": "<b>B.G.B. and Splendid</b> for beta testing and giving feedback",
+		"museum_bookAdditionalCredits1": "<b><color=orange>ADDITIONAL CREDITS:</color></b>",
+        "museum_bookAdditionalCredits2": "<b><color=orange>COMMUNITY CYBER GRIND PATTERNS</color></b> by:",
+        "museum_bookAdditionalCredits3": "<b><color=orange>SPECIAL THANKS</color></b> to:",
+        "museum_bookAdditionalCredits4": "<b>Magnega</b> for telling me my previous game, Untraceable, was unfun, causing an existential crisis that resulted in me dropping that project and making ULTRAKILL instead",
+        "museum_bookAdditionalCredits5": "<b>Mikko Tamper and Robert Raulus</b> for their continued support as well as beta testing and giving feedback",
+        "museum_bookAdditionalCredits6": "<b>B.G.B. and Splendid</b> for beta testing and giving feedback",
 
-		"museum_bookStephanWeyte1": "<b><color=orange>STEPHAN WEYTE</color> - VOICE OF MINOS PRIME</b>",
-		"museum_bookStephanWeyte2": "As with most people, I mainly knew Stephan Weyte as the voice of Caleb from Blood, but hearing him as Nyarlathotep in Dusk made it clear that he still had the skills, so even before joining New Blood, I had already decided that I wanted Stephan to voice someone in ULTRAKILL. When time came to choose the voice for Minos Prime, the choice was obvious.",
-		"museum_bookStephanWeyte3": "Stephan was lovely to work with, and his voice lends so much richness and character to Minos that I really can't imagine him any other way. ",
+        "museum_bookStephanWeyte1": "<b><color=orange>STEPHAN WEYTE</color> - VOICE OF MINOS PRIME</b>",
+        "museum_bookStephanWeyte2": "As with most people, I mainly knew Stephan Weyte as the voice of Caleb from Blood, but hearing him as Nyarlathotep in Dusk made it clear that he still had the skills, so even before joining New Blood, I had already decided that I wanted Stephan to voice someone in ULTRAKILL. When time came to choose the voice for Minos Prime, the choice was obvious.",
+        "museum_bookStephanWeyte3": "Stephan was lovely to work with, and his voice lends so much richness and character to Minos that I really can't imagine him any other way. ",
 
-		"museum_bookLenvalBrown1": "<b><color=orange>LENVAL BROWN</color> - VOICE OF SISYPHUS PRIME</b>",
-		"museum_bookLenvalBrown2": "I approached Lenval in early 2023 after hearing his fantastic performance as the narrator in Disco Elysium and feeling that his deep, textural voice would be the perfect fit for King Sisyphus. He was a pleasure to work with and helped really make Sisyphus stand out as his own unique character.",
+        "museum_bookLenvalBrown1": "<b><color=orange>LENVAL BROWN</color> - VOICE OF SISYPHUS PRIME</b>",
+        "museum_bookLenvalBrown2": "I approached Lenval in early 2023 after hearing his fantastic performance as the narrator in Disco Elysium and feeling that his deep, textural voice would be the perfect fit for King Sisyphus. He was a pleasure to work with and helped really make Sisyphus stand out as his own unique character.",
 
-		"museum_bookGianniMatragrano1": "<b><color=#20afdb>GIANNI MATRAGRANO</color> - VOICE OF GABRIEL</b>",
-		"museum_bookGianniMatragrano2": "Gianni originally approached me offering his talents in late 2019, but we didn't start working together until mid-late 2020, a bit less than a week before the game came out in Early Access. Despite the short timeframe, he knocked it out of the park, not only defining and solidifying Gabriel's character and voice but also delivering fantastic performances that manage to capture both his visceral intensity and the subtler nuances of his internal world.",
-		"museum_bookGianniMatragrano3": "Since then he's only gotten better, and I'm very glad to work with someone who understands both my vision of the story and the character of Gabriel so well that he was able to improvise all of the taunts in Gabriel's first fight. He's a joy to work with and the dream of any over-ambitious indie developer like me.",
-		"museum_bookGianniMatragrano4": "\"Can you write in it that I said thank you to gay people.\"",
+        "museum_bookGianniMatragrano1": "<b><color=#20afdb>GIANNI MATRAGRANO</color> - VOICE OF GABRIEL</b>",
+        "museum_bookGianniMatragrano2": "Gianni originally approached me offering his talents in late 2019, but we didn't start working together until mid-late 2020, a bit less than a week before the game came out in Early Access. Despite the short timeframe, he knocked it out of the park, not only defining and solidifying Gabriel's character and voice but also delivering fantastic performances that manage to capture both his visceral intensity and the subtler nuances of his internal world.",
+        "museum_bookGianniMatragrano3": "Since then he's only gotten better, and I'm very glad to work with someone who understands both my vision of the story and the character of Gabriel so well that he was able to improvise all of the taunts in Gabriel's first fight. He's a joy to work with and the dream of any over-ambitious indie developer like me.",
+        "museum_bookGianniMatragrano4": "\"Can you write in it that I said thank you to gay people.\"",
 
-		"museum_bookMandalore1": "<b><color=#e09e2e>MANDALORE</color> <color=#9884bb>HERRINGTON</color> - VOICE OF MYSTERIOUS DRUID KNIGHT</b>",
-		"museum_bookMandalore2": "<b><color=#eabbd7>JOY YOUNG</color> - VOICE OF OWL</b>",
-		"museum_bookMandalore3": "I originally met with Mandalore in late 2019 after his review of Dusk, when I DM'd him to ask him to elaborate on some criticisms he had mentioned of retro shooters. At the time ULTRAKILL was just a small no-name project, but he still took the time to not only write an in-depth reply, but also to play ULTRAKILL's demo and give very useful feedback for it.",
-		"museum_bookMandalore4": "As thanks for his help, I wanted to make a little joke boss fight featuring him and Joy based on some in-jokes from their Mystery of the Druids stream, using clips from his EYE review as his voicelines. Once he saw the boss, he offered to not only re-record those lines, but also record completely new ones with Joy, which they improvised together.",
-		"museum_bookMandalore5": "\"Visit me in the tombs with piped in music. How classy. Thanks for playing!\"",
-		"museum_bookMandalore6": "\"Here for a good time, not a bad time\"",
+        "museum_bookMandalore1": "<b><color=#e09e2e>MANDALORE</color> <color=#9884bb>HERRINGTON</color> - VOICE OF MYSTERIOUS DRUID KNIGHT</b>",
+        "museum_bookMandalore2": "<b><color=#eabbd7>JOY YOUNG</color> - VOICE OF OWL</b>",
+        "museum_bookMandalore3": "I originally met with Mandalore in late 2019 after his review of Dusk, when I DM'd him to ask him to elaborate on some criticisms he had mentioned of retro shooters. At the time ULTRAKILL was just a small no-name project, but he still took the time to not only write an in-depth reply, but also to play ULTRAKILL's demo and give very useful feedback for it.",
+        "museum_bookMandalore4": "As thanks for his help, I wanted to make a little joke boss fight featuring him and Joy based on some in-jokes from their Mystery of the Druids stream, using clips from his EYE review as his voicelines. Once he saw the boss, he offered to not only re-record those lines, but also record completely new ones with Joy, which they improvised together.",
+        "museum_bookMandalore5": "\"Visit me in the tombs with piped in music. How classy. Thanks for playing!\"",
+        "museum_bookMandalore6": "\"Here for a good time, not a bad time\"",
 
 		"museum_weaponsBeamcutter1": "<b><color=orange>BEAMCUTTER</color></b>",
 		"museum_weaponsBeamcutter2": "Design by Francis, WIP model by Victoria.",
@@ -385,7 +386,12 @@
 
 		"museum_rocketRace1": "로켓 경주",
 		"museum_rocketRace2": "시작",
-		"museum_rocketRaceResult": "시간:"
+		"museum_rocketRaceStart": "경주 시작",
+        "museum_rocketRaceResult": "시간:",
+        
+        "museum_spoiler1": "주의",
+        "museum_spoiler2": "스포일러",
+        "museum_spoiler3": "열기"
 	},
 
 	"fishing": {
@@ -484,7 +490,7 @@
 		"style_bigkill": "빅 킬",
 		"style_bigfistkill": "빅 피스트킬",
 		"style_bipolar": "양극성",
-		"style_cannonballed": "포격당함",
+		"style_cannonballed": "포격됨",
 		"style_catapaulted": "내동댕이쳐짐",
 		"style_chargeback": "차지백",
 		"style_compressed": "압축됨",
@@ -577,6 +583,7 @@
 		"cybergrind_patterns": "패턴",
 		"cybergrind_music": "음악",
 		"cybergrind_waves": "단계",
+
 
 		"cybergrind_themesTitle": "테마",
 		"cybergrind_themesDescription": "투기장의 시각적 테마를 선택하세요",
@@ -878,12 +885,14 @@
 		"visualnovel_fallenResponseThird1": "참내. 방금 미친듯이 오들오들 떨고있는 분수기에 뺑소니를 당했나봐, 참 운도 좋지.",
 		"visualnovel_fallenResponseThird2": "적어도 나머지 사람들이 태양빛에 녹아 버리거나 땅을 파고 들어가기 전까지는 날 도와줄 수 있겠지.",
 
+
 		"visualnovel_fallenPromptSecond1": "*그녀를 일으켜준다*",
 		"visualnovel_fallenPromptSecond2": "\"이런 자세로는 못 하겠는데.\"",
 		"visualnovel_fallenPromptSecond3": "미안, 잘못했어.",
 
 		"visualnovel_fallenResponseFourth": "됐어, 됐어.",
 		"visualnovel_fallenResponseFifth": "윽.",
+
 
 		"visualnovel_kindFirst1": "*한숨*",
 		"visualnovel_kindFirst2": "그래, 무례하게 굴어서 참 미안해. 난 지각했고, 게다가 학교로 가는 길도 잃어버려서 기분이 별로 안 좋거든.",
@@ -939,52 +948,52 @@
 
 		"visualnovel_recklessnessResponseThird": "모든 걸.",
 
-		"visualnovel_waitingFirst": "Wandering around like headless chickens would only get us even more lost.",
-		"visualnovel_waitingSecond": "Since we were both heading to school and ended up meeting right here, that means there's a very high likelihood this spot is somewhere along the way.",
-		"visualnovel_waitingThird1": "Therefore, we'll be better off just staying put and waiting for someone who DOES know the way.",
-		"visualnovel_waitingThird2": "It's basic logic, you should look it up sometime.",
+		"visualnovel_waitingFirst": "목 잘린 닭처럼 돌아다니기만 하면 더 헤메기만 할 뿐이야.",
+		"visualnovel_waitingSecond": "우리가 학교에 가는 길에 만나게 된 거니까, 이곳이 학교 가는 길 중간에 위치해 있을 가능성이 매우 높다는 거지.",
+		"visualnovel_waitingThird1": "그러니까, 우리는 그냥 여기에 가만히 있다가 길을 \"아는\" 누군가가 이곳으로 오기만 기다리면 된다는 거야.",
+		"visualnovel_waitingThird2": "기초적인 논리지, 너도 이런 건 알아두라고.",
 
-		"visualnovel_waitingPromptFirst1": "Basic logic or not, we're already late and I'm not planning on waiting here until tomorrow morning.",
-		"visualnovel_waitingPromptFirst2": "Anyone who knows the way will already have gone there. Sounds to me like you're just looking for an excuse to give up.",
+		"visualnovel_waitingPromptFirst1": "기초적인 논리든지 뭐든지 상관 없고, 우린 이미 늦은 데다 난 내일 아침까지 여기서 기다릴 생각은 없어.",
+		"visualnovel_waitingPromptFirst2": "길을 아는 사람이라면 이미 갔겠지. 그냥 네가 포기할 명분을 찾는 것처럼 들리는데.",
 
-		"visualnovel_waitingResponseFirst1": "Suit yourself. I'll stay here until the heat death of the universe if that means I don't have to run around looking for some magical memory-triggering pebble on the ground.",
+		"visualnovel_waitingResponseFirst1": "하고 싶은 대로 해. 이리저리 돌아다니면서 무슨 마법의 기억 유발 자갈 같은 걸 찾는 수고를 덜 수만 있다면 나는 우주가 소멸할 때까지 기다려도 좋아.",
 
-		"visualnovel_waitingResponseFirst2": "Couldn't care less about being late for school.",
-		"visualnovel_waitingResponseFirst3": "School doesn't matter anyway.",
-		"visualnovel_waitingResponseFirst4": "Nothing does.",
+		"visualnovel_waitingResponseFirst2": "이쯤 되면 지각한 건 신경 쓰이지도 않아.",
+		"visualnovel_waitingResponseFirst3": "어차피 학교는 중요하지 않아.",
+		"visualnovel_waitingResponseFirst4": "아무 것도 중요하지 않아.",
 
-		"visualnovel_waitingResponseSecond1": "Hah!",
-		"visualnovel_waitingResponseSecond2": "Can't give up if I never tried in the first place, and I don't make a habit out of trying.",
+		"visualnovel_waitingResponseSecond1": "하!",
+		"visualnovel_waitingResponseSecond2": "처음부터 시도하지 않았다면 포기할 수도 없었을 테지만, 그래서 다시 시도하지도 않게 되네.",
 
-		"visualnovel_waitingPromptThird": "Why not?",
+		"visualnovel_waitingPromptThird": "왜?",
 
-		"visualnovel_waitingResponseThird1": "Because nothing matters.",
-		"visualnovel_waitingResponseThird2": "There's no point in trying if the end result will be the same anyway.",
-		"visualnovel_waitingResponseThird3": "Try as you might, you'll eventually just become forgotten dust in the wind like the rest of us.",
+		"visualnovel_waitingResponseThird1": "아무 것도 중요하지 않기 때문이야.",
+		"visualnovel_waitingResponseThird2": "결과가 같을 거라면 시도하는 것의 의미가 없기 때문이지.",
+		"visualnovel_waitingResponseThird3": "최선을 다해 봐도, 넌 결국 다른 사람들처럼 까맣게 잊혀질 뿐이야.",
 
-		"visualnovel_nihilism1": "I mean really, take a moment to think about it.",
+		"visualnovel_nihilism1": "그러니까 진짜로, 한 번 곰곰이 생각해 봐.",
 
-		"visualnovel_nihilism2": "The human mind, in its complete vastness, is capable of recognizing its utter helplessness and uselessness in the face of inevitable and unavoidable non-existence, but is incapable of coming to terms with it.",
+		"visualnovel_nihilism2": "인간의 마음, 그 속의 완전한 모호함은, 필연적이고 불가피한 존재의 소멸에 직면했을 때의 순수한 무력과 무능을 기억할 수 있지만, 그것을 받아들이지는 못해.",
 
-		"visualnovel_nihilism3": "We can only ever ignore it, hide from it or temporarily escape from it, but the fact is that we are bound to the way of all things.",
+		"visualnovel_nihilism3": "우리는 단지 이걸 무시하고, 이것으로부터 숨거나 잠시 도망칠 수는 있겠지만, 우리는 이미 만물의 이치에 속박되어 있다는 거야.",
 
-		"visualnovel_nihilism4": "Death is unavoidable, not only to us, but all that exists or ever has existed.",
-		"visualnovel_nihilism5": "Every living being will eventually die out.",
-		"visualnovel_nihilism6": "Every speck of matter will eventually wither away and dissipate into entropy.",
+		"visualnovel_nihilism4": "죽음은 피할 수 없고, 이건 우리에게뿐만이 아니라, 존재하거나 존재한 적이 있었던 모든 것에 적용돼.",
+		"visualnovel_nihilism5": "모든 생명체는 언젠가 죽을 거야.",
+		"visualnovel_nihilism6": "모든 물질은 언젠가는 사라지고 엔트로피로 분해되겠지.",
 
-		"visualnovel_nihilism7": "It doesn't matter if you lived a good life or if you left a legacy behind.",
-		"visualnovel_nihilism8": "It doesn't matter if humanity survives for a thousand years or dies out tomorrow.",
-		"visualnovel_nihilism9": "The end result is the same: the absolute nothing.",
+		"visualnovel_nihilism7": "좋은 삶을 살았거나 유산을 남겼다고 해도 중요하지 않아.",
+		"visualnovel_nihilism8": "인류가 천 년동안 생존하든 내일 멸망하든 아무래도 중요하지 않아.",
+		"visualnovel_nihilism9": "결과는 똑같아: 완벽한 무.",
 
-		"visualnovel_nihilism10": "Human intelligence is far beyond that of other animals, but it would be misguided to consider that a gift.",
-		"visualnovel_nihilism11": "All other beings have the gift of ignorance, of not understanding what we do.",
+		"visualnovel_nihilism10": "인간의 지능은 다른 동물의 그것에 비해 매우 발달했지만, 이걸 선물이라고 오인하기 쉬워.",
+		"visualnovel_nihilism11": "다른 모든 것들은 자신들이 하는 행동에 대해 이해하지 못하는, 무지라는 축복을 받았어.",
 
-		"visualnovel_nihilism12": "Our intelligence is not a gift. It's a flaw.",
+		"visualnovel_nihilism12": "우리의 지능은 축복이 아니야. 결함이지.",
 
-		"visualnovel_nihilism13": "It's an over-extension of evolution.",
-		"visualnovel_nihilism14": "Intelligence, once a great feature in aeons past, continued to grow unchecked and unfiltered, and has since passed a threshold whereupon it is no longer a benefit, but an active danger to its host.",
+		"visualnovel_nihilism13": "진화의 과도한 연장이야.",
+		"visualnovel_nihilism14": "지능은, 까마득한 과거에 훌륭한 기능으로 자리잡았지만, 여과되지 않고 무분별하게 거듭 성장해왔고, 이제 더 이상 이득으로 볼 수 없는 지점을 지나, 그 숙주에게 능동적인 위험으로 작용할 뿐이야.",
 
-		"visualnovel_nihilism15": "Much like the Irish elk, a species of deer that, through uncountable generations of evolution, grew antlers so wide and vast that it could no longer run from predators, eventually leading to extinction.",
+		"visualnovel_nihilism15": "마치 수많은 세대를 거친 진화 끝에, 뿔이 너무 크게 자라 포식자로부터 도망칠 수도 없게 되어 멸종에 이른 사슴의 한 종인, 큰뿔사슴처럼 말이지.",
 
 		"visualnovel_nihilism16": "The human mind is an evolutionary maladaptation caused by going too far in a direction that was once beneficial and will, sooner or later, lead to our extinction.",
 		"visualnovel_nihilism17": "On an individual level, it's already happening.",
@@ -2258,7 +2267,7 @@
 		"primeSanctum_second_lockYes3": "그것이 당신을 <color=red>쳐다보게</color>\n만들지 마십시오",
 		"primeSanctum_second_lockYes4": "경계를 유지할 것\n최중요 준수 사항 :",
 		"primeSanctum_second_lockYes5": "즐 기 세 요 !",
-		"primeSanctum_second_lockNo1": "하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n하하하하하하하하하하하하\n",
+		"primeSanctum_second_lockNo1": "하하하하하하하하하하하하",
 		"primeSanctum_second_lockNo2": "<color=red>선 택 의\n여 지 가\n있 다 면 말 이 지</color>",
 
 		"primeSanctum_second_secretText1": "터미널 데이터 02 <color=red>[암호화됨]</color>",
@@ -2485,7 +2494,7 @@
 		"subtitles_sisyphusPrime_attack5": "이건 좀 아플 거다.",
 
 		"subtitles_sisyphusPrime_phaseChange": "그래! 이거야!",
-		"subtitles_sisyphusPrime_respawnIntro": "계속 와라!",
+		"subtitles_sisyphusPrime_respawnIntro": "계속 와 봐라!",
 
 		"subtitles_sisyphusPrime_defeated1": "아...",
 		"subtitles_sisyphusPrime_defeated2": "이렇게 시시포스 왕의 삶과 이야기가 끝나는군.",
@@ -2622,6 +2631,6 @@
 		"sandbox_shop_worldOptionsEnabled": "활성화됨",
 		"sandbox_shop_worldOptionsDisabled": "비활성화됨",
 
-		"sandbox_shop_mapBorder": "맵 경계선"
+		"sandbox_shop_mapBorder": "맵 경계"
 	}
 }
