@@ -2,11 +2,11 @@
 	"metadata": {
 		"langName": "ko-KR",
 		"langAuthor": "ArsenicParadigm, susu",
-		"langVersion": "indev",
+		"langVersion": "1.0.1",
 		"langDisplayName": "한국어",
 		"langRTL": "false",
 
-		"minimumModVersion": "1.2.2"
+		"minimumModVersion": "1.2.3"
 	},
 
 	"body": {
@@ -225,58 +225,58 @@
 		"museum_weaponsRevolver1": "<color=orange>리볼버</color>",
 		"museum_weaponsRevolver2": "왼쪽: FlyingDog이 제작한 2018 오리지널",
 		"museum_weaponsRevolver3": "오른쪽: Victoria가 제작한 2022 리메이크",
-		"museum_weaponsRevolver4": "The first weapon as well as the first model ever made for the game. As usual, there was no concept art, so the design was made up on the spot by FlyingDog based on a prompt from me. Victoria has since then remade the model and texture while keeping true to the original design, making for a straight visual upgrade.",
-		"museum_weaponsRevolver5": "The revolver originally had different green and red variations. The old green variation was the ability to ricochet shots off of surfaces, inspired by Revolver Ocelot. Unfortunately, while cool in concept, it was extremely unwieldy and awkward to use, requiring far too much set up and positioning to be used efficiently, clashing hard with the game's fast pace. The idea of showing off marksmanship via ricocheting shots stayed however, and was reinterpreted into the now iconic and far more useful coin version.",
-		"museum_weaponsRevolver6": "The red variation was a dual wield variation, where the left revolver was fired with the primary fire and the right revolver with the secondary. As with the green variation, this was cool in concept, but mechanically it was very uninteresting beyond the initial novelty. I had some ideas on how to \"fix\" it, but I ended up scrapping it entirely instead, and since then the dual wield idea has been reinterpreted into the much more fun and freeform dual wield powerup.",
+		"museum_weaponsRevolver4": "이 게임의 첫 무기이자 가장 처음으로 만들어진 모델입니다. 다른 무기들처럼 , 이것도 컨셉 아트가 존재하지 않았기 때문에, 디자인은 FlyingDog이 제 요청을 바탕으로 즉석에서 만들어냈습니다. Victoria는 원래의 디자인을 유지하면서 모델과 텍스쳐를 리메이크했고, 이는 무난한 시각적 업그레이드가 되었습니다.",
+		"museum_weaponsRevolver5": "원래 리볼버의 초록색과 붉은색 변형은 조금 달랐습니다. 옛날 초록색 변형은 벽이나 바닥에 닿으면 도탄하는 탄환을 발사할 수 있었습니다, 리볼버 오셀롯처럼요. 불행하게도, 이야기만 들어보면 꽤 간지나는데, 실제로는 상당히 쓸모없고 사용하기 불편했습니다, 효율적으로 쓰기에는 너무 많은 준비 과정 및 위치 선정이 필요해서, 게임의 빠른 템포와 어울리지 못했기 때문이죠. 그래도 탄환의 도탄으로 사격 실력을 뽐낸다는 개념은 그대로 남았고, 훨씬 유용한 데다가 지금의 게임을 상징하게 된 동전으로 재해석되었습니다.",
+		"museum_weaponsRevolver6": "붉은색 변형은 원래는 쌍권총 번형이었는데, 왼쪽 리볼버를 주 발사 버튼으로 사용하고 오른쪽 리볼버를 보조 발사 버튼으로 사용하는 것이었습니다. 초록색 변형처럼, 이것도 이야기만 들어보면 꽤 괜찮았지만, 실제로 사용해 보면 기믹이 독특한 것보다 재미없는 게 더 크게 느껴졌습니다. 이걸 어떻게 \"고칠\" 지에 대한 아이디어가 몇 개 있었지만, 대신 이걸 완전히 유기하기로 결정했습니다, 그리고 쌍권총 아이디어는 대신 더 재미있고 자유도 높은 아킴보 파워업으로 재해석되었습니다.",
 
 		"museum_weaponsShotgun1": "<color=orange>샷건</color>",
 		"museum_weaponsShotgun2": "왼쪽: FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsShotgun3": "RIGHT: Victoria가 제작한 2022 리메이크",
-		"museum_weaponsShotgun4": "As with the revolver, the shotgun was made by FlyingDog without concept art, and later remade by Victoria, keeping it faithful to the original design while updating it to fit the game's new visual style better. The new version is lighter in color, since the original matte black style ended up very muted due to the game's vibrant colored lighting, though the people who preferred the old style can use the first color preset to get it back.",
-		"museum_weaponsShotgun5": "The shotgun had some balancing issues when it was originally added since all enemies already died from just a couple of revolver shots, making the shotgun feel pointless in comparison, leading to a bad first impression. Eventually I had the idea of changing the projectile code slightly, making it so shotgun projectiles don't get destroyed when hitting an enemy that is already dead. This small change is really what opened the shotgun up, turning it from just a slow single target damage dealer into a chaotic weapon of mass destruction, making it useful against both tankier enemies as originally intended as well as crowds of weaker enemies.",
+		"museum_weaponsShotgun4": "리볼버처럼, 샷건도 FlyingDog이 컨셉 아트 없이 만들었고, 이후 Victoria가 리메이크했고, 덕분에 원래 디자인에서 크게 바뀌지 않으면서 게임의 새로운 시각적 스타일에 더 잘 맞는 형태로 고칠 수 있었습니다. 이 새 버전은 더 밝아졌는데, 이전의 검은색 무광 스타일이 게임의 강한 색감에 너무 묻혀가는 느낌이 있었기 때문입니다, 그래도 이전 스타일이 더 좋은 분들은 첫 번째 색상 프리셋을 써서 다시 되돌려 놓을 수 있습니다.",
+		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 투사체의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
 
 		"museum_weaponsNailgun1": "<color=orange>네일건</color>",
 		"museum_weaponsNailgun2": "왼쪽: Jericho와 FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsNailgun3": "오른쪽: Jericho와 Victoria가 제작한 2022 리메이크",
-		"museum_weaponsNailgun4": "The first weapon to be based on concept art, drawn and designed by Jericho, as well as FlyingDog's final contribution to the game. The rougher, simpler original model still fit the visual style at the time, but since then the graphics have improved, making it stick out like a sore thumb, which was one of the primary reasons we wanted to redo the old weapon models, alongside the custom color system.",
-		"museum_weaponsNailgun5": "The nailgun is probably the weapon that had to go through the most iteration before it finally found its place in the arsenal. In fact, it wasn't until the Sandbox update in Summer 2021 that it finally really clicked in, meaning it took 2 years of constant tinkering and iteration to make an automatic weapon fit the ULTRAKILL arsenal. The biggest change was the change from infinite ammo to recharging ammo, giving players more reason to switch away from it after a bit of use, but the change that finally really made it click was speeding up the equip animation, which made switching to it in combat much smoother, making it feel like an organic part of weapon combos.",
-		"museum_weaponsNailgun6": "Some scrapped ideas and versions include a high damage slow recharge harpoon and a version that allowed for firing both barrels simultaneously, increasing rate of fire at the cost of the player's movement speed. The former eventually evolved into the magnet and the latter into the overheat, so despite how much things have changed, parts of the originals still remain.",
+		"museum_weaponsNailgun4": "이 무기는 컨셉 아트를 기반으로 만들어진 첫 번째 무기로, Jericho가 그리고 디자인했으며, 역시 FlyingDog이 마지막으로 다듬었습니다. 더 거칠고, 단순한 원래 모델은 그 당시의 게임의 시각적 스타일에 맞았지만, 그 뒤로 게임의 시각적 스타일이 향상되었기 때문에, 점점 괴리가 생겨 아픈 손가락이 되었고, 그게 커스텀 색상 시스템과는 별개로, 저희가 오래된 무기 모델을 다시 만들고자 하는 가장 큰 이유 중 하나가 되었습니다.",
+		"museum_weaponsNailgun5": "네일건은 끝내 자기 자리를 잡기까지 가장 많은 수정을 거쳐야 했던 무기이기도 합니다. 사실, 2021년 여름의 샌드박스 업데이트까지 네일건의 입지가 확고하게 다져지지는 못했는데, 그러니까 자동화기가 ULTRAKILL 무기 목록에 맞아들어가기까지 2년 동안의 꾸준한 고민과 수정이 있었다는 뜻입니다. 가장 큰 차이점은 무한 탄창에서 탄약이 재충전되는 시스템으로 바뀐 것인데, 이를 통해 플레이어들이 이걸 사용하고 나서 잠시 다른 무기로 바꿔 둘 만한 더 큰 이유를 제공할 수 있었습니다, 하지만 정말 이 무기를 완벽하게 만든 건 이 무기로 교체할 때의 애니메이션의 속도를 높인 것인데, 이를 통해 전투 중에 이 무기로 바꾸는 게 더 매끄러워졌고, 덕분에 무기 콤보의 유기적인 한 부분이라는 느낌을 받을 수 있었습니다.",
+		"museum_weaponsNailgun6": "몇몇 삭제된 아이디어는 고데미지 저속 충전 작살이나, 두 총열을 동시에 발사하여 플레이어의 이동 속도를 대가로 연사 속도를 늘리는 버전 등을 포함하였습니다. 전자의 경우 자석이 되었고 후자는 오버히트로 거듭났습니다, 그러니까 어떤 것들이 바뀌었던 간에, 원래 생각하던 것의 일부는 여전히 남아있는 거죠.",
 
 		"museum_enemiesFilth1": "<b><color=orange>필스</color>",
 		"museum_enemiesFilth2": "왼쪽: Toni Stigell과 FlyingDog이 제작한 2018 오리지널",
 		"museum_enemiesFilth3": "오른쪽: Jericho, BigRock 그리고 Victoria가 제작한 2020 리메이크</b>",
-		"museum_enemiesFilth4": "The Filth, originally just called \"Zombie\" or \"Husk\", was the second enemy designed for the game. We didn't have concept artists at the time, so I just told Toni to make a scrawny zombie like the ones from Quake. This was the usual process before BigRock joined as the first concept artist, and the contrast in design quality makes it clear that creative concept artists can really make a big difference.",
-		"museum_enemiesFilth5": "An interesting aspect of the Filth is that, in the early versions of the demo, people complained about the AI of the melee enemies being too dumb, but those complaints completely stopped after the redesign. The new version actually looks like a mindless swarming monster that only thinks about eating, so it being dumb no longer felt out of place or like a flaw. Properly messaging the purpose of an enemy or object through how it looks is an often underappreciated aspect of character design.",
-		"museum_enemiesFilth6": "The new design is inspired by the debut album by Swans, which is also where the enemy got its name from. At first the model's mouth and teeth were much smaller, but I just kept telling Victoria \"BIGGER!\" until we reached the point it's at now.",
-		"museum_enemiesFilth7": "The Filth was originally colored orange to make it fit into the Prelude chapter, but it actually became an issue where people would often have a hard time seeing them since they fit in <i>too</i> well, so their primary color was swapped to green instead.",
+		"museum_enemiesFilth4": "필스, 원래는 \"좀비\"나 \"허스크\" 라고 불리던 것은, 게임을 위해 디자인된 두 번째 적입니다. 당시에는 컨셉 아티스트가 없었기 때문에, 그냥 제가 Toni에게 퀘이크에 나오는 것 같이 앙상한 좀비를 하나 만들라고 했죠. 이건 BigRock이 첫 컨셉 아티스트로 참가하기 전에 일상적으로 있었던 과정이고, 덕분에 창의적인 컨셉 아티스트의 존재 여부가 퀄리티 상에서 아주 큰 차이를 불러올 수 있다는 것을 알 수 있었습니다.",
+		"museum_enemiesFilth5": "필스의 흥미로운 점 중 하나는, 데모의 초기 버전들 중에서는, 사람들이 근접 공격 AI가 멍청한 것에 대해 불평했는데, 이런 불평들은 디자인이 다시 이루어지고 나서는 아예 끊겼습니다. 새 버전은 정말 이게 정말 먹는 것밖에 생각하지 않는 떼거지로 몰려다니는 무지성 괴물처럼 보여서, 멍청하게 행동하는 게 전혀 분위기에 맞지 않거나 결함처럼 느껴지지 않은 것입니다. 어떤 적이나 물건이 만들어진 목적을 적절하게 전달하는 것과 그 외양은 캐릭터 디자인에서 자주 저평가된 부분으로 보입니다.",
+		"museum_enemiesFilth6": "새 디자인은 Swans의 첫 앨범에서 영감을 받았는데, 거기서 이 적의 이름도 따왔습니다. 처음에는 이 모델의 입과 이빨은 더 작았었는데, 제가 Victoria에게 지금의 형태가 나오기까지 그저 \"더 크게!\" 만을 외쳤죠.",
+		"museum_enemiesFilth7": "필스는 원래 서곡에 어울리도록 주황색으로 디자인되었었는데, 이게 <i>너무</i> 잘 어울려서 사람들이 자주 이것들을 찾기 힘들어한다는 게 큰 문제로 작용했습니다, 그래서 대신 필스의 주요 색상을 초록색으로 바꾸었습니다.",
 
 		"museum_enemiesStray1": "<color=orange>스트레이</color>",
 		"museum_enemiesStray2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesStray3": "오른쪽: Jericho와 Sam이 제작한 2020 리메이크",
-		"museum_enemiesStray4": "The Stray was originally just called \"Projectile Zombie\" or \"Projectile Husk\" and, for one short period of time, \"Stalker\", though that name was then instead given to the enemy that has it now. Toni was busy at the time, so I, with my limited Blender knowledge, just edited his original Filth model to make the original version of the Stray, and then FlyingDog made the texture for it. Again, we didn't really have any concept art, so the texture was just based on the prompt \"A skeleton with all the organs and meat still inside it\", or something like that.",
-		"museum_enemiesStray5": "The new version, based on Jericho's design for the Soldier, still keeps that general idea but executes it in a much less cartoony way.",
+		"museum_enemiesStray4": "스트레이는 원래 \"투사체 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
+		"museum_enemiesStray5": "Jericho의 솔져에 대한 디자인에 맞춰 만들어진, 새로운 버전 또한, 그 아이디어를 보존하지만 훨씬 덜 만화적인 방법으로 그걸 표현하였습니다.",
 
 		"museum_enemiesSchism1": "<color=orange>스키즘</color>",
-		"museum_enemiesSchism2": "왼쪽: by Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
+		"museum_enemiesSchism2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesSchism3": "오른쪽: BigRock과 Sam이 제작한 2020 리메이크",
-		"museum_enemiesSchism4": "The Schism, originally just called \"Super Projectile Zombie\", is another edit of the original Filth model. Toni and FlyingDog were both busy around this time, so this model didn't even get a unique texture. It's just the original Filth's texture without the orange tint!",
-		"museum_enemiesSchism5": "The new version still uses the same skeleton and animations, which means the extra arms just flop around like ragdolls since they have no animation data attached to them.",
-		"museum_enemiesSchism6": "The new designs for the Husks were drawn and modelled in a bit of a rush to get them done in time for the Prelude facelift we were doing for the new version of the demo after the game got picked up by New Blood, which meant the new designs only got one sketch from one angle each. This lead to a funny incident where Sam, while making the model, misunderstood the sketch and thought that the head was just sticking out really far in front instead of being on the shoulder, which lead to the first iteration of the model to look like a xenomorph!",
+		"museum_enemiesSchism4": "스키즘, 원래는 \"슈퍼 투사체 좀비\" 로 불린 이 적은, 옛 필스 모델을 조금 수정한 또 다른 적입니다. Toni와 FlyingDog 둘 다 이때 바빴기 때문에, 이 모델은 고유한 텍스쳐조차 갖지 못했지요. 이건 그냥 필스의 텍스쳐에서 주황색만 뺀 거에요!",
+		"museum_enemiesSchism5": "새 버전도 똑같은 골격 구조와 애니메이션을 사용하기 때문에, 나머지 팔들은 애니메이션 데이터가 없어서 그저 래그돌처럼 팔락거립니다.",
+		"museum_enemiesSchism6": "허스크들의 새 디자인은 저희가 New Blood에게 발탁되고 나서 새 버전의 데모를 만들기 위한 서곡 페이스리프트를 시간 안에 만들기 위해 조금 급하게 그려지고 모델링되었기 때문에, 새 디자인들은 모두 한 시점에서 바라본 모습만을 담고 있습니다. 이게 조금 재미있는 사건으로 이어지는데, Sam이 모델을 만들던 중, 스케치를 잘못 이해하고 머리가 어깨 위에 있는 게 아니라 앞으로 엄청 튀어나와 있는 것으로 생각해서, 이 모델을 처음으로 만들 때 제노모프같은 모습이 되었습니다!",
 
 		"museum_enemiesSwordsmachine1": "<color=orange>소드머신</color>",
 		"museum_enemiesSwordsmachine2": "왼쪽: BigRock, FlyingDog 그리고 Toni Stigell이 제작한 2019 오리지널",
 		"museum_enemiesSwordsmachine3": "오른쪽: BigRock과 Victoria가 제작한 2022 리메이크",
-		"museum_enemiesSwordsmachine4": "Swordsmachine was the first enemy to be designed by a concept artist, and the difference really shows! BigRock's wonderful Blame!-inspired design is rich with implied character that later became explicit when I wrote the data entry for it.",
-		"museum_enemiesSwordsmachine5": "The original model, made by Toni Stigell and textured by FlyingDog, unfortunately lost a lot of the nuances the original design had, but it fit the visual style of the game at the time, and we were all amateurs who didn't know how to do any better. Victoria has since then remade the model based on BigRock's original concept art and perfectly translated it to 3D.",
-		"museum_enemiesSwordsmachine6": "One of the earlier iterations of Swordsmachine's design had a gory human torso, as the enemies at the time were leaning more in the direction of Strogg-like human-machine hybrids before we had the setting, visual language and story properly figured out.",
+		"museum_enemiesSwordsmachine4": "소드머신은 컨셉 아티스트에 의해 디자인된 첫 번째 적이고, 덕분에 그 차이점이 두드러집니다! BigRock의 환상적인 비난!-에 영감 받은 디자인은 내재된 캐릭터성을 풍부하게 포함하고 있어서 나중에 제가 이 녀석을 위한 데이터 엔트리를 적을 때 그게 더 명백하게 드러났습니다.",
+		"museum_enemiesSwordsmachine5": "Toni Stigell이 만들고 FlyingDog이 텍스쳐를 입힌, 옛 모델은, 불행히도 원본 디자인이 가지고 있던 많은 요소들을 생략했고, 그럼에도 당시 게임의 시각적 스타일에 꽤 어울렸기 때문에, 그리고 저희가 이것보다 더 잘 만들 자신이 없어서 그대로 사용했습니다. Victoria는 그 뒤에 BigRock의 원본 컨셉 아트에 기반하여 모델을 재창조했고 이 캐릭터를 3D로 완벽히 옮겨냈습니다.",
+		"museum_enemiesSwordsmachine6": "소드머신의 초기 버전에서 나타나는 특징 중 하나는 피투성이의 사람 몸통이 붙어 있었다는 것인데, 그 때의 적들은 당시 설정에 맞게 스트로그같은 인간-기계 복합체에 더 가까운 방향으로 기울어 있었습니다, 시각적 전달 요소와 이야기가 적절히 구성되이 않았을 때거든요.",
 
 		"museum_enemiesMaliciousFace1": "<color=orange>멀리셔스 페이스</color>",
 		"museum_enemiesMaliciousFace2": "왼쪽: FlyingDog이 제작한 2018 오리지널",
 		"museum_enemiesMaliciousFace3": "오른쪽: Victoria가 제작한 2022 리메이크",
-		"museum_enemiesMaliciousFace4": "The Malicious Face, called \"Spider\" in the game files thanks to its transparent spider legs, was actually the first enemy to be designed for the game. Although iconic now, its design was supposed to be quite different originally, as I wanted a more stark and simplified look, but FlyingDog, only modelling as a hobby, had a hard time pulling it off without any concept art to aid him, so we eventually compromised with this version.",
-		"museum_enemiesMaliciousFace5": "This was back when I was stupidly ambitious and had no idea what I was doing, so there were a bunch of ideas thrown around that ended up not making it in. The mouth was supposed to move and open when firing, but the rig was buggy and we couldn't get it to work. The eyes were also originally seperated from the main mesh, since I had the idea that it would be cool if you could shoot them out with the revolver for extra damage or to cause the enemy to become blind and attack indiscriminately, which sounds really cool in concept, but in execution would not only be too much complexity for an early enemy but would also give them a hard counter that the player would always resort to, which I've wanted to avoid to make the game more open to player expression. This was before Doom Eternal came out and had a big focus on weakpoints and hard counters.",
-		"museum_enemiesMaliciousFace6": "Another idea I had at one point was for there to be a hole in the back of its head, exposing the brain, allowing for nimble players to score big damage, but this also never materialized. Me coming up with all these dumb ideas, often after the model was already done, but never committing to them was, very understandably, frustrating to FlyingDog.",
-		"museum_enemiesMaliciousFace7": "The new model by Victoria is a beautiful almost 1:1 recreation that manages to keep the iconic look while improving the visual quality while actually <i>decreasing</i> its resolution.",
+		"museum_enemiesMaliciousFace4": "멀리셔스 페이스, 또는 이것에 달려 있는 투명한 거미 다리 덕분에 게임 내 파일에서 \"거미\" 라고 불린 이 적은, 원래 이 게임을 위해 디자인된 첫 번째 적이었습니다. 물론 지금은 이 녀석의 인기가 상당하지만, 멀리셔스 페이스의 디자인은 원래 지금과는 꽤 다른 모습이었습니다, 제가 더 명확하고 단순한 모습을 원했거든요, 하지만 FlyingDog은, 그저 취미로 모델링을 하는 사람이었고, 이 분을 도울 컨셉 아트가 하나도 없는 상황에서 이걸 구현해 내기 힘들어했습니다, 그래서 이 버전으로 만족하기로 했죠.",
+		"museum_enemiesMaliciousFace5": "이건 제가 무식하게 야망에 차서 제가 뭘 해는지도 몰랐던 시기의 일이었기 때문에, 구상만 하고 실제로 반영되지 못한 많은 아이디어들이 있었습니다. 입은 원래 발사 시 움직이고 열리도록 설계되었지만, 리깅이 버그가 계속 나서 작업에 착수할 수 없었습니다. 눈 또한 원래는 주 메쉬와 분리되어 있었는데, 제가 이걸 리볼버로 쏴서 추가 데미지를 노리거나 적의 눈을 멀게 만들어 무차별 공격을 유도하도록 만드는 게 멋지다고 생각했기 때문입니다, 개념상으로는 상당히 멋진 것 같습니다만, 실제로는 게임 초기의 적 치고는 상당히 복잡한 구조였을 뿐만 아니라 플레이어가 항상 의존하게 되는 하드 카운터로 작용하였고, 이건 제가 게임의 자유도 향상을 위해 피하고 싶은 것들 중 하나였습니다. 이건 둠 이터널이 나오고 약점과 하드 카운터에 큰 관심이 쏠리기 전이었습니다.",
+		"museum_enemiesMaliciousFace6": "제가 한 때 떠올렸던 또 다른 아이디어는 이 녀석의 머리 뒤에 구멍이 나 있어서, 뇌가 노출되어 있고, 그래서 민첩한 플레이어들이 큰 피해를 줄 수 있도록 하는 것이었는데, 이것 또한 결코 실현되지 않았습니다. 저는 항상 이런 멍청항 아이디어를, 모델이 이미 완성된 뒤에도 떠올리곤 했고, 결코 이것들이 반영되지 않은 이유는, 정말 간단하게도, FlyingDog에게 혼란스러웠기 때문입니다.",
+		"museum_enemiesMaliciousFace7": "Victoria가 만든 새 모델은 거의 1:1 에 가까운 아름다운 재창조로 실제로는 해상도를 <i>줄이는</i> 데도 그 상징적인 외모를 유지하면서 시각적 퀄리티를 향상시킬 수 있었습니다.",
 
 		"museum_cinemaPlay": "재생",
 		"museum_cinemaStop": "정지",
@@ -355,7 +355,7 @@
 		"museum_plaquesHealth2": "객원 작곡가",
 
 		"museum_plaquesQuetzalTirado1": "QUETZAL TIRADO",
-		"museum_plaquesQuetzalTirado": "객원 작곡가",
+		"museum_plaquesQuetzalTirado2": "객원 작곡가",
 
 		"museum_plaquesSalad1": "SALAD",
 		"museum_plaquesSalad2": "JAKITO의 아티스트",
@@ -1400,6 +1400,21 @@
 
 		"levelName_heresyFirst": "곡소리 따라 울부짖어라",
 		"levelName_heresySecond": "증오의 미학",
+		
+		"levelName_violenceFirst": "분기하는 길의 정원",
+		"levelName_violenceSecond": "밤을 밝혀라",
+		"levelName_violenceThird": "",
+		"levelName_violenceFourth": "",
+		"levelName_violenceSecret": "",
+			
+		"levelName_fraudFirst": "",
+		"levelName_fraudSecond": "",
+		"levelName_fraudThird": "",
+		"levelName_fraudFourth": "",
+		"levelName_fraudSecret": "",
+
+		"levelName_treacheryFirst": "",
+		"levelName_treacherySecond": "",
 
 		"levelName_primeFirst": "영혼의 생존자",
 		"levelName_primeSecond": "세상의 기다림",
@@ -1436,7 +1451,20 @@
 		"challenges_wrathFourth": "10초 안에 수면 위에 도달",
 
 		"challenges_heresyFirst": "히든 보스 처치",
-		"challenges_heresySecond": "가브리엘을 천장에 박기"
+		"challenges_heresySecond": "가브리엘을 천장에 박기",
+		
+		"challenges_violenceFirst": "",
+		"challenges_violenceSecond": "",
+		"challenges_violenceThird": "",
+		"challenges_violenceFourth": "",
+
+		"challenges_fraudFirst": "",
+		"challenges_fraudSecond": "",
+		"challenges_fraudThird": "",
+		"challenges_fraudFourth": "",
+
+		"challenges_treacheryFirst": "",
+		"challenges_treacherySecond": ""
 	},
 	"levelTips": {
 		"leveltips_preludeSecond1": "리볼버와 같은 히트스캔 무기는 타격 부위에 따라 피해량이 변합니다.",
@@ -1495,6 +1523,19 @@
 		"leveltips_primeFirst1": "<color=orange>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
 		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
 		"leveltips_primeSecond": "즐기세요.",
+		
+		"leveltips_violenceFirst": "",
+		"leveltips_violenceSecond": "",
+		"leveltips_violenceThird": "",
+		"leveltips_violenceFourth": "",
+
+		"leveltips_fraudFirst": "",
+		"leveltips_fraudSecond": "",
+		"leveltips_fraudThird": "",
+		"leveltips_fraudFourth": "",
+
+		"leveltips_treacheryFirst": "",
+		"leveltips_treacherySecond": "",
 
 		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
 		"leveltips_sandbox1": "치트는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
