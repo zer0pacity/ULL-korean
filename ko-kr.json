@@ -610,6 +610,14 @@
 		"cybergrind_musicUnlocked": "잠금 해제됨",
 		"cybergrind_musicConfirm": "확인",
 		"cybergrind_musicSoundtrack": "사운드트랙",
+		"cybergrind_musicFolderNameCyberGrind": "사이버 그라인드",
+        "cybergrind_musicFolderNamePrelude": "서곡",
+        "cybergrind_musicFolderNameAct1": "1장",
+        "cybergrind_musicFolderNameAct2": "2장",
+        "cybergrind_musicFolderNameAct3": "3장",
+        "cybergrind_musicFolderNameSecret": "비밀 임무",
+        "cybergrind_musicFolderNamePrime": "프라임 성소",
+        "cybergrind_musicFolderNameMisc": "기타 음악",
 
 		"cybergrind_patternsWarning": "경고: 사용자 지정 패턴 사용 시 최고 기록이 저장되지 않습니다",
 		"cybergrind_patternsTitle": "패턴",
@@ -1401,10 +1409,10 @@
 		"levelName_heresyFirst": "곡소리 따라 울부짖어라",
 		"levelName_heresySecond": "증오의 미학",
 		
-		"levelName_violenceFirst": "분기하는 길의 정원",
+		"levelName_violenceFirst": "갈림길의 정원",
 		"levelName_violenceSecond": "밤을 밝혀라",
-		"levelName_violenceThird": "",
-		"levelName_violenceFourth": "",
+		"levelName_violenceThird": "소리도 없고, 기억도 없이",
+		"levelName_violenceFourth": "...마치 천국을 향한 안테나처럼",
 		"levelName_violenceSecret": "",
 			
 		"levelName_fraudFirst": "",
@@ -1453,10 +1461,10 @@
 		"challenges_heresyFirst": "히든 보스 처치",
 		"challenges_heresySecond": "가브리엘을 천장에 박기",
 		
-		"challenges_violenceFirst": "",
-		"challenges_violenceSecond": "",
-		"challenges_violenceThird": "",
-		"challenges_violenceFourth": "",
+		"challenges_violenceFirst": "히든 보스 처치",
+		"challenges_violenceSecond": "어떠한 적도 죽이지 않기",
+		"challenges_violenceThird": "죽음의 표식 새기기",
+		"challenges_violenceFourth": "보안 시스템과 싸우지 않기",
 
 		"challenges_fraudFirst": "",
 		"challenges_fraudSecond": "",
@@ -1519,15 +1527,11 @@
 		"leveltips_heresyFirst2": "환경을 이용해 적과의 시야를 차단하면 <color=orange>목표 우선순위</color>를 고려할 수 있는 여유와 시간을 벌 수 있습니다.",
 		"leveltips_heresySecond1": "스태미나를 낭비하지 마세요!",
 		"leveltips_heresySecond2": "적과 전투 중에 불필요하게 대쉬하는 것은 가장 필요한 순간에 아무것도 할 수 없게 되는 불상사를 초래할 수 있습니다.",
-
-		"leveltips_primeFirst1": "<color=orange>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
-		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
-		"leveltips_primeSecond": "즐기세요.",
 		
-		"leveltips_violenceFirst": "",
-		"leveltips_violenceSecond": "",
-		"leveltips_violenceThird": "",
-		"leveltips_violenceFourth": "",
+		"leveltips_violenceFirst": "유도 투사체는 피하기가 어려울 수 있지만, 추적이 느리고 탄속이 느려서 패링으로 받아치기가 수월합니다.",
+		"leveltips_violenceSecond": "마네킹은 특유의 빠른 발걸음 때문에 맞추기가 힘들지만, 공중에 띄워지면 표면에서 사격당하면 균형을 잃고 잠시 움직일 수 없는 상태가 됩니다.",
+		"leveltips_violenceThird": "너클블래스터의 충격파는 거터맨의 방패를 파괴할 수 있어, 혼란스러운 난전 속을 헤쳐나가기 쉽게 해줍니다.",
+		"leveltips_violenceFourth": "너클블래스터의 주먹을 정통으로 맞추면 대상을 강하게 밀쳐냅니다. 이는 적을 낭떠러지나 환경적 위험 요소에 떨어트리게 만드는 데 아주 탁월합니다.",
 
 		"leveltips_fraudFirst": "",
 		"leveltips_fraudSecond": "",
@@ -1536,6 +1540,10 @@
 
 		"leveltips_treacheryFirst": "",
 		"leveltips_treacherySecond": "",
+		
+		"leveltips_primeFirst1": "<color=orange>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
+		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
+		"leveltips_primeSecond": "즐기세요.",
 
 		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
 		"leveltips_sandbox1": "치트는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
@@ -2656,8 +2664,9 @@
 		"enemyAlter_boss_description": "보스 체력바",
 
 		"earlyAccessEnd1": "플레이해주셔서 감사합니다!",
-		"earlyAccessEnd2": "III막: 신권의 자살은 아직 개발 중입니다.",
+		"earlyAccessEnd2": "레이어 8: 사기는 아직 개발 중입니다.",
 		"earlyAccessEnd3": "개발의 진행도는 아래에서 확인해 보세요!"
+		
 	},
 
 	"sandbox": {
