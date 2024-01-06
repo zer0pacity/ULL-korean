@@ -1453,10 +1453,10 @@
 		"challenges_heresyFirst": "히든 보스 처치",
 		"challenges_heresySecond": "가브리엘을 천장에 박기",
 		
-		"challenges_violenceFirst": "",
-		"challenges_violenceSecond": "",
-		"challenges_violenceThird": "",
-		"challenges_violenceFourth": "",
+		"challenges_violenceFirst": "히든 보스 처치",
+		"challenges_violenceSecond": "아무도 죽이지 않기",
+		"challenges_violenceThird": "죽음의 표식을 새기기",
+		"challenges_violenceFourth": "방어 시스템을 깨우지 않기",
 
 		"challenges_fraudFirst": "",
 		"challenges_fraudSecond": "",
@@ -1597,7 +1597,7 @@
 		"shop_shotgunCoreEjectDescription3": "코어는 착탄 시 <color=orange>폭발<color=orange>합니다.",
 
 		"shop_shotgunPumpCharge": "펌프 차지",
-		"shop_shotgunPumpChargeDescription1": "보조 발사 버튼로 샷건을 <color=orange>펌프질</color>하여, <color=orange>다음 사격</color>의 <color=orange>위력</color>을 늘리는 대신 <color=orange>정확도</color>가 감소합니다.",
+		"shop_shotgunPumpChargeDescription1": "보조 발사 버튼으로 샷건을 <color=orange>펌프질</color>하여, <color=orange>다음 사격</color>의 <color=orange>위력</color>을 늘리는 대신 <color=orange>정확도</color>가 감소합니다.",
 		"shop_shotgunPumpChargeDescription2": "너무 많이 펌프한 경우 발사 시 <color=orange>자폭</color>할 수 있습니다.",
 
 		"shop_nailgunMagnet": "어트랙터",
@@ -2236,7 +2236,7 @@
 		"act1_lustFirst_dashjump": "대쉬 점프: 대쉬 중 점프해서 속도를 유지하세요.",
 
 		"act1_lustSecond_feedbacker1": "오직 <color=cyan>피드배커</color>(<color=cyan>파란색 팔</color>)만이 적의 투사체를 <color=orange>패링할</color> 수 있습니다.",
-		"act1_lustSecond_feedbacker2": "팔을 바꾸려면: ",
+		"act1_lustSecond_feedbacker2": "장비한 팔을 전환하려면: ",
 		"act1_lustSecond_railcannon": "<color=cyan>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
 
 		"act1_lustThird_water": "물이 빠졌다.",
