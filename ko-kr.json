@@ -233,7 +233,7 @@
 		"museum_weaponsShotgun2": "왼쪽: FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsShotgun3": "RIGHT: Victoria가 제작한 2022 리메이크",
 		"museum_weaponsShotgun4": "리볼버처럼, 샷건도 FlyingDog이 컨셉 아트 없이 만들었고, 이후 Victoria가 리메이크했고, 덕분에 원래 디자인에서 크게 바뀌지 않으면서 게임의 새로운 시각적 스타일에 더 잘 맞는 형태로 고칠 수 있었습니다. 이 새 버전은 더 밝아졌는데, 이전의 검은색 무광 스타일이 게임의 강한 색감에 너무 묻혀가는 느낌이 있었기 때문입니다, 그래도 이전 스타일이 더 좋은 분들은 첫 번째 색상 프리셋을 써서 다시 되돌려 놓을 수 있습니다.",
-		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 투사체의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
+		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
 
 		"museum_weaponsNailgun1": "<color=orange>네일건</color>",
 		"museum_weaponsNailgun2": "왼쪽: Jericho와 FlyingDog이 제작한 2019 오리지널",
@@ -253,7 +253,7 @@
 		"museum_enemiesStray1": "<color=orange>스트레이</color>",
 		"museum_enemiesStray2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesStray3": "오른쪽: Jericho와 Sam이 제작한 2020 리메이크",
-		"museum_enemiesStray4": "스트레이는 원래 \"투사체 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
+		"museum_enemiesStray4": "스트레이는 원래 \" 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
 		"museum_enemiesStray5": "Jericho의 솔져에 대한 디자인에 맞춰 만들어진, 새로운 버전 또한, 그 아이디어를 보존하지만 훨씬 덜 만화적인 방법으로 그걸 표현하였습니다.",
 
 		"museum_enemiesSchism1": "<color=orange>스키즘</color>",
@@ -490,7 +490,7 @@
 		"style_bigkill": "빅 킬",
 		"style_bigfistkill": "빅 피스트킬",
 		"style_bipolar": "양극성",
-		"style_cannonballed": "포격됨",
+		"style_cannonballed": "대포알 직격",
 		"style_catapaulted": "내동댕이쳐짐",
 		"style_chargeback": "차지백",
 		"style_compressed": "압축됨",
@@ -514,12 +514,12 @@
 		"style_interruption": "공격 방해",
 		"style_kill": "킬",
 		"style_limbshot": "림샷",
-		"style_mauriced": "모리스됨",
+		"style_mauriced": "모리스 당함",
 		"style_multikill": "멀티 킬",
 		"style_nailbombed": "못을 못 피함",
 		"style_overkill": "오버킬",
 		"style_parry": "패링",
-		"style_projectileboost": "투사체 가속",
+		"style_projectileboost": "투사체 부스트",
 		"style_quickdraw": "퀵드로우",
 		"style_ricoshot": "리코샷",
 		"style_ricoshotUltra": "울트라",
@@ -587,7 +587,7 @@
 
 
 		"cybergrind_themesTitle": "테마",
-		"cybergrind_themesDescription": "투기장의 시각적 테마를 선택하세요",
+		"cybergrind_themesDescription": "아레나의 시각적 테마를 선택하세요",
 		"cybergrind_themesLight": "라이트",
 		"cybergrind_themesDark": "다크",
 		"cybergrind_themesCustom": "사용자 지정",
@@ -604,7 +604,7 @@
 		"cybergrind_themesCustomGlowIntensity": "발광 정도",
 
 		"cybergrind_musicTitle": "플레이리스트",
-		"cybergrind_musicCompleteChallengeRequirement": "도전을 성공해야 함 : ",
+		"cybergrind_musicCompleteChallengeRequirement": "챌린지 완료해야 함 : ",
 		"cybergrind_musicSeeEnemyRequirement": "새로운 적과 조우하십시오",
 		"cybergrind_musicUnlockLevelRequirement": "도달해야 함 : ",
 		"cybergrind_musicCompleteLevelRequirement": "완료해야 함 : ",
@@ -678,7 +678,7 @@
 		"act1_intermission_first4": "그들은 씁쓸한 분개의 눈빛으로, 모두에게 보일 만큼 크게 벌어진 가브리엘의 몸과 마음에 난 상처들을 노려보았다.",
 		"act1_intermission_first5": "\"이 자가 우리의 창조주에 대한 도리를 저버렸는가?\"",
 		"act1_intermission_first6": "\"신성한 빛을 지닐 자격이 없는 자로다.\"",
-		"act1_intermission_first7": "\"아버지의 빛은 결코 꺾이지 않는다.\"",
+		"act1_intermission_first7": "\"아버지의 빛은 결코 꺾이지 않아야 하거늘.\"",
 		"act1_intermission_first8": "\"이 자는 그걸 낭비하고 있는 모양이군.\"",
 		"act1_intermission_first9": "그들의 음성이 가브리엘의 사지에 공진해, 한 가닥 번개처럼 타고 흘러, 범골이었다면 눈이 멀고 귀가 먹었을 정도로 내리쳐 그을음을 남겼다.",
 		"act1_intermission_first10": "이 자 속에 있는 신성한 빛과, 폭풍 같은 신성한 불굴의 분노.",
@@ -1422,9 +1422,9 @@
 		"levelName_heresySecond": "증오의 미학",
 		
 		"levelName_violenceFirst": "갈림길의 정원",
-		"levelName_violenceSecond": "밤을 밝혀라",
+		"levelName_violenceSecond": "밤길을 밝혀라",
 		"levelName_violenceThird": "소리도 없고, 기억도 없이",
-		"levelName_violenceFourth": "...천국으로 뻗은 안테나처럼",
+		"levelName_violenceFourth": "...마치 천국으로 뻗은 안테나처럼",
 		"levelName_violenceSecret": "",
 			
 		"levelName_fraudFirst": "",
@@ -1495,7 +1495,7 @@
 		"leveltips_preludeThird3": "점프: 근접 공격 범위를 빠르게 벗어날 수 있지만 공중에선 방향 제어력이 떨어집니다.",
 
 		"leveltips_preludeFourth1": "샷건으로 패링하기:",
-		"leveltips_preludeFourth2": "적이 공격하기 직전 적의 몸통에 영거리 사격을 하면 엄청난 피해를 줄 수 있습니다.",
+		"leveltips_preludeFourth2": "적이 공격하기 직전 적의 몸통에 영거리 사격을 하면 강력한 피해를 줄 수 있습니다.",
 
 		"leveltips_preludeFifth": "공격을 할 때 나오는 특유의 소리를 잘 귀울이면 시야 밖의 적이 언제 공격하는지 알 수 있습니다.",
 
@@ -1541,9 +1541,9 @@
 		"leveltips_heresySecond2": "적과 전투 중에 불필요하게 대쉬하는 것은 가장 필요한 순간에 아무것도 할 수 없게 되는 불상사를 초래할 수 있습니다.",
 		
 		"leveltips_violenceFirst": "유도 투사체는 피하기가 어려울 수 있지만, 추적이 느리고 탄속이 느려서 패링으로 받아치기가 수월합니다.",
-		"leveltips_violenceSecond": "마네킹은 특유의 빠른 발걸음 때문에 맞추기가 힘들지만, 공중에 띄워지면 표면에서 사격당하면 균형을 잃고 잠시 움직일 수 없는 상태가 됩니다.",
+		"leveltips_violenceSecond": "마네킹은 특유의 빠른 발걸음 때문에 맞추기가 힘들지만, 공중에 띄워지거나 벽이나 천장에 붙은 상태에서 사격당하면 균형을 잃고 잠시 움직일 수 없는 상태가 됩니다.",
 		"leveltips_violenceThird": "너클블래스터의 충격파는 거터맨의 방패를 파괴할 수 있어, 혼란스러운 난전 속을 헤쳐나가기 쉽게 해줍니다.",
-		"leveltips_violenceFourth": "너클블래스터의 주먹을 정통으로 맞추면 대상을 강하게 밀쳐냅니다. 이는 적을 낭떠러지나 환경적 위험 요소에 떨어트리게 만드는 데 아주 탁월합니다.",
+		"leveltips_violenceFourth": "너클블래스터의 주먹을 정통으로 맞추면 대상을 강하게 밀쳐냅니다. 이는 적을 낭떠러지나 환경적 위험 요소에 떨어트리는 데 아주 탁월합니다.",
 
 		"leveltips_fraudFirst": "",
 		"leveltips_fraudSecond": "",
@@ -1557,7 +1557,7 @@
 		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
 		"leveltips_primeSecond": "즐기세요.",
 
-		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
+		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 자폭은 되돌아오기에 좋은 방법 중 하나입니다.",
 		"leveltips_sandbox1": "치트는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
 		"leveltips_sandbox2": "치트를 활성화하면 랭크가 비활성화됩니다.",
 
@@ -1692,7 +1692,7 @@
 		"shop_loreNailgun1": "산업용 네일건과 구식 실탄 무기의 조합으로 탄생한 결과물이다. 대부분의 기계들은 건설 작업용 기계로 만들어졌고, 모든 기계들, 심지어 전쟁을 위해 만들어지지 않은 기계들도 인류의 멸종 이후 스스로 생존하는 법을 배워야 했기 때문이다.",
 		"shop_loreNailgun2": "실탄 무기들은 전기 무기, 고열 무기 등의 무한 탄약 시스템이 발명된 후 대부분 버려졌는데, 이는 대규모 군대를 위해 탄약을 사지 않아도 되는 비용이 시간이 지남에 따라 얼마나 저렴해지는가에 대한 것 때문이다.",
 		"shop_loreNailgun3": "기존의 탄약 시스템이 그것을 쓸모없게 만들고 대부분 버려지게 되었으나, 이 무기는 여전히 훌륭하게 설계되고 제작되었기 때문에 산업용 네일건의 부품을 일부 개조함으로써 실질적으로 무한한 금속 탄약을 지닌 고속 속사포로 거듭날 수 있었다.",
-		"shop_loreNailgun4": "그러나 이 무기가 급조된 무기에서 비롯되었듯이, 그것의 디자인은 완벽과는 거리가 멀다. 못 제조 시스템은 그렇게 빠른 속도로 작동하도록 설계되지 않았기 때문에 고속 제한을 설정하지 않으면 쉽게 과열될 수 있다. 그러나 일부 모델은 내장형 히트싱크를 채택하였다.",
+		"shop_loreNailgun4": "그러나 이 무기가 급조된 무기에서 비롯되었듯이, 그것의 디자인은 완벽과는 거리가 멀다. 못 제조 시스템은 그렇게 빠른 속도로 작동하도록 설계되지 않았기 때문에 회전 속도 제한을 설정하지 않으면 쉽게 과열될 수 있다. 그러나 일부 모델은 내장형 히트싱크를 채택하였다.",
 		"shop_loreNailgun5": "제한된 탄약이라는 특성 때문에 네일건은 장시간의 전투보다는 짧은 순간에 폭발적인 화력을 퍼부을 때 효율적이다.",
 		"shop_loreNailgun6": "어트랙터 변형에서 사용할 수 있는 자석은 다른 네일건 변형의 못에도 영향을 미치므로 오버히트 변형의 순간 난사같이 명중율이 떨어진다는 단점을 상쇄할 수 있다.",
 		"shop_loreNailgun7": "멀리셔스 페이스와 같은 일부 적들은 일반적으로 네일건의 못에 추가 피해를 받으며 특히 어트랙터 변형에서 사용할 수 있는 자석을 사용하면 대부분의 약한 적들을 처치할 수 있다.",
@@ -1989,7 +1989,7 @@
 		"enemyBios_insurrectionist_5": "전사들은 서로 뿔뿔이 흩어지고 방향을 잃은 채 하나둘씩 쉽게 뜯겨져 나갔고, 그들의 몸은 산산조각났으며 인류의 오만과 탐욕의 기념비 위로 무거운 돌을 들고 나르는 영원한 형벌을 수행하는 데 필요한 최소한의 필수 요소만 남겨졌다.",
 		"enemyBios_insurrectionist_6": "적들의 피가 여전히 그들의 몸을 더럽히고, 그들의 손아귀는 여전히 그들의 쓰러진 적들을 움켜쥐고 있지만, 그들의 의지와 맹렬한 분노는 그들이 얼마나 자유에 가까이 있었는지 알 수 있는 정신적인 고통으로 작용할 뿐이다.",
 
-		"enemyBios_insurrectionist_strategy1": "시시포스의 반란군은 탐욕의 층의 모래 언덕의 열기로부터 스스로를 보호하기 위해 발을 적들의 피에 담갔지만, 나머지 부분은 여전히 피부와 살가죽으로 이루어져 있어 불을 붙이면 방어력을 크게 약화시키고 지속 피해를 줄 수 있다.",
+		"enemyBios_insurrectionist_strategy1": "시시포스의 반란군은 탐욕의 층 모래 언덕의 열기로부터 스스로를 보호하기 위해 발을 적들의 피로 적셨지만, 나머지 부분은 여전히 피부와 살가죽으로 이루어져 있어 불을 붙이면 방어력을 크게 약화시키고 지속 피해를 줄 수 있다.",
 		"enemyBios_insurrectionist_strategy2": "그들의 공격 사거리는 실질적으로 무한에 가깝지만, 반란군의 스윙에는 각각 장단점이 존재한다. 이 공격들을 회피하기 위해 어떠한 방법으로 피해야 하는지 배우는 것이 좋다.",
 		"enemyBios_insurrectionist_strategy3": "반란군의 발 구르기 공격은 매우 빠르고 파괴적이기 때문에, 너무 가까이에 머물러 있는 것은 좋지 않다.",
 		"enemyBios_insurrectionist_strategy4": "그들이 무기로 휘두르는 멀리셔스 페이스는 신체의 일부가 아니기 때문에 이 부위를 타격해도 반란군에게 피해를 줄 수 없다. 그러나 반란군이 모래로 뒤덮여도 이 부분만큼은 모래로 덮이지 않기 때문에, 회복을 위해 사용할 수 있다.",
@@ -2209,7 +2209,7 @@
 	},
 	"prelude": {
 		"prelude_first_openingCredits1": "NEW BLOOD 제공",
-		"prelude_first_openingCredits2": "ARSI <color=orange>'HAKITA'</color> PATALA 게임",
+		"prelude_first_openingCredits2": "ARSI <color=orange>'HAKITA'</color> PATALA 제작",
 		"prelude_first_pipeClip": "\"파이프 클립 만세.\"$T.HAKITA",
 		"prelude_first_revolverPierce1": "<color=#00FFFF>리볼버</color>:",
 		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=orange>관통 사격</color>을 발사하세요.",
@@ -2340,7 +2340,7 @@
 		"primeSanctum_second_secretText4": "이전 보고서를 발표한 뒤로, 더 강력한 통신 장비들이 성공적으로 설계되고 만들어졌습니다. 이 모든 것이 저희가 중요하게 여기고 있는 <color=grey>[여기에 발표를 듣는 회사 이름 입력]</color> 덕분에 실현될 수 있었습니다. 이 새로운 장비와 함께, 저희는 지옥 탐사와 탈출 작전이 <color=red>[오류:sAmsGS3JTIU]</color> 로 인해 갑작스럽게 중단된 이후 남겨진 몇몇 고성능 기계들과 다시 연결할 수 있었습니다.\n",
 		"primeSanctum_second_secretText5": "저희가 발견한 것은 정말 기념비적이고, 만약 어느 정도의 의심을 벗고 사실로 판명된다면, 전 세계의 로봇 공학 단체에게 혁명적인 것입니다: ",
 		"primeSanctum_second_secretText6": "바로 지루함이죠.",
-		"primeSanctum_second_secretText7": "터미널들은, 움직일 수 없어서, 점차 지루해졌습니다. 다른 기기와 연결되어 있어 서로 통신할 수 있는 한편, 바깥으로부터의 통신이 두절될 경우, 새로운 입력을 받지 못하게 되었고, 그 결과 모든 통신 내용이 이미 알고 있는 정보의 반복으로 전락하게 되었습니다.",
+		"primeSanctum_second_secretText7": "터미널들은 움직일 수 없는 탓에 점차 지루해졌습니다. 다른 기기와 연결되어 있어 서로 통신할 수 있는 한편, 바깥으로부터의 통신이 두절될 경우 새로운 입력을 받지 못하게 되었고, 그 결과 모든 통신 내용이 이미 알고 있는 정보의 반복으로 전락하게 되었습니다.",
 		"primeSanctum_second_secretText8": "이 \"지루함\"이 실제 감정과 얼마나 비슷한지와 이게 어떻게 생겨났는지 알려지지는 않았습니다만, 이게 터미널들이 다른 기계와의 공생 관계를 구축하게 만들었습니다. 특히, 터미널들은 순간이동 시스템으로 수집할 수 있는 모든 것을 모아 이 물자나 자원들을 지옥에 남겨진 기계에게 거래합니다, 재미를 대가로 말이죠.",
 		"primeSanctum_second_secretText9": "그게 뭐냐면, 기계들이 자신들의 지옥에서의 생존을 위한 사투를 녹화하면 그 영상이 가진 재미의 정도에 따라 점수가 매겨지고 새로운 무기 같은 물자나 서비스를 거래하는 \"포인트\"로 쓰입니다.",
 		"primeSanctum_second_secretText10": "이 관계가 터미널들의 존재 의의에 너무 깊게 새겨진 나머지 터미널 사이 사회적 위계 질서가 형성되어, 가장 재미있는 전투 기록을 수집하는 개체가 그렇지 않은 경우보다 더 우월한 것으로 나타납니다.",
@@ -2399,7 +2399,7 @@
 		"subtitles_gabriel_intro6": "아버지의 정의로운 오른팔로서,",
 		"subtitles_gabriel_intro7": "네놈을 직접 찢어발겨 주마!",
 		"subtitles_gabriel_intro8": "그리고 네놈은 다시금 움직이지 않게 될 지어다...",
-		"subtitles_gabriel_fightStart": "보아라! 천사의 힘을!",
+		"subtitles_gabriel_fightStart": "보아라! 이 천사의 힘을!",
 
 		"subtitles_gabriel_taunt1": "빛은 완벽하다!",
 		"subtitles_gabriel_taunt2": "네놈은 빛을 거스르는구나!",
@@ -2553,7 +2553,7 @@
 
 		"subtitles_sisyphusPrime_attack1": "시도는 좋았다!",
 		"subtitles_sisyphusPrime_attack2": "없어져라!",
-		"subtitles_sisyphusPrime_attack3": "넌 탈출할 수 없다!",
+		"subtitles_sisyphusPrime_attack3": "빠져나갈 순 없다!",
 		"subtitles_sisyphusPrime_attack4": "파괴한다!",
 		"subtitles_sisyphusPrime_attack5": "이건 좀 아플 거다.",
 
@@ -2680,7 +2680,7 @@
 		"enemyAlter_boss_description": "보스 체력바",
 
 		"earlyAccessEnd1": "플레이해주셔서 감사합니다!",
-		"earlyAccessEnd2": "레이어 8: 사기는 아직 개발 중입니다.",
+		"earlyAccessEnd2": "레이어 8: 사기의 층은 아직 개발 중입니다.",
 		"earlyAccessEnd3": "개발의 진행도는 아래에서 확인해 보세요!"
 		
 	},
