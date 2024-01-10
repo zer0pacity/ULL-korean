@@ -514,7 +514,7 @@
 		"style_interruption": "공격 방해",
 		"style_kill": "킬",
 		"style_limbshot": "림샷",
-		"style_mauriced": "멀리셔스에 깔림",
+		"style_mauriced": "모리스됨",
 		"style_multikill": "멀티 킬",
 		"style_nailbombed": "못을 못 피함",
 		"style_overkill": "오버킬",
@@ -659,7 +659,7 @@
 		"books_greedThird1": "피라미드 안에 고양이와 쥐의 방이 있다.",
 		"books_greedThird2": "방 안에 맑은 물이 고여 있다.",
 		"books_greedThird3": "그 물은 비밀을 담고 있다...",
-		"books_greedThird4": "그러나 드루이드의 <color=cyan>전기</color> 마법을 쓰는 자만이 그것을 찾을 수 있으리라.",
+		"books_greedThird4": "그러나 드루이드의 <color=blue>전기</color> 마법을 쓰는 자만이 그것을 찾을 수 있으리라.",
 
 		"books_wrathSecond1": "텍스트 감지됨 - 가독 문서:",
 		"books_wrathSecond2": "뱃사공의 일기에서 발췌",
@@ -731,13 +731,13 @@
 		"act2_intermission_second10": "그는 말로는 결코 대중을 움직일 수 없다고 생각했다.",
 		"act2_intermission_second11": "대신 더 과감한 방법을 쓰기로 했다.",
 
-		"act2_intermission_third1": "강당이 죽음으로 얼룩졌다.",
-		"act2_intermission_third2": "널부러진 시신들은 한 때 강한 힘을 지닌 의회의 겉을 덮어버렸고, 그들의 마지막 숨결이 가브리엘의 반역의 칼날에서 흘러내렸다.",
+		"act2_intermission_third1": "회당이 죽음으로 얼룩졌다.",
+		"act2_intermission_third2": "한 때 강한 힘을 지녔던 의회는 이제 몇 구의 주검이 되어 바닥을 덮어버렸고, 그들의 마지막 숨결은 가브리엘의 반역의 칼날에서 흘러내렸다.",
 
 		"act2_intermission_third3": "벽에 내몰린 마지막 평의원은 죽음을 직감하고 겁에 질린 숨소리를 내뱉으며 입을 연다.",
 		"act2_intermission_third4": "\"머...멈춰라!",
-		"act2_intermission_third5": "이럴 순 없어! 우리의 신분은 그것을 금지한다!",
-		"act2_intermission_third6": "이건 반역이야, 이단...살인마 같으니!",
+		"act2_intermission_third5": "이럴 순 없어! 우리는 죽어서는 안 된다!",
+		"act2_intermission_third6": "이건 반역이며, 이단이자, 살인이다!",
 		"act2_intermission_third7": "우리는 최고의 권위자다! 우리의 법은 너에게 명령을 내리도다!\"",
 
 		"act2_intermission_third8": "\"네놈의 명령들은 이제 아무것도 아니다.",
@@ -800,9 +800,9 @@
 		"mainmenu_restart": "재시작",
 
 		"difficulty_title": "난이도",
-		"difficulty_easy": "초심자",
+		"difficulty_easy": "할 만함",
 		"difficulty_normal": "어려움",
-		"difficulty_hard": "전문가",
+		"difficulty_hard": "매우 어려움",
 		"difficulty_harmless": "무해함",
 		"difficulty_lenient": "온순함",
 		"difficulty_standard": "보통",
@@ -1141,8 +1141,8 @@
 		"controls_secondaryFire": "보조 발사",
 		"controls_arms": "팔",
 		"controls_punch": "주먹",
-		"controls_nextWeapon": "NEXT WEAPON",
-        "controls_previousWeapon": "PREVIOUS WEAPON",
+		"controls_nextWeapon": "다음 무기",
+        "controls_previousWeapon": "이전 무기",
 		"controls_lastUsedWeapon": "마지막으로 쓴 무기",
 		"controls_changeVariation": "변형 바꾸기",
 		
@@ -1222,7 +1222,7 @@
 		"audio_musicVolume": "음악 볼륨",
 		"audio_dubbing": "음성 더빙",
 
-		"hud_title": "HUD",
+		"hud_title": "디스플레이",
 		"hud_type": "HUD 종류",
 		"hud_typeNone": "없음",
 		"hud_typeStandard": "일반",
@@ -2211,7 +2211,7 @@
 		"prelude_first_openingCredits1": "NEW BLOOD 제공",
 		"prelude_first_openingCredits2": "ARSI <color=orange>'HAKITA'</color> PATALA 게임",
 		"prelude_first_pipeClip": "\"파이프 클립 만세.\"$T.HAKITA",
-		"prelude_first_revolverPierce1": "<color=cyan>리볼버</color>:",
+		"prelude_first_revolverPierce1": "<color=#00FFFF>리볼버</color>:",
 		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=orange>관통 사격</color>을 발사하세요.",
 		"prelude_first_parry": "<color=orange>투사체</color>를 적절한 타이밍에 <color=orange>때려서 받아치세요</color>.",
 
@@ -2226,23 +2226,23 @@
 		"prelude_second_changeEquipped": "획득한 변형 사이를 전환하려면:",
 
 		"prelude_third_needShotgun": "<color=red>화력 부족</color>",
-		"prelude_third_shotgun1": "<color=cyan>샷건</color>:",
+		"prelude_third_shotgun1": "<color=#00FFFF>샷건</color>:",
 		"prelude_third_shotgun2": "을 눌러서 폭발성 투사체를 발사하세요.",
 		"prelude_third_shotgun3": "오래 누를수록 사거리가 증가합니다.",
-		"prelude_third_shotgunPierce": "<color=cyan>샷건</color> - 약한 적을 관통합니다",
+		"prelude_third_shotgunPierce": "<color=#00FFFF>샷건</color> - 약한 적을 관통합니다",
 
 		"prelude_secret_somethingWicked": "사악한 것이 온다."
 	},
 	"act1": {
 		"act1_limboFirst_items1": "아이템을 집어들려면",
 		"act1_limboFirst_items2": "를 누르세요.",
-		"act1_limboFirst_nailgun1": "<color=cyan>네일건</color>:",
+		"act1_limboFirst_nailgun1": "<color=#00FFFF>네일건</color>:",
 		"act1_limboFirst_nailgun2": "을 눌러 못을 끌어들이는 자석을 발사하세요",
 		"act1_limboFirst_nailgun3": "주위에 부착해 함정을 만들 수 있습니다.",
 
-		"act1_limboSecond_blueAttack": "<color=cyan>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
+		"act1_limboSecond_blueAttack": "<color=#00FFFF>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
 
-		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=cyan>개인</color> 문은 열기 위한 해골이 <color=red>하나만</color> 있어도 <color=cyan>작동합니다</color>.",
+		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=#00FFFF>개인</color> 문은 열기 위한 해골이 <color=#00FFFF>하나만</color> 있어도 <color=#00FFFF>작동합니다</color>.",
 		"act1_limboThird_splitDoor2": "사서 고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
@@ -2257,9 +2257,9 @@
 		"act1_lustFirst_knuckleblaster2": "을 눌러 적을 밀쳐내는 충격파를 발사하세요.",
 		"act1_lustFirst_dashjump": "대쉬 점프: 대쉬 중 점프해서 속도를 유지하세요.",
 
-		"act1_lustSecond_feedbacker1": "오직 <color=cyan>피드배커</color>(<color=cyan>파란색 팔</color>)만이 적의 투사체를 <color=orange>패링할</color> 수 있습니다.",
+		"act1_lustSecond_feedbacker1": "오직 <color=#00FFFF>피드배커</color>(<color=#00FFFF>파란색 팔</color>)만이 적의 투사체를 <color=orange>패링할</color> 수 있습니다.",
 		"act1_lustSecond_feedbacker2": "장비한 팔을 전환하려면: ",
-		"act1_lustSecond_railcannon": "<color=cyan>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
+		"act1_lustSecond_railcannon": "<color=#00FFFF>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
 
 		"act1_lustThird_water": "물이 빠졌다.",
 
@@ -2288,19 +2288,19 @@
 
 		"act2_greed_secretDoor": "어떤 눈이 열린다.",
 
-		"act2_wrathFirst_slingshot": "<color=cyan>파란 후크포인트</color>는 도착 시에도 관성을 유지합니다.",
+		"act2_wrathFirst_slingshot": "<color=#00FFFF>파란 후크포인트</color>는 도착 시에도 관성을 유지합니다.",
 		"act2_wrathFirst_whiplashUnderwater": "<color=lime>위플래시</color>: <color=orange>물 속</color>에 있을 때에는 <color=gray>하드 대미지</color>가 축적되지 <color=orange>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
 		"act2_wrathFirst_waterDrained": "물이 빠졌다.",
 		"act2_wrathFirst_sentry": "<color=lime>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=orange>//</color> 레일캐논 <color=orange>//</color> 지면 내려찍기 충격파 <color=orange>//</color> 안테나에 리볼버 쏘기",
 
-		"act2_wrathSecond_idol": "<color=cyan>우상</color>은 오직 <color=orange>근접 공격</color>으로만 부술 수 있습니다",
+		"act2_wrathSecond_idol": "<color=#00FFFF>우상</color>은 오직 <color=orange>근접 공격</color>으로만 부술 수 있습니다",
 		"act2_wrathSecond_neptune": "잘 들어라! 넵튠이 그들을 쳐 죽였다.",
 		"act2_wrathSecond_jakito1": "<color=red>나는 JAKITO다. 제물을 가져와라. 그것은 내가 탈출할 수 있게 할 것이다.</color>",
 		"act2_wrathSecond_jakito2": "<color=red>고맙다. 이제 나는 이 세상에 파멸을 가져올지어다.</color>",
 		"act2_wrathSecond_jakito3": "<color=red>아니. 무고한 생명이어야 한다.</color>",
 
-		"act2_wrathThird_rocketLauncher": "<color=cyan>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
-		"act2_wrathThird_rocketLauncherMidair": "<color=cyan>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
+		"act2_wrathThird_rocketLauncher": "<color=#00FFFF>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
+		"act2_wrathThird_rocketLauncherMidair": "<color=#00FFFF>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
 		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
 		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 조상들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
