@@ -233,7 +233,7 @@
 		"museum_weaponsShotgun2": "왼쪽: FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsShotgun3": "RIGHT: Victoria가 제작한 2022 리메이크",
 		"museum_weaponsShotgun4": "리볼버처럼, 샷건도 FlyingDog이 컨셉 아트 없이 만들었고, 이후 Victoria가 리메이크했고, 덕분에 원래 디자인에서 크게 바뀌지 않으면서 게임의 새로운 시각적 스타일에 더 잘 맞는 형태로 고칠 수 있었습니다. 이 새 버전은 더 밝아졌는데, 이전의 검은색 무광 스타일이 게임의 강한 색감에 너무 묻혀가는 느낌이 있었기 때문입니다, 그래도 이전 스타일이 더 좋은 분들은 첫 번째 색상 프리셋을 써서 다시 되돌려 놓을 수 있습니다.",
-		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
+		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 투사체의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
 
 		"museum_weaponsNailgun1": "<color=orange>네일건</color>",
 		"museum_weaponsNailgun2": "왼쪽: Jericho와 FlyingDog이 제작한 2019 오리지널",
@@ -253,7 +253,7 @@
 		"museum_enemiesStray1": "<color=orange>스트레이</color>",
 		"museum_enemiesStray2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesStray3": "오른쪽: Jericho와 Sam이 제작한 2020 리메이크",
-		"museum_enemiesStray4": "스트레이는 원래 \" 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
+		"museum_enemiesStray4": "스트레이는 원래 \"투사체 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
 		"museum_enemiesStray5": "Jericho의 솔져에 대한 디자인에 맞춰 만들어진, 새로운 버전 또한, 그 아이디어를 보존하지만 훨씬 덜 만화적인 방법으로 그걸 표현하였습니다.",
 
 		"museum_enemiesSchism1": "<color=orange>스키즘</color>",
@@ -604,7 +604,7 @@
 		"cybergrind_themesCustomGlowIntensity": "발광 정도",
 
 		"cybergrind_musicTitle": "플레이리스트",
-		"cybergrind_musicCompleteChallengeRequirement": "챌린지 완료해야 함 : ",
+		"cybergrind_musicCompleteChallengeRequirement": "도전을 완료해야 함 : ",
 		"cybergrind_musicSeeEnemyRequirement": "새로운 적과 조우하십시오",
 		"cybergrind_musicUnlockLevelRequirement": "도달해야 함 : ",
 		"cybergrind_musicCompleteLevelRequirement": "완료해야 함 : ",
