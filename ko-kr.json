@@ -3,7 +3,7 @@
 		"langName": "ko-KR",
 		"langAuthor": "ArsenicParadigm, susu",
 		"langVersion": "1.0.2",
-		"langDisplayName": "한국어",
+		"langDisplayName": "Korean",
 		"langRTL": "false",
 
 		"minimumModVersion": "1.2.3"
@@ -659,7 +659,7 @@
 		"books_greedThird1": "피라미드 안에 고양이와 쥐의 방이 있다.",
 		"books_greedThird2": "방 안에 맑은 물이 고여 있다.",
 		"books_greedThird3": "그 물은 비밀을 담고 있다...",
-		"books_greedThird4": "그러나 드루이드의 <color=blue>전기</color> 마법을 쓰는 자만이 그것을 찾을 수 있으리라.",
+		"books_greedThird4": "그러나 드루이드의 <color=#00FFFF>전기</color> 마법을 쓰는 자만이 그것을 찾을 수 있으리라.",
 
 		"books_wrathSecond1": "텍스트 감지됨 - 가독 문서:",
 		"books_wrathSecond2": "뱃사공의 일기에서 발췌",
@@ -1267,10 +1267,10 @@
 		"crosshair_powerupBar": "파워업 표시기",
 
 		"assists_title": "어시스트",
-		"assists_majorAssistsDisclaimer1": "주요 어시스트는 게임 밸런스를 크게 변화시키는 옵션들로 이루어져 있습니다.",
-		"assists_majorAssistsDisclaimer2": "임무 중에 \"주요 어시스트\"가 활성화된 경우, 임무 완료 시 획득한 순위는 파란색 배경으로 표시됩니다. 이 표시는 \"주요 어시스트\"를 해제한 상태에서 임무를 처음부터 다시 시작해 동일한 순위 혹은 이상을 달성해야만 제거할 수 있습니다.",
-		"assists_majorAssistsDisclaimer3": "\"주요 어시스트\"가 활성화된 상태에서는 Perfect 랭크를 달성할 수 없으며, 사이버 그라인드에서 고득점을 달성할 수 없습니다.",
-		"assists_majorAssistsDisclaimerConfirm": "주요 어시스트를 활성화하시겠습니까?",
+		"assists_majorAssistsDisclaimer1": "특수 어시스트는 게임 밸런스를 크게 변화시키는 옵션들로 이루어져 있습니다.",
+		"assists_majorAssistsDisclaimer2": "임무 중에 \"특수 어시스트\"가 활성화된 경우, 임무 완료 시 획득한 순위는 파란색 배경으로 표시됩니다. 이 표시는 \"특수 어시스트\"를 해제한 상태에서 임무를 처음부터 다시 시작해 동일한 순위 혹은 이상을 달성해야만 제거할 수 있습니다.",
+		"assists_majorAssistsDisclaimer3": "\"특수 어시스트\"가 활성화된 상태에서는 Perfect 랭크를 달성할 수 없으며, 사이버 그라인드에서 고득점을 달성할 수 없습니다.",
+		"assists_majorAssistsDisclaimerConfirm": "특수 어시스트를 활성화하시겠습니까?",
 		"assists_majorAssistsDisclaimerConfirmYes": "네",
 		"assists_majorAssistsDisclaimerConfirmNo": "아니오",
 		"assists_minorAssistsTitle": "일반 어시스트",
@@ -1285,7 +1285,7 @@
 		"assists_enemySilhouettesDistanceMinimum": "무한대",
 		"assists_enemySilhouettesOutlinesOnly": "윤곽선만 표시",
 		"assists_enemySilhouettesOutlineThickness": "윤곽선 굵기",
-		"assists_major": "주요 어시스트",
+		"assists_major": "특수 어시스트",
 		"assists_majorActivate": "활성화",
 		"assists_gameSpeed": "게임 속도",
 		"assists_damageTaken": "받는 피해량",
@@ -2275,11 +2275,11 @@
 		"act2_greedThird_tombOfKings": "왕들의 무덤",
 
 		"act2_greedFourth_v2": "이번엔 도망치지 못할 거다.",
-		"act2_greedFourth_whiplash1": "<color=lime>위플래시</color>:",
+		"act2_greedFourth_whiplash1": "<color=#00FF00>위플래시</color>:",
 		"act2_greedFourth_whiplash2": "를 눌러 던지고, 떼서 당기세요",
-		"act2_greedFourth_whiplash3": "<color=lime>위플래시</color>: 가벼운 적은 당신에게 끌어당기고, 무거운 적은 당신을 끌어당깁니다.",
+		"act2_greedFourth_whiplash3": "<color=#00FF00>위플래시</color>: 가벼운 적은 당신에게 끌어당기고, 무거운 적은 당신을 끌어당깁니다.",
 
-		"act2_greedFourth_whiplashHardDamage1": "<color=lime>위플래시</color>: 적에게 사용 시 <color=gray>하드 대미지</color>가 축적됩니다.",
+		"act2_greedFourth_whiplashHardDamage1": "<color=#00FF00>위플래시</color>: 적에게 사용 시 <color=#808080>하드 대미지</color>가 축적됩니다.",
 		"act2_greedFourth_whiplashHardDamage2": "HP를 깎지는 못하지만, 낮은 HP에서 사용하기에는 위험합니다.",
 
 		"act2_greedSecret_holdToJump1": "더 높이 뛰려면",
@@ -2290,9 +2290,9 @@
 		"act2_greed_secretDoor": "어떤 눈이 열린다.",
 
 		"act2_wrathFirst_slingshot": "<color=#00FFFF>파란 후크포인트</color>는 도착 시에도 관성을 유지합니다.",
-		"act2_wrathFirst_whiplashUnderwater": "<color=lime>위플래시</color>: <color=orange>물 속</color>에 있을 때에는 <color=gray>하드 대미지</color>가 축적되지 <color=orange>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
+		"act2_wrathFirst_whiplashUnderwater": "<color=#00FF00>위플래시</color>: <color=orange>물 속</color>에 있을 때에는 <color=#808080>하드 대미지</color>가 축적되지 <color=orange>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
 		"act2_wrathFirst_waterDrained": "물이 빠졌다.",
-		"act2_wrathFirst_sentry": "<color=lime>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=orange>//</color> 레일캐논 <color=orange>//</color> 지면 내려찍기 충격파 <color=orange>//</color> 안테나에 리볼버 쏘기",
+		"act2_wrathFirst_sentry": "<color=#00FF00>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=orange>//</color> 레일캐논 <color=orange>//</color> 지면 내려찍기 충격파 <color=orange>//</color> 안테나에 리볼버 쏘기",
 
 		"act2_wrathSecond_idol": "<color=#00FFFF>우상</color>은 오직 <color=orange>근접 공격</color>으로만 부술 수 있습니다",
 		"act2_wrathSecond_neptune": "잘 들어라! 넵튠이 그들을 쳐 죽였다.",
@@ -2311,10 +2311,10 @@
 	},
 	"primeSanctum": {
 		"primeSanctum_first_secretText1": "터미널 데이터 01 <color=red>[암호화됨]</color>",
-		"primeSanctum_first_secretText2": "<color=grey>터미널 소개 (초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
+		"primeSanctum_first_secretText2": "<color=#808080>터미널 소개 (초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
 		"primeSanctum_first_secretText3": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
 		"primeSanctum_first_secretText4": "초기 물질 전달의 정확성에 대해 테스트한 결과, 78rpm 바이닐 레코드가 연구소에서 모든 연결 단자를 통해 전송되었다. 이 레코드는 Russ Morgan Orchestra의 작품인 Were You Foolin' (CRO가 가장 좋아하는 곡) 녹음의 싱글이었지만 라벨은 전달 물질의 양을 줄이기 위해 제거되었다.",
-		"primeSanctum_first_secretText5": "<size=5><color=grey>[참고: 조까 톰 씨발롬아 난 이 ㅈ같은 노래에 질렸고 난 이걸 매일 아침마다 그 쓰레기같은 인터폰으로 들어야 된다고]</color></size>",
+		"primeSanctum_first_secretText5": "<size=5><color=#808080>[참고: 조까 톰 씨발롬아 난 이 ㅈ같은 노래에 질렸고 난 이걸 매일 아침마다 그 쓰레기같은 인터폰으로 들어야 된다고]</color></size>",
 		"primeSanctum_first_secretText6": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
 		"primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=red>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
 		"primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
@@ -2337,8 +2337,8 @@
 
 		"primeSanctum_second_secretText1": "터미널 데이터 02 <color=red>[암호화됨]</color>",
 		"primeSanctum_second_secretText2": "터미널에 대한 최신 정보 ",
-		"primeSanctum_second_secretText3": "<color=grey>(참고: 이 내용들은 아직 조사 중!!! 모든 청구를 확인하고 초안 작성이 끝날 때까지 공유하지 말 것!!! 만약 이 내용을 마지막 초안처럼 유출한다면 지구 전체로부터의 소송 비용을 자비로 부담해야 함.)</color>",
-		"primeSanctum_second_secretText4": "이전 보고서를 발표한 뒤로, 더 강력한 통신 장비들이 성공적으로 설계되고 만들어졌습니다. 이 모든 것이 저희가 중요하게 여기고 있는 <color=grey>[여기에 발표를 듣는 회사 이름 입력]</color> 덕분에 실현될 수 있었습니다. 이 새로운 장비와 함께, 저희는 지옥 탐사와 탈출 작전이 <color=red>[오류:sAmsGS3JTIU]</color> 로 인해 갑작스럽게 중단된 이후 남겨진 몇몇 고성능 기계들과 다시 연결할 수 있었습니다.\n",
+		"primeSanctum_second_secretText3": "<color=#808080>(참고: 이 내용들은 아직 조사 중!!! 모든 청구를 확인하고 초안 작성이 끝날 때까지 공유하지 말 것!!! 만약 이 내용을 마지막 초안처럼 유출한다면 지구 전체로부터의 소송 비용을 자비로 부담해야 함.)</color>",
+		"primeSanctum_second_secretText4": "이전 보고서를 발표한 뒤로, 더 강력한 통신 장비들이 성공적으로 설계되고 만들어졌습니다. 이 모든 것이 저희가 중요하게 여기고 있는 <color=#808080>[여기에 발표를 듣는 회사 이름 입력]</color> 덕분에 실현될 수 있었습니다. 이 새로운 장비와 함께, 저희는 지옥 탐사와 탈출 작전이 <color=red>[오류:sAmsGS3JTIU]</color> 로 인해 갑작스럽게 중단된 이후 남겨진 몇몇 고성능 기계들과 다시 연결할 수 있었습니다.\n",
 		"primeSanctum_second_secretText5": "저희가 발견한 것은 정말 기념비적이고, 만약 어느 정도의 의심을 벗고 사실로 판명된다면, 전 세계의 로봇 공학 단체에게 혁명적인 것입니다: ",
 		"primeSanctum_second_secretText6": "바로 지루함이죠.",
 		"primeSanctum_second_secretText7": "터미널들은 움직일 수 없는 탓에 점차 지루해졌습니다. 다른 기기와 연결되어 있어 서로 통신할 수 있는 한편, 바깥으로부터의 통신이 두절될 경우 새로운 입력을 받지 못하게 되었고, 그 결과 모든 통신 내용이 이미 알고 있는 정보의 반복으로 전락하게 되었습니다.",
@@ -2346,7 +2346,7 @@
 		"primeSanctum_second_secretText9": "그게 뭐냐면, 기계들이 자신들의 지옥에서의 생존을 위한 사투를 녹화하면 그 영상이 가진 재미의 정도에 따라 점수가 매겨지고 새로운 무기 같은 물자나 서비스를 거래하는 \"포인트\"로 쓰입니다.",
 		"primeSanctum_second_secretText10": "이 관계가 터미널들의 존재 의의에 너무 깊게 새겨진 나머지 터미널 사이 사회적 위계 질서가 형성되어, 가장 재미있는 전투 기록을 수집하는 개체가 그렇지 않은 경우보다 더 우월한 것으로 나타납니다.",
 		"primeSanctum_second_secretText11": "더 최근에는, 터미널들은 \"사이버 그라인드\"라고 부르는 가상 공간을 구현하기 충분한 양의 자료를 모아서 기계들이 접속할 수 있도록 하는데, 이를 통해 기계들이 파괴될 위험이 없는 안전한 환경에서 전투를 시뮬레이션할 수 있게 되었고, 터미널들은 이걸 생방송 오락의 일종으로 삼아 실시간으로 관랍합니다.",
-		"primeSanctum_second_secretText12": "이 발견은 매우 특이하며, 그래서 저희는 이것을 거의 믿지 못하고 있습니다만, 저희가 얻을 수 있었던 모든 정보는 이것을 입증하고 있습니다. 만약 저희가 이것을 확실히 증명할 수 있<color=grey>[고 이 초안이 시발 또 유출되지 않는]</color>다면, 이것은 저희가 혈액-동력 기계에 대해 알아왔던 모든 것에 대한 재평가를 요구하는 패러다임 전환을 유발할 것입니다.",
+		"primeSanctum_second_secretText12": "이 발견은 매우 특이하며, 그래서 저희는 이것을 거의 믿지 못하고 있습니다만, 저희가 얻을 수 있었던 모든 정보는 이것을 입증하고 있습니다. 만약 저희가 이것을 확실히 증명할 수 있<color=#808080>[고 이 초안이 시발 또 유출되지 않는]</color>다면, 이것은 저희가 혈액-동력 기계에 대해 알아왔던 모든 것에 대한 재평가를 요구하는 패러다임 전환을 유발할 것입니다.",
 		"primeSanctum_second_secretText13": "데이터 02 종료. 취소된 지옥 탐사와 탈출 작전에 대해 더 알아보려면, 자료 00: <color=red>[링크 삭제됨]</color> 을 참조하십시오."
 	},
 	"secretLevels": {
@@ -2571,7 +2571,7 @@
 	"misc": {
 		"hud_noArm1": "<color=red>팔이 없으면 때릴 수도 없어, 멍청아.</color>",
 		"hud_noArm2": "팔은 상점에서 다시 장착할 수 있습니다.",
-		"hud_majorAssists": "<color=blue>주요 어시스트가 활성화되었습니다.</color>",
+		"hud_majorAssists": "<color=blue>특수 어시스트가 활성화되었습니다.</color>",
 		"hud_overhealOrb1": "<color=red>붉은</color> 소울 오브는 200 HP를 줍니다.",
 		"hud_overhealOrb2": "추가 HP는 피를 맞아도 회복할 수 없습니다",
 		"hud_itemGrabError": "<color=red>오류: 막고 있는 문이 닫힙니다</color>",
@@ -2618,7 +2618,7 @@
 		"levelstats_style": "스타일",
 		"levelstats_secrets": "비밀",
 		"levelstats_challenge": "도전",
-		"levelstats_majorAssists": "주요 어시스트",
+		"levelstats_majorAssists": "특수 어시스트",
 		"levelstats_boxes": "상자",
 
 		"state_activated": "활성화됨",
@@ -2631,7 +2631,7 @@
 		"controls_rightClick": "우클릭",
 
 		"endStats_cheatsUsed": "치트 사용됨",
-		"endStats_assistsUsed": "주요 어시스트 사용됨",
+		"endStats_assistsUsed": "특수 어시스트 사용됨",
 		"endStats_noRestarts": "재시도 없음",
 		"endStats_restarts": "회 재시도",
 		"endstats_noDamage": "피해 입지 않음",
