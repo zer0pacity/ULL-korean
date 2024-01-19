@@ -18,7 +18,7 @@
 		"museum_bookHakita2": "이 박물관 맵은 대부분 Vvizard님이 제작해 주셨고, 약간의 수정과 반복 작업, 그리고 제가 추가한 이스터 에그들이 포함되어 있습니다. 복도 아래 왼쪽에 있는 \"휴게실\"에서 찾으실 수 있습니다.",
 		"museum_bookHakita3": "주위를 한 번 둘러보세요! 1층은 게임 개발에 기여해 주신 모든 사람들을 위한 공간이고, 2층은 삭제된 컨텐츠들과 초기 버전같은 괜찮은 것들을 볼 수 있습니다. 박물관 주변에는 이스터 에그들도 많이 숨겨져 있답니다!",
 		"museum_bookHakita4": "대부분의 개발자 인형 앞에는 책 아이템이 놓여져 있습니다. 이 책에서 그분들이 게임을 만드는 데 어떤 도움을 주셨는지 자세히 읽어볼 수 있어요. 이 책은 저에 대한 거고요!",
-		"museum_bookHakita5": "<b><color=orange>HAKITA</color> - 울트라킬의 창조자</b>",
+		"museum_bookHakita5": "<b><color=FFA500>HAKITA</color> - 울트라킬의 창조자</b>",
 		"museum_bookHakita6": "저는 2018년 2월 1일부터 게임 개발을 시작해 왔습니다. 그때 당시에는 개발진이 저밖에 없었는데, 그래도 FlyingDog님과 Toni Stigell님이 가끔 3D 모델을 제작해 주곤 했죠.",
 		"museum_bookHakita7": "제 기여 목록은 다음과 같습니다.",
 		"museum_bookHakita8": "- 게임의 모든 방향, 디자인, 사운드 디자인, 스토리 및 애니메이션",
@@ -38,7 +38,7 @@
 		"museum_bookFrancisXie8": "- 모든 울트라킬 개발자들의 인형 디자인",
 		"museum_bookFrancisXie9": "\"저는 이 게임이 없었다면 이 자리에 있지 않았을 것이고, 제가 울트라킬의 개발에 참여했다는 사실이 너무 기쁩니다. 제 작업을 항상 응원해 주신 훌륭한 분들 Hakita님과 개발팀, 그리고 뉴블러드의 모든 분들께 감사 드리고, 제가 진정으로 사랑하는 것을 추구하도록 격려해준 제 가장 친한 친구에게 특별한 감사를 드립니다. 이 팀의 일원이 되는 것은 꿈이었습니다. 최고의 프로젝트를 위하여 건배!\"",
 
-		"museum_bookJerichoRus1": "<b><color=orange>JERICHO_RUS</color> - 컨셉 및 텍스처 아티스트</b>",
+		"museum_bookJerichoRus1": "<b><color=FFA500>JERICHO_RUS</color> - 컨셉 및 텍스처 아티스트</b>",
 		"museum_bookJerichoRus2": "Jericho 는 2019년, 서곡 데모를 출시하기 직전에 저희 팀에 합류했습니다. 이분은 저희 게임의 캐릭터 디자인과 캐릭터가 쓰는 무기 대부분의 디자인과 함께, 2~4층의 모든 레벨 텍스처와 분노 층의 몇몇 텍스처에 크게 기여하였습니다.",
 		"museum_bookJerichoRus3": "이 분의 주요 기여 목록은 다음과 같습니다.",
 		"museum_bookJerichoRus4": "- V1과 가브리엘의 디자인",
@@ -71,7 +71,7 @@
 		"museum_bookVictoriaHolland7": "- 대부분의 그래픽 시스템 개발 및 최적화",
 		"museum_bookVictoriaHolland8": "\"두려움으로 시간을 낭비해서는 안 돼요. 한 번 시도해 보고 당신이 본받고자 하는 모습을 받아들이세요. 당신은 혼자가 아니에요, 그러니 본래의 당신을 믿고, 언제나 여정을 즐기세요.\"",
 
-		"museum_bookToniStigell1": "<b><color=orange>TONI STIGELL</color> - 3D 아티스트</b>",
+		"museum_bookToniStigell1": "<b><color=FFA500>TONI STIGELL</color> - 3D 아티스트</b>",
 		"museum_bookToniStigell2": "Toni Stigell은 2018년 초 개발이 시작될 때 팀에 들어왔습니다. 저희는 이전에 몇 개의 작은 프로젝트에 참여했는데 그 중 하나가 지금은 개발 취소된 Untraceable이라고 하는 잠입 게임이었고, 여기서 만들어진 생각하는 사람 조각상이 결국 케르베로스가 되었습니다.",
 		"museum_bookToniStigell3": "거기에 더해, 이 분은 2019년 중순에 프로젝트를 떠나기 전까지 ULTRAKILL의 수많은 캐릭터 모델을 만들었습니다. 이 분께서는 옛 필스의 애니메이션도 만들었으며, 물론 이것들은 지금 다른 것으로 대체되었지만, 사악한 것만큼은 아직 옛날 그대로이고, 이것이 제가 유일하게 만들지 않은 인게임 애니메이션입니다.",
 		"museum_bookToniStigell4": "이 분의 주요 기여 목록은 다음과 같습니다:",
@@ -87,11 +87,11 @@
 		"museum_bookFlyingDog5": "- 네일건의 초기 모델과 텍스처",
 		"museum_bookFlyingDog6": "- 허스크들과 소드머신의 초기 텍스처",
 
-		"museum_bookSamuelJamesBryan1": "<b><color=orange>SAMUEL JAMES BRYAN</color> - 3D 아티스트</b>",
+		"museum_bookSamuelJamesBryan1": "<b><color=FFA500>SAMUEL JAMES BRYAN</color> - 3D 아티스트</b>",
 		"museum_bookSamuelJamesBryan2": "Sam은 2019년 중순, 림보 개발 초기 들어왔고 V1,V2와 가브리엘을 포함한 1장에 나오는 대부분의 적들을 모델링했습니다. 2021년 초 시시포스의 반란군을 마지막으로 Sam은 거의 다른 프로젝트로 옮겨갔지만, 피드백과 모델링에 관해 조언하는 등 가끔 도움을 주곤 합니다.",
 		"museum_bookSamuelJamesBryan3": "\"몰라. Hakita한테 물어봐.\"",
 
-		"museum_bookQATeam1": "<b><color=red>CAMERON MARTIN</color> - QA 리드",
+		"museum_bookQATeam1": "<b><color=FF0000>CAMERON MARTIN</color> - QA 리드",
 		"museum_bookQATeam2": "<color=#6a36be>DALIA FIGUEROA</color> - QA, 홍보 영상 & 스크린샷",
 		"museum_bookQATeam3": "<color=#11c324>TUCKER WILKIN</color> - 시니어 QA",
 		"museum_bookQATeam4": "<color=#e28eb6>SCOTT GURNEY</color> - 기술 QA</b>",
@@ -103,7 +103,7 @@
 		"museum_bookQATeam10": "\"Hakita처럼 강력하고 창의적인 비전을 가진 사람의 꿈을 실현하는 걸 도울 수 있어서 엄청난 영광이었고, 잊지 못할 경험이 될 것입니다. 이런 기회가 있었다는 것에 항상 감사할 것 같고, 앞으로 어떤 일이 다가올 지 기대됩니다!\"",
 
 
-		"museum_bookPitr1": "<b><color=orange>PITR</color> - 총괄 프로그래머</b>",
+		"museum_bookPitr1": "<b><color=FFA500>PITR</color> - 총괄 프로그래머</b>",
 		"museum_bookPitr2": "PITR는 2019년 후반부터 이미 프로그래밍 작업에 참여하고 있었지만, 이 분이 만든 ULTRAKILL 모드와 커스텀 레벨을 구현하기 위한 초기적인 시도 덕분에 2020년에 팀에 정식으로 추가되었습니다. PITR는 치트, 사이버 그라인드 패턴, 그리고 자막 같은 게임의 가장 복잡한 부분의 프로그래밍을 맡았습니다. 그리고 샌드박스와 5-S 스테이지도 이 분이 전적으로 만들었고, 저는 거기서 세세한 미관만 조금 보완했습니다.",
 		"museum_bookPitr3": "간단히 말해서, 이 게임의 소스 코드를 보고 그 중에서 제대로 된 부분을 찾았다면, 아마 그건 PITR가 만든 것입니다.",
 		"museum_bookPitr4": "이 분의 주요 기여 목록은 다음과 같습니다.",
@@ -112,7 +112,7 @@
 		"museum_bookPitr7": "- 수많은 최적화와 버그 해결",
 		"museum_bookPitr8": "- 그 외 수많은 프로그래밍 단계에서의 도움",
 
-		"museum_bookHeckteck1": "<b><color=orange>HECKTECK</color> - 추가 프로그래머</b>",
+		"museum_bookHeckteck1": "<b><color=FFA500>HECKTECK</color> - 추가 프로그래머</b>",
 		"museum_bookHeckteck2": "Heckteck은 뛰어난 ULTRAKILL 모드 제작 경험과 기술로 2022년 초에 잠시 팀에 영입되었고, 덕분에 무기 헤짐을 포함하여 게임의 질을 높일 수 있는 여러 기능을 포함할 수 있도록 스타일 시스템을 완전히 개편할 수 있었습니다.",
 		"museum_bookHeckteck3": "\"올해 농사는 망했어요\"",
 
@@ -139,10 +139,10 @@
 		"museum_bookKeygenChurch3": "그거랑 연결된 ARG도 저희의 협업으로 진행되었는데요, 이미 비슷한 활동을 자기 프로젝트 속에서 여러 번 해 오신 분이기에 이 분이 대부분의 복잡한 일을 담당했습니다.",
 		"museum_bookKeygenChurch4": "\"해상도는 낮게. 상상력은 높게. 코드를 찬양하라.\"",
 
-		"museum_bookHealth1": "<b><color=red>HEALTH</color> - 객원 작곡가</b>",
-		"museum_bookHealth2": "<b><color=red>BENJAMIN MILLER</color> - 드럼",
-		"museum_bookHealth3": "<color=red>JACOB DUZSIK</color> - 보컬, 기타",
-		"museum_bookHealth4": "<color=red>JOHN FAMIGLIETTI</color> - 베이스, 소프트웨어</b>",
+		"museum_bookHealth1": "<b><color=FF0000>HEALTH</color> - 객원 작곡가</b>",
+		"museum_bookHealth2": "<b><color=FF0000>BENJAMIN MILLER</color> - 드럼",
+		"museum_bookHealth3": "<color=FF0000>JACOB DUZSIK</color> - 보컬, 기타",
+		"museum_bookHealth4": "<color=FF0000>JOHN FAMIGLIETTI</color> - 베이스, 소프트웨어</b>",
 		"museum_bookHealth5": "2023년 초 저희는 밴드 HEALTH와 협력하여 그들의 노래 \"HATEFUL\"을 사이버 그라인드에 수록할 수 있었습니다. 저는 제가 HEALTH의 노래를 맥스 페인 3에서 들은 뒤로 그들의 팬이 되었고, 이 밴드만의 무겁고 심장을 뛰게 하는 전자음 비트는 ULTRAKILL 속의 살육에 상당히 적절하다고 생각하였기 때문에, 이 분들의 노래가 게임의 일부가 되는 걸 매우 반기게 되었습니다.",
 		"museum_bookHealth6": "\"다시 사이버 그라인드로\"",
 
@@ -177,18 +177,18 @@
 		"museum_bookAdditionalMusic9": "6-2: 증오의 미학의 수록곡 \"Fallen Angel\": 요한 세바스티안 바흐의 곡 \"BWV 639 '주 예수 그리스도를 부르네'\" 를 차용함",
 		"museum_bookAdditionalMusic10": "막간 2에서 \"7번 교향곡, 2악장: 알레그레토\": 루트비히 판 베토벤 작곡, Lambis Vassiliadis 연주 (퍼블릭 도메인)",
 
-		"museum_bookAdditionalCredits1": "<b><color=orange>기타 기여 목록:</color></b>",
-        "museum_bookAdditionalCredits2": "<b><color=orange>커뮤니티 사이버 그라인드 패턴</color></b> by:",
-        "museum_bookAdditionalCredits3": "<b><color=orange>특히 감사한 분들</color></b> to:",
+		"museum_bookAdditionalCredits1": "<b><color=FFA500>기타 기여 목록:</color></b>",
+        "museum_bookAdditionalCredits2": "<b><color=FFA500>커뮤니티 사이버 그라인드 패턴</color></b> by:",
+        "museum_bookAdditionalCredits3": "<b><color=FFA500>특히 감사한 분들</color></b> to:",
         "museum_bookAdditionalCredits4": "제 이전 게임, Untraceable이, 재미없다고 말해준 <b>Magnega</b>. 덕분에 제가 존재의 위기를 겪고 그 프로젝트를 버린 뒤 대신 ULTRAKILL을 만들게 해 주었습니다.",
         "museum_bookAdditionalCredits5": "베타 테스팅과 피드백 등의 지원을 아낌없이 지속적으로 해 준 <b>Mikko Tamper 와 Robert Raulus</b>",
         "museum_bookAdditionalCredits6": "베타 테스팅에 참여하고 피드백을 준 <b>B.G.B. 와 Splendid</b>",
 
-        "museum_bookStephanWeyte1": "<b><color=orange>STEPHAN WEYTE</color> - 미노스 프라임의 성우</b>",
+        "museum_bookStephanWeyte1": "<b><color=FFA500>STEPHAN WEYTE</color> - 미노스 프라임의 성우</b>",
         "museum_bookStephanWeyte2": "대부분의 사람들과 같이, 저도 Stephan Weyte를 블러드의 주인공 케일럽의 성우로 잘 알고 있었습니다만, Dusk에서 니알라토텝을 연기한 그의 목소리를 듣고 나서 이 분의 실력이 그대로 남아 있었음을 깨닫게 되었고, 그래서 New Blood에 들어가기도 전에, 저는 제가 ULTRAKILL의 등장인물 중 하나는 Stephan이 연기했으면 한다는 결정을 내렸습니다. 미노스 프라임의 성우를 골라야 했을 때, 그 답은 명확해졌습니다.",
         "museum_bookStephanWeyte3": "Stephan은 정말 함께 일하기 좋은 사람이고, 이 분의 풍부한 목소리는 미노스에게 엄청난 캐릭터성을 입혀 주어서 다른 의미로 이 분을 한 치 앞도 알 수 없게 되었습니다. ",
 
-        "museum_bookLenvalBrown1": "<b><color=orange>LENVAL BROWN</color> - 시시포스 프라임의 성우</b>",
+        "museum_bookLenvalBrown1": "<b><color=FFA500>LENVAL BROWN</color> - 시시포스 프라임의 성우</b>",
         "museum_bookLenvalBrown2": "디스코 엘리시움에서 나레이터로써 이 분이 보여준 환상적인 활약을 통해 이 분의 깊고 독특한 목소리가 시시포스 왕에게 완벽히 어울린다고 생각하게 되었고 그 뒤 2023년 초에 Lenval에게 연락하였습니다. 이 분과 함께 일하게 되어 영광이었고 덕분에 시시포스가 자기 자신만의 고유한 캐릭터로 거듭나는데 정말 큰 도움을 받았습니다.",
 
         "museum_bookGianniMatragrano1": "<b><color=#20afdb>GIANNI MATRAGRANO</color> - 가브리엘의 성우</b>",
@@ -203,7 +203,7 @@
         "museum_bookMandalore5": "\"음악으로 가득 채워진 무덤에서 날 볼 수 있을 거야. 정말 고급스럽네. 플레이해줘서 고마워!\"",
         "museum_bookMandalore6": "\"좋은 시간 보내, 끔찍한 시간 말고\"",
 
-		"museum_weaponsBeamcutter1": "<b><color=orange>빔커터</color></b>",
+		"museum_weaponsBeamcutter1": "<b><color=FFA500>빔커터</color></b>",
 		"museum_weaponsBeamcutter2": "Francis가 디자인, Victoria가 미완성 모델 제작.",
 		"museum_weaponsBeamcutter3": "<b>주 발사:</b> 꾹 눌러서 빔 발사",
 		"museum_weaponsBeamcutter4": "<b>보조 발사:</b> 빔 드론 배치/제거",
@@ -213,7 +213,7 @@
 		"museum_weaponsBeamcutter8": "이 무기의 앞면은 발사 중에 회전도록 설계되었습니다만, 이 미완성 모델은 리깅이 되어 있지 않습니다. 음향도 구현되어 있지 않아서, 이미 완성된 무기들과 비교해 보았을 때 타격감의 관점에서 꽤 약해 보일 수 있습니다.",
 		"museum_weaponsBeamcutter9": "비록 이 무기의 컨셉은 꽤 마음에 듭니다만, 게임에서 삭제한 게 잘 한 결정이라는 생각이 듭니다. 저는 무기의 종류가 많은 데다가 다른 무기를 얻으면서 몇몇 무기가 쓸모없어지는 것보다는 무기의 개수가 적으면서 각자 고유한 특징이 살아있는 걸 선호합니다.",
 
-		"museum_weaponsBlackHoleCannon1": "<b><color=orange>블랙홀 캐논</color></b>",
+		"museum_weaponsBlackHoleCannon1": "<b><color=FFA500>블랙홀 캐논</color></b>",
 		"museum_weaponsBlackHoleCannon2": "<b>주 발사:</b> 블랙홀을 사출합니다",
 		"museum_weaponsBlackHoleCannon3": "<b>보조 발사:</b> 사출된 블랙홀을 활성화합니다",
 		"museum_weaponsBlackHoleCannon4": "이 삭제된 슈퍼 무기는 원래는 적을 죽이면서 채워지는 게이지를 통해 사용할 수 있게 만드려고 했습니다. 2019년 초, 샷건이 추가되고 나서 이 무기를 제작하게 되었고, 당시에는 게임의 후반부에 이걸 등장하게 하고자 했습니다.",
@@ -222,27 +222,27 @@
 		"museum_weaponsBlackHoleCannon7": "비록 블랙홀 캐논이 처음 만들어졌을 때에는 엄청나게 강력했으나, 그때 게임에 나오는 적들은 모두 기본적인 허스크뿐이었기 때문에, 게임이 더 난잡해지고 폭발적으로 변하면서, 비교적 약한 무기가 되었습니다. 이 박물관에 전시된 버전은 정확한 재현을 위해 원래의 위력을 그대로 보존했는데, 그래서 이게 약하게 느껴진다면, 이 무기가 필스, 스트레이, 그리고 스키즘을 처리하기 위해 만들어진 거여서 그렇습니다.",
 		"museum_weaponsBlackHoleCannon8": "블랙홀 캐논은 시각적 디자인이나 모델을 얻지 못했고, 그래서 지금 이게 길쭉하게 늘어난 샷건처럼 생긴 겁니다. 이것 때문에 많은 사람들이 원래 이게 샷건의 다른 변형이라고 착각했지만, 전혀 그런 의도가 아니었습니다.",
 
-		"museum_weaponsRevolver1": "<color=orange>리볼버</color>",
+		"museum_weaponsRevolver1": "<color=FFA500>리볼버</color>",
 		"museum_weaponsRevolver2": "왼쪽: FlyingDog이 제작한 2018 오리지널",
 		"museum_weaponsRevolver3": "오른쪽: Victoria가 제작한 2022 리메이크",
 		"museum_weaponsRevolver4": "이 게임의 첫 무기이자 가장 처음으로 만들어진 모델입니다. 다른 무기들처럼, 이것도 컨셉 아트가 따로 존재하지 않았기 때문에, 디자인은 FlyingDog이 제 요청을 바탕으로 즉석에서 만들어냈습니다. Victoria는 원래의 디자인을 유지하면서 모델과 텍스쳐를 리메이크했고, 이는 무난한 시각적 업그레이드가 되었습니다.",
 		"museum_weaponsRevolver5": "원래 리볼버의 초록색과 붉은색 변형은 조금 달랐습니다. 옛날 초록색 변형은 벽이나 바닥에 닿으면 도탄하는 탄환을 발사할 수 있었습니다, 리볼버 오셀롯처럼요. 불행하게도, 이야기만 들어보면 꽤 간지나는데, 실제로는 상당히 쓸모없고 불편하기 짝이 없었습니다, 효율적으로 쓰기에는 너무 많은 준비 과정 및 위치 선정이 필요해서, 게임의 빠른 템포와 어울리지 못했기 때문이죠. 그래도 탄환의 도탄으로 사격 실력을 뽐낸다는 개념은 그대로 남았고, 훨씬 유용한 데다가 지금의 게임을 상징하게 된 코인 기능으로 재해석되었습니다.",
 		"museum_weaponsRevolver6": "붉은색 변형은 원래는 쌍권총 번형이었는데, 왼쪽 리볼버를 주 발사 버튼으로 사용하고 오른쪽 리볼버를 보조 발사 버튼으로 사용하는 것이었습니다. 초록색 변형처럼, 이것도 이야기만 들어보면 꽤 괜찮았지만, 실제로 사용해 보면 기믹이 독특한 것보다 재미없는 부분이 더 크게 와닿았습니다. 이걸 어떻게 \"고칠\" 지에 대한 아이디어가 몇 개 있었지만, 대신 이걸 완전히 유기하기로 결정했습니다, 그리고 쌍권총 아이디어는 대신 더 재미있고 자유도 높은 아킴보 파워업으로 재해석되었습니다.",
 
-		"museum_weaponsShotgun1": "<color=orange>샷건</color>",
+		"museum_weaponsShotgun1": "<color=FFA500>샷건</color>",
 		"museum_weaponsShotgun2": "왼쪽: FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsShotgun3": "RIGHT: Victoria가 제작한 2022 리메이크",
 		"museum_weaponsShotgun4": "리볼버처럼, 샷건도 FlyingDog이 컨셉 아트 없이 만들었고, 이후 Victoria가 리메이크했고, 덕분에 원래 디자인에서 크게 바뀌지 않으면서 게임의 새로운 시각적 스타일에 더 잘 맞는 형태로 고칠 수 있었습니다. 이 새 버전은 더 밝아졌는데, 이전의 검은색 무광 스타일이 게임의 강한 색감에 너무 묻혀가는 느낌이 있었기 때문입니다, 그래도 이전 스타일이 더 좋은 분들은 첫 번째 색상 프리셋을 써서 다시 되돌려 놓을 수 있습니다.",
 		"museum_weaponsShotgun5": "샷건은 모든 적들이 리볼버 두어 방 정도로 죽었던 시절에 게임에 추가되었기 때문에 조금 밸런스 상 문제가 있었습니다, 샷건이 비교적 불필요하게 느껴졌고, 나쁜 첫인상을 주게 되었기 때문이죠. 결국 저는 투사체의 코드를 살짝 조정하여, 샷건 총알이 이미 죽은 적에 닿았을 때 파괴되지 않도록 하는 아이디어를 세웠습니다. 이 작은 차이점이 샷건을 느린 단일 타겟 딜링 무기에서, 난전 속 대량 학살의 수단으로 끌어올릴 수 있었고, 덕분에 튼튼한 적들을 상대할 때나 약한 적의 무리를 상대할 때나 의도한 대로 유용하게 쓰이는 무기가 되었습니다.",
 
-		"museum_weaponsNailgun1": "<color=orange>네일건</color>",
+		"museum_weaponsNailgun1": "<color=FFA500>네일건</color>",
 		"museum_weaponsNailgun2": "왼쪽: Jericho와 FlyingDog이 제작한 2019 오리지널",
 		"museum_weaponsNailgun3": "오른쪽: Jericho와 Victoria가 제작한 2022 리메이크",
 		"museum_weaponsNailgun4": "이 무기는 컨셉 아트를 기반으로 만들어진 첫 번째 무기로, Jericho가 그리고 디자인했으며, 역시 FlyingDog이 마지막으로 다듬었습니다. 더 거칠고, 단순한 원래 모델은 그 당시의 게임의 시각적 스타일에 맞았지만, 그 뒤로 게임의 시각적 스타일이 향상되었기 때문에 점점 괴리가 생겨 아픈 손가락이 되었고, 그게 커스텀 색상 시스템과는 별개로, 저희가 오래된 무기 모델을 다시 만들고자 하는 가장 큰 이유 중 하나가 되었습니다.",
 		"museum_weaponsNailgun5": "네일건은 끝내 자기 자리를 잡기까지 가장 많은 수정을 거쳤던 무기이기도 합니다. 사실, 2021년 여름의 샌드박스 업데이트까지 네일건의 입지가 확고하게 다져지지는 못했는데, 그러니까 자동화기가 ULTRAKILL 무기 목록에 맞아들어가기까지 2년 동안의 꾸준한 고민과 수정이 있었다는 뜻입니다. 가장 큰 차이점은 무한 탄창에서 탄약이 재충전되는 시스템으로 바뀐 것인데, 이를 통해 플레이어들이 이걸 사용하고 나서 잠시 다른 무기로 바꿔 둘 만한 더 큰 이유를 제공할 수 있었습니다, 하지만 정말 이 무기를 완벽하게 만든 건 이 무기로 교체할 때의 애니메이션의 속도를 높인 것인데, 이를 통해 전투 중에 이 무기로 바꾸는 게 더 매끄러워졌고, 덕분에 무기 콤보의 유기적인 한 부분이라는 느낌을 받을 수 있었습니다.",
 		"museum_weaponsNailgun6": "몇몇 삭제된 아이디어는 고데미지 저속 충전 작살이나, 두 총열을 동시에 발사하여 플레이어의 이동 속도를 대가로 연사 속도를 늘리는 버전 등을 포함하였습니다. 전자의 경우 자석이 되었고 후자는 오버히트로 거듭났습니다, 그러니까 어떤 것들이 바뀌었던 간에, 원래 생각하던 것의 일부는 여전히 남아있는 거죠.",
 
-		"museum_enemiesFilth1": "<b><color=orange>필스</color>",
+		"museum_enemiesFilth1": "<b><color=FFA500>필스</color>",
 		"museum_enemiesFilth2": "왼쪽: Toni Stigell과 FlyingDog이 제작한 2018 오리지널",
 		"museum_enemiesFilth3": "오른쪽: Jericho, BigRock 그리고 Victoria가 제작한 2020 리메이크</b>",
 		"museum_enemiesFilth4": "필스, 원래는 \"좀비\"나 \"허스크\" 라고 불리던 것은, 게임을 위해 디자인된 두 번째 적입니다. 당시에는 컨셉 아티스트가 없었기 때문에, 그냥 제가 Toni에게 퀘이크에 나오는 것 같이 앙상한 좀비를 하나 만들어 달라고 했죠. 이건 BigRock이 첫 컨셉 아티스트로 참가하기 전에 일상적으로 있었던 과정이고, 덕분에 창의적인 컨셉 아티스트의 존재 여부가 퀄리티 상에서 아주 큰 차이를 불러올 수 있다는 것을 알 수 있었습니다.",
@@ -250,27 +250,27 @@
 		"museum_enemiesFilth6": "새 디자인은 Swans의 첫 앨범에서 영감을 받았는데, 거기서 이 적의 이름도 따왔습니다. 처음에는 이 모델의 입과 이빨은 더 작았었는데, 제가 Victoria에게 지금의 형태가 나오기까지 그저 \"더 크게!\" 만을 외쳤죠.",
 		"museum_enemiesFilth7": "필스는 원래 서곡에 어울리도록 주황색으로 디자인되었었는데, 이게 <i>너무</i> 잘 어울려서 사람들이 자주 이것들을 찾기 힘들어한다는 게 큰 문제로 작용했습니다, 그래서 대신 필스의 주요 색상을 초록색으로 바꾸었습니다.",
 
-		"museum_enemiesStray1": "<color=orange>스트레이</color>",
+		"museum_enemiesStray1": "<color=FFA500>스트레이</color>",
 		"museum_enemiesStray2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesStray3": "오른쪽: Jericho와 Sam이 제작한 2020 리메이크",
 		"museum_enemiesStray4": "스트레이는 원래 \"투사체 좀비\" 또는 \"투사체 허스크\" 로 불렸고, 아주 잠시 동안, \"스토커\" 로도 불렸습니다, 물론 그 이름은 지금 다른 적에게 가 있지만요. Toni는 그 당시에 바빠서, 저와, 제 Blender에 대한 단편적인 지식으로, 필스의 원래 모델을 조금 편집한 게 원래의 스트레의 모습이었습니다, 그리고 FlyingDog이 여기에 맞는 텍스쳐를 만들었죠. 다시 말하지만, 저희는 이때 컨셉 아트 같은 게 없었기 때문에, 이 텍스쳐 또한 제 요청 사항인 \"살점이란 장기가 다 붙어 있는 스켈레톤\", 또는 그것 비스무리한 것에 맞추어 만들어졌습니다.",
 		"museum_enemiesStray5": "Jericho의 솔져에 대한 디자인에 맞춰 만들어진, 새로운 버전 또한, 그 아이디어를 보존하지만 훨씬 덜 만화적인 방법으로 그걸 표현하였습니다.",
 
-		"museum_enemiesSchism1": "<color=orange>스키즘</color>",
+		"museum_enemiesSchism1": "<color=FFA500>스키즘</color>",
 		"museum_enemiesSchism2": "왼쪽: Toni Stigell, FlyingDog 그리고 Hakita가 제작한 2018 오리지널",
 		"museum_enemiesSchism3": "오른쪽: BigRock과 Sam이 제작한 2020 리메이크",
 		"museum_enemiesSchism4": "스키즘, 원래는 \"슈퍼 투사체 좀비\" 로 불린 이 적은, 옛 필스 모델을 조금 수정한 또 다른 적입니다. Toni와 FlyingDog 둘 다 이때 바빴기 때문에, 이 모델은 고유한 텍스쳐조차 갖지 못했지요. 이건 그냥 필스의 텍스쳐에서 주황색만 뺀 거에요!",
 		"museum_enemiesSchism5": "새 버전도 똑같은 골격 구조와 애니메이션을 사용하기 때문에, 나머지 팔들은 애니메이션 데이터가 없어서 그저 래그돌처럼 팔락거립니다.",
 		"museum_enemiesSchism6": "허스크들의 새 디자인은 저희가 New Blood에게 발탁되고 나서 새 버전의 데모를 만들기 위한 서곡 페이스리프트를 시간 안에 만들기 위해 조금 급하게 그려지고 모델링되었기 때문에, 새 디자인들은 모두 한 시점에서 바라본 모습만을 담고 있습니다. 이게 조금 재미있는 사건으로 이어지는데, Sam이 모델을 만들던 중, 스케치를 잘못 이해하고 머리가 어깨 위에 있는 게 아니라 앞으로 엄청 튀어나와 있는 것으로 생각해서, 이 모델을 처음으로 만들 때 마치 제노모프같은 모습이 됐지 뭐에요!",
 
-		"museum_enemiesSwordsmachine1": "<color=orange>소드머신</color>",
+		"museum_enemiesSwordsmachine1": "<color=FFA500>소드머신</color>",
 		"museum_enemiesSwordsmachine2": "왼쪽: BigRock, FlyingDog 그리고 Toni Stigell이 제작한 2019 오리지널",
 		"museum_enemiesSwordsmachine3": "오른쪽: BigRock과 Victoria가 제작한 2022 리메이크",
 		"museum_enemiesSwordsmachine4": "소드머신은 컨셉 아티스트에 의해 디자인된 첫 번째 적이고, 덕분에 그 차이점이 두드러집니다! BigRock의 환상적인 비난!-에 영감 받은 디자인은 내재된 캐릭터성을 풍부하게 포함하고 있어서 나중에 제가 이 녀석을 위한 데이터 엔트리를 적을 때 그게 더 명백하게 드러났습니다.",
 		"museum_enemiesSwordsmachine5": "Toni Stigell이 만들고 FlyingDog이 텍스쳐를 입힌, 옛 모델은, 불행히도 원본 디자인이 가지고 있던 많은 요소들을 생략했고, 그럼에도 당시 게임의 시각적 스타일에 꽤 어울렸기 때문에, 그리고 저희가 이것보다 더 잘 만들 자신이 없어서 그대로 사용했습니다. Victoria는 그 뒤에 BigRock의 원본 컨셉 아트에 기반하여 모델을 재창조했고 이 캐릭터를 3D로 완벽히 옮겨냈습니다.",
 		"museum_enemiesSwordsmachine6": "소드머신의 초기 버전에서 나타나는 특징 중 하나는 피투성이의 사람 몸통이 붙어 있었다는 것인데, 그 때의 적들은 당시 설정에 맞게 스트로그같은 인간-기계 복합체에 더 가까운 방향으로 기울어 있었습니다, 시각적 전달 요소와 이야기가 적절히 구성되이 않았을 때거든요.",
 
-		"museum_enemiesMaliciousFace1": "<color=orange>멀리셔스 페이스</color>",
+		"museum_enemiesMaliciousFace1": "<color=FFA500>멀리셔스 페이스</color>",
 		"museum_enemiesMaliciousFace2": "왼쪽: FlyingDog이 제작한 2018 오리지널",
 		"museum_enemiesMaliciousFace3": "오른쪽: Victoria가 제작한 2022 리메이크",
 		"museum_enemiesMaliciousFace4": "멀리셔스 페이스, 또는 이것에 달려 있는 투명한 거미 다리 덕분에 게임 내 파일에서 \"거미\" 라고 불린 이 적은, 원래 이 게임을 위해 디자인된 첫 번째 적이었습니다. 물론 지금은 이 녀석의 인기가 상당하지만, 멀리셔스 페이스의 디자인은 원래 지금과는 꽤 다른 모습이었습니다, 제가 더 명확하고 단순한 모습을 원했거든요, 하지만 FlyingDog은, 그저 취미로 모델링을 하는 사람이었고, 이 분을 도울 컨셉 아트가 하나도 없는 상황에서 이걸 구현해 내기 힘들어했습니다, 그래서 이 버전으로 만족하기로 했죠.",
@@ -776,7 +776,7 @@
 		"act2_intermission_sixth2": "사람들은 곧게 뻗은 그의 팔 위를 말없이 바라보았다.",
 		"act2_intermission_sixth3": "조용한 침묵 속에서 그 메세지는 우주의 저편까지 울려 퍼지리라.",
 
-		"act1_intermission_tobecontinued": "<color=red>II막 : 불완전한 증오</color>에서 계속...",
+		"act1_intermission_tobecontinued": "<color=FF0000>II막 : 불완전한 증오</color>에서 계속...",
 		"act1_intermission_tobecontinuedshadow": "II막 : 불완전한 증오에서 계속...",
 
 		"act1_intermission_endof": "I막 끝",
@@ -784,7 +784,7 @@
 		"act1_intermission_insert": "투입",
 		"act1_intermission_returnToMenu": "메뉴로 돌아가기",
 
-		"act2_intermission_tobecontinued": "<color=red>III막 : 신권의 자살</color>에서 계속...",
+		"act2_intermission_tobecontinued": "<color=FF0000>III막 : 신권의 자살</color>에서 계속...",
 		"act2_intermission_tobecontinuedshadow": "III막 : 신권의 자살에서 계속..."
 	},
 	"frontend": {
@@ -1537,7 +1537,7 @@
 		"leveltips_wrathFourth2": "만약 적이 발사체를 쏘자마자 폭발에 휘말리게 하면, 그것은 역으로 적에게 다시 꽂혀 강력한 피해를 줄 수 있습니다.",
 
 		"leveltips_heresyFirst1": "경기장의 넓은 공간은 자신에게 유리하게 활용할 수 있습니다.",
-		"leveltips_heresyFirst2": "환경을 이용해 적과의 시야를 차단하면 <color=orange>목표 우선순위</color>를 고려할 수 있는 여유와 시간을 벌 수 있습니다.",
+		"leveltips_heresyFirst2": "환경을 이용해 적과의 시야를 차단하면 <color=FFA500>목표 우선순위</color>를 고려할 수 있는 여유와 시간을 벌 수 있습니다.",
 		"leveltips_heresySecond1": "스태미나를 낭비하지 마세요!",
 		"leveltips_heresySecond2": "적과 전투 중에 불필요하게 대쉬하는 것은 가장 필요한 순간에 아무것도 할 수 없게 되는 불상사를 초래할 수 있습니다.",
 		
@@ -1554,8 +1554,8 @@
 		"leveltips_treacheryFirst": "",
 		"leveltips_treacherySecond": "",
 		
-		"leveltips_primeFirst1": "<color=orange>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
-		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
+		"leveltips_primeFirst1": "<color=FFA500>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
+		"leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=FF0000>체력을 충분히 회복</color>할 수 있습니다.",
 		"leveltips_primeSecond": "즐기세요.",
 
 		"leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, 펌프 차지의 자폭은 되돌아오기에 좋은 방법 중 하나입니다.",
@@ -1573,8 +1573,8 @@
 		"shop_sandbox": "샌드박스",
 		"shop_returnToMission": "임무로 복귀",
 		"shop_soulOrbs": "소울 오브",
-		"shop_moneyCount": "<color=orange>P</color>",
-		"shop_lotsOfMoney": "그러니까, 아주 많은  <color=orange>P</color>",
+		"shop_moneyCount": "<color=FFA500>P</color>",
+		"shop_lotsOfMoney": "말그대로, 아주 많은 <color=FFA500>P</color>",
 
 		"shop_cybergrindDescription1": "사이버 그라인드는 끝없는 전투를 펼치는 생존 모드입니다.",
 		"shop_cybergrindDescription2": "좋은 성적을 낼 수록 더 많은 포인트를 얻을 수 있습니다.",
@@ -1602,55 +1602,55 @@
 		"shop_weaponsArms": "팔",
 
 		"shop_revolverPiercer": "피어서",
-		"shop_revolverPiercerDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 최대 <color=orange>3연타</color>가 가능한 광선을 충전합니다.",
-		"shop_revolverPiercerDescription2": "사용 시 짧은 <color=orange>쿨타임</color> 이 있습니다.",
+		"shop_revolverPiercerDescription1": "보조 발사 버튼을 <color=FFA500>꾹 누르면</color> 최대 <color=FFA500>3연타</color>가 가능한 광선을 충전합니다.",
+		"shop_revolverPiercerDescription2": "사용 시 짧은 <color=FFA500>쿨타임</color> 이 있습니다.",
 
 		"shop_revolverMarksman": "마크스맨",
-		"shop_revolverMarksmanDescription1": "보조 발사 버튼을 누르면 <color=orange>코인</color>을 던집니다.",
-		"shop_revolverMarksmanDescription2": "<color=orange>공중에 뜬</color> 코인을 맞추면 탄환이 <color=orange>도탄</color>되어 적의 <color=orange>약점</color>을 직격으로 맞출 수 있습니다.",
-		"shop_revolverMarksmanDescription3": "던져진 코인끼리는 리코샷이 서로 <color=orange>연결</color>됩니다.",
+		"shop_revolverMarksmanDescription1": "보조 발사 버튼을 누르면 <color=FFA500>코인</color>을 던집니다.",
+		"shop_revolverMarksmanDescription2": "<color=FFA500>공중에 뜬</color> 코인을 맞추면 탄환이 <color=FFA500>도탄</color>되어 적의 <color=FFA500>약점</color>을 직격으로 맞출 수 있습니다.",
+		"shop_revolverMarksmanDescription3": "던져진 코인끼리는 리코샷이 서로 <color=FFA500>연결</color>됩니다.",
 
 		"shop_revolverSharpshooter": "샤프슈터",
-		"shop_revolverSharpshooterDescription1": "보조 발사 버튼을 <color=orange>꾹 누르면</color> 적을 관통하고 <color=orange>표면에 맞으면 도탄되는</color> 광선을 충전합니다.",
-		"shop_revolverSharpshooterDescription2": "<color=orange>투사체</color>를 파괴할 수 있습니다.",
+		"shop_revolverSharpshooterDescription1": "보조 발사 버튼을 <color=FFA500>꾹 누르면</color> 적을 관통하고 <color=FFA500>표면에 맞으면 도탄되는</color> 광선을 충전합니다.",
+		"shop_revolverSharpshooterDescription2": "<color=FFA500>투사체</color>를 파괴할 수 있습니다.",
 
 		"shop_shotgunCoreEject": "코어 이젝트",
-		"shop_shotgunCoreEjectDescription1": "보조 발사 버튼으로 샷건의 <color=orange>코어</color>를 과열시켜 <color=orange>사출</color>합니다.",
-		"shop_shotgunCoreEjectDescription2": "<color=orange>오래 누를수록</color> 사거리가 <color=orange>늘어납니다.</color>",
-		"shop_shotgunCoreEjectDescription3": "코어는 충격을 받을 시 <color=orange>폭발<color=orange>합니다.",
+		"shop_shotgunCoreEjectDescription1": "보조 발사 버튼으로 샷건의 <color=FFA500>코어</color>를 과열시켜 <color=FFA500>사출</color>합니다.",
+		"shop_shotgunCoreEjectDescription2": "<color=FFA500>오래 누를수록</color> 사거리가 <color=FFA500>늘어납니다.</color>",
+		"shop_shotgunCoreEjectDescription3": "코어는 충격을 받을 시 <color=FFA500>폭발<color=FFA500>합니다.",
 
 		"shop_shotgunPumpCharge": "펌프 차지",
-		"shop_shotgunPumpChargeDescription1": "보조 발사 버튼으로 샷건을 <color=orange>펌프질</color>하여, <color=orange>다음 사격</color>의 <color=orange>위력</color>을 늘리는 대신 <color=orange>정확도</color>가 감소합니다.",
-		"shop_shotgunPumpChargeDescription2": "너무 많이 펌프한 경우 발사 시 <color=orange>자폭</color>할 수 있습니다.",
+		"shop_shotgunPumpChargeDescription1": "보조 발사 버튼으로 샷건을 <color=FFA500>펌프질</color>하여, <color=FFA500>다음 사격</color>의 <color=FFA500>위력</color>을 늘리는 대신 <color=FFA500>정확도</color>가 감소합니다.",
+		"shop_shotgunPumpChargeDescription2": "너무 많이 펌프한 경우 발사 시 <color=FFA500>자폭</color>할 수 있습니다.",
 
 		"shop_nailgunMagnet": "어트랙터",
-		"shop_nailgunMagnetDescription1": "보조 발사 버튼을 눌러 근처에 있는 모든 <color=orange>못</color>들을 끌어당기는 <color=orange>자석</color>을 발사합니다.",
-		"shop_nailgunMagnetDescription2": "자석은 <color=orange>지면, 벽</color>이나 <color=orange>적</color>에 달라붙으며, <color=orange>히트스캔</color> 무기로 적중시키면 파괴됩니다.",
+		"shop_nailgunMagnetDescription1": "보조 발사 버튼을 눌러 근처에 있는 모든 <color=FFA500>못</color>들을 끌어당기는 <color=FFA500>자석</color>을 발사합니다.",
+		"shop_nailgunMagnetDescription2": "자석은 <color=FFA500>지면, 벽</color>이나 <color=FFA500>적</color>에 달라붙으며, <color=FFA500>히트스캔</color> 무기로 적중시키면 파괴됩니다.",
 
 		"shop_nailgunOverheat": "오버히트",
-		"shop_nailgunOverheatDescription1": "발사 중 보조 발사 버튼을 눌러 과열해 <color=orange>히트싱크</color>를 소모하여 짧은 시간 동안 <color=orange>폭발적인</color> 피해를 입힐 수 있습니다.",
+		"shop_nailgunOverheatDescription1": "발사 중 보조 발사 버튼을 눌러 과열해 <color=FFA500>히트싱크</color>를 소모하여 짧은 시간 동안 <color=FFA500>폭발적인</color> 피해를 입힐 수 있습니다.",
 		"shop_nailgunOverheatDescription2": "히트싱크는 발사하지 않는 동안 충전됩니다.",
 
 		"shop_railcannonElectric": "일렉트릭",
-		"shop_railcannonElectricDescription1": "빠르고 강력한 관통 공격.",
-		"shop_railcannonElectricDescription2": "<color=orange>모든</color> 적을 <color=orange>관통</color>합니다. 파괴력을 극대화하려면 <color=orange>위치 선정</color>에 주의를 기울이는 것이 좋습니다.",
+		"shop_railcannonElectricDescription1": "빠르고 강한 관통 공격.",
+		"shop_railcannonElectricDescription2": "<color=FFA500>모든</color> 적을 <color=FFA500>관통</color>합니다. 파괴력을 극대화하려면 <color=FFA500>위치 선정</color>에 주의를 기울이는 것이 좋습니다.",
 		"shop_railcannonElectricDescription3": "물 속에서 사용하지 마십시오.",
 
 		"shop_railcannonScrewdriver": "스크류드라이버",
-		"shop_railcannonScrewdriverDescription1": "적에게 <color=orange>꽃혀</color> 고속으로 회전해 <color=orange>지속 피해</color>를 입히는 강력한 드릴을 발사합니다.",
+		"shop_railcannonScrewdriverDescription1": "적에게 <color=FFA500>꽃혀</color> 고속으로 회전해 <color=FFA500>지속 피해</color>를 입히는 강력한 드릴을 발사합니다.",
 		"shop_railcannonScrewdriverDescription2": "드릴은 적을 지속적으로 출혈시키고 넓은 회복 반경을 제공합니다.",
 
 		"shop_railcannonMalicious": "멀리셔스",
-		"shop_railcannonMaliciousDescription1": "어딘가 익숙한 얼굴의 빔을 닮은, <color=orange>대폭발</color>을 일으키는 폭발성 광선을 발사합니다.",
+		"shop_railcannonMaliciousDescription1": "어딘가 익숙한 얼굴의 빔을 닮은, <color=FFA500>대폭발</color>을 일으키는 폭발성 광선을 발사합니다.",
 		"shop_railcannonMaliciousDescription2": "약한 적들을 간단히 쓸어버립니다.",
 
 		"shop_rocketLauncherFreeze": "프리즈프레임",
-		"shop_rocketLauncherFreezeDescription1": "보조 발사 버튼으로 로켓을 제자리에 <color=orange>멈출 수</color> 있습니다.",
-		"shop_rocketLauncherFreezeDescription2": "정지된 로켓은 더 큰 폭발 반경을 가지며 다른 무기를 쓸 때도 정지는 <color=orange>지속 시간이 끝날 때까지 유지</color>됩니다.",
+		"shop_rocketLauncherFreezeDescription1": "보조 발사 버튼으로 로켓을 제자리에 <color=FFA500>정지</color>시킬 수 있습니다.",
+		"shop_rocketLauncherFreezeDescription2": "정지된 로켓은 더 큰 폭발 반경을 가지며 다른 무기를 사용 중에도 정지는 <color=FFA500>지속 시간이 끝날 때까지 유지</color>됩니다.",
 
 		"shop_rocketLauncherSrsCannon": "S.R.S. 캐논",
-		"shop_rocketLauncherSrsCannonDescription1": "보조 발사 버튼을 눌러 <color=orange>대포알</color>을 발사할 수 있습니다.",
-		"shop_rocketLauncherSrsCannonDescription2": "<color=orange>오래 누를수록</color> 사거리가 <color=orange>늘어납니다.</color>",
+		"shop_rocketLauncherSrsCannonDescription1": "보조 발사 버튼을 눌러 <color=FFA500>대포알</color>을 발사할 수 있습니다.",
+		"shop_rocketLauncherSrsCannonDescription2": "<color=FFA500>오래 누를수록</color> 사거리가 <color=FFA500>늘어납니다.</color>",
 		"shop_rocketLauncherSrsCannonDescription3": "아무도 S.R.S.가 정확히 무슨 뜻인지 모릅니다.",
 
 		"shop_armFeedbacker": "피드배커",
@@ -1830,7 +1830,7 @@
 
 	"cheats": {
 		"cheats_disclaimer1": "치트를 활성화하면 레벨을 클리어해도 랭크를 얻을 수 없으며 사이버 그라인드의 최고 점수가 저장되지 않습니다.",
-		"cheats_disclaimer2": "<color=green>치트를 활성화한 후</color> ~ <color=green>혹은</color> Home <color=green>키를 눌러 치트 패널을 열 수 있습니다.</color>",
+		"cheats_disclaimer2": "<color=00FF00>치트를 활성화한 후</color> ~ <color=00FF00>혹은</color> Home <color=00FF00>키를 눌러 치트 패널을 열 수 있습니다.</color>",
 		"cheats_disclaimerYes": "치트 작동",
 		"cheats_disclaimerNo": "취소",
 
@@ -1960,7 +1960,7 @@
 		"enemyBios_leviathan_4": "비록 세상은 끝났으나, 레비아탄은 여전히 스틱스 해에 머물고 있으며 더 많은 분노의 층의 죄인들이 포기한 채 바다 밑바닥으로 가라앉으면서 레비아탄은 어느 때보다도 점점 더 길고 거대해지고 있다.",
 
 		"enemyBios_leviathan_strategy1": "레비아탄의 약점인 심장은 머리 위 꼭대기에 드러나 있다. 일반적인 상황에선 보이지 않으나, 레비아탄이 공격한 이후에 제대로 확인할 수 있으며 피해를 직격탄으로 입히거나 자석을 부착시킬 수 있는 좋은 기회로 삼을 수 있다.",
-		"enemyBios_leviathan_strategy2": "비록 힘들겠지만, 짧은 시간동안 레비아탄 위에 올라탈 수 있다. 타이밍에 맞춰 점프하면 레비아탄의 물어뜯기 공격을 피할 수 있을 뿐만 아니라 머리 위에 착지해 노출된 심장을 노릴 수 있다.",
+		"enemyBios_leviathan_strategy2": "비록 어렵지만, 짧은 시간동안 레비아탄 위에 올라탈 수 있다. 타이밍에 맞춰 점프하면 레비아탄의 물어뜯기 공격을 피할 수 있을 뿐만 아니라 머리 위에 착지해 노출된 심장을 노릴 수 있다.",
 		"enemyBios_leviathan_strategy3": "레비아탄의 꼬리는 낮게 또는 높게 휘두를 수 있으며, 회전하는 방향에 따라 높이가 달라진다.",
 
 		"enemyBios_corpseOfKingMinos_1": "한때 위대하고 사랑받는 색욕의 층의 왕이었던 미노스는 이제 비틀거리는 시체로 전락했다.",
@@ -2200,7 +2200,7 @@
 		"tutorial_dash2": "키를 눌러 대쉬를 사용하십시오. (스태미나를 소모합니다)",
 		"tutorial_dash3": "대쉬는 공중에서도 사용할 수 있습니다.",
 		"tutorial_health1": "신선한 피를 얻으려면 '근접한' 적에게 피해를 입히십시오.",
-		"tutorial_health2": "<color=red>이 방법 외에는 체력을 회복할 수 없습니다.</color>",
+		"tutorial_health2": "<color=FF0000>이 방법 외에는 체력을 회복할 수 없습니다.</color>",
 		"tutorial_walljump": "벽에 닿았을 때 점프 키를 눌러 벽 점프를 하십시오.(최대 3회)",
 		"tutorial_shockwave1": "",
 		"tutorial_shockwave2": "키를 눌러 공중 내려찍기를 시전하십시오.",
@@ -2210,23 +2210,23 @@
 	},
 	"prelude": {
 		"prelude_first_openingCredits1": "NEW BLOOD 제공",
-		"prelude_first_openingCredits2": "ARSI <color=orange>'HAKITA'</color> PATALA 제작",
+		"prelude_first_openingCredits2": "ARSI <color=FFA500>'HAKITA'</color> PATALA 제작",
 		"prelude_first_pipeClip": "\"파이프 클립 만세.\"$T.HAKITA",
 		"prelude_first_revolverPierce1": "<color=#00FFFF>리볼버</color>:",
-		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=orange>관통 사격</color>을 발사하세요.",
-		"prelude_first_parry": "<color=orange>투사체</color>를 적절한 타이밍에 <color=orange>때려서 받아치세요</color>.",
+		"prelude_first_revolverPierce2": "를 꾹 눌러서 <color=FFA500>관통 사격</color>을 발사하세요.",
+		"prelude_first_parry": "<color=FFA500>투사체</color>를 적절한 타이밍에 <color=FFA500>때려서 받아치세요</color>.",
 
-		"prelude_first_hardDamage1": "피해를 입으면 <color=orange>최대 HP</color>가 잠시 동안 줄어듭니다.",
-		"prelude_first_hardDamage2": "<color=gray>\"하드 대미지\"</color> 는 <color=orange>스타일리쉬</color>하게 플레이할수록 <color=orange>빨리</color> 회복됩니다.",
+		"prelude_first_hardDamage1": "피해를 입으면 <color=FFA500>최대 HP</color>가 잠시 동안 줄어듭니다.",
+		"prelude_first_hardDamage2": "<color=gray>\"하드 대미지\"</color> 는 <color=FFA500>스타일리쉬</color>하게 플레이할수록 <color=FFA500>빨리</color> 회복됩니다.",
 
 		"prelude_first_groundSlam1": "지면 내려찍기: ",
 		"prelude_first_groundSlam2": ", 직격 시 피해를 입힙니다.",
 
-		"prelude_second_shop": "레벨 시작 지점마다 있는 <color=orange>상점</color>에서 <color=orange>포인트</color>를 소비하여 새로운 장비를 구입하세요.",
+		"prelude_second_shop": "레벨 시작 지점마다 있는 <color=FFA500>상점</color>에서 <color=FFA500>포인트</color>를 소비하여 새로운 장비를 구입하세요.",
 		"prelude_second_doorClip": "\"윗동네 공기는 어때?\"$T. HAKITA",
 		"prelude_second_changeEquipped": "획득한 변형 사이를 전환하려면:",
 
-		"prelude_third_needShotgun": "<color=red>화력 부족</color>",
+		"prelude_third_needShotgun": "<color=FF0000>화력 부족</color>",
 		"prelude_third_shotgun1": "<color=#00FFFF>샷건</color>:",
 		"prelude_third_shotgun2": "을 눌러서 폭발성 투사체를 발사하세요.",
 		"prelude_third_shotgun3": "오래 누를수록 사거리가 증가합니다.",
@@ -2243,31 +2243,31 @@
 
 		"act1_limboSecond_blueAttack": "<color=#00FFFF>파란 섬광</color>은 패링이 불가능한 공격임을 나타냅니다.",
 
-		"act1_limboThird_splitDoor1": "색이 <color=red>여러</color> <color=#00FFFF>개인</color> 문은 열기 위한 해골이 <color=#00FFFF>하나만</color> 있어도 <color=#00FFFF>작동합니다</color>.",
+		"act1_limboThird_splitDoor1": "색이 <color=FF0000>여러</color> <color=#00FFFF>개인</color> 문은 열기 위한 해골이 <color=#00FFFF>하나만</color> 있어도 <color=#00FFFF>작동합니다</color>.",
 		"act1_limboThird_splitDoor2": "사서 고생하고 싶지 않으면, 굳이 밖으로 나가지 마세요.",
 
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
 		"act1_limboFourth_hank1": "아무런 일도 일어나지 않았지만, 당신은 묘한 만족감을 느낀다.",
 		"act1_limboFourth_hank2": "당신은 이걸 행크라고 부르기로 했다.",
-		"act1_limboFourth_alternateRevolver": "<color=orange>얼터네이트</color> 무기는 기본 발사 기능이 달라집니다. <color=orange>상점</color>에서 다시 바꿀 수 있습니다.",
+		"act1_limboFourth_alternateRevolver": "<color=FFA500>얼터네이트</color> 무기는 기본 발사 기능이 달라집니다. <color=FFA500>상점</color>에서 다시 바꿀 수 있습니다.",
 		"act1_limboFourth_newArm": "장비한 팔 사이를 전환하려면: ",
 
 		"act1_limboSecret_noclipSkip": "\"너, 위트의 끝에 도달한 것 같네\"$T.HAKITA",
 
-		"act1_lustFirst_knuckleblaster1": "<color=red>너클블래스터</color>:",
+		"act1_lustFirst_knuckleblaster1": "<color=FF0000>너클블래스터</color>:",
 		"act1_lustFirst_knuckleblaster2": "을 눌러 적을 밀쳐내는 충격파를 발사하세요.",
 		"act1_lustFirst_dashjump": "대쉬 점프: 대쉬 중 점프해서 속도를 유지하세요.",
 
-		"act1_lustSecond_feedbacker1": "오직 <color=#00FFFF>피드배커</color>(<color=#00FFFF>파란색 팔</color>)만이 적의 투사체를 <color=orange>패링할</color> 수 있습니다.",
+		"act1_lustSecond_feedbacker1": "오직 <color=#00FFFF>피드배커</color>(<color=#00FFFF>파란색 팔</color>)만이 적의 투사체를 <color=FFA500>패링할</color> 수 있습니다.",
 		"act1_lustSecond_feedbacker2": "장비한 팔을 전환하려면: ",
-		"act1_lustSecond_railcannon": "<color=#00FFFF>레일캐논</color>: <color=orange>사용하지 않을 때</color>에도 <color=orange>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
+		"act1_lustSecond_railcannon": "<color=#00FFFF>레일캐논</color>: <color=FFA500>사용하지 않을 때</color>에도 <color=FFA500>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
 
 		"act1_lustThird_water": "물이 빠졌다.",
 
 		"act1_secret": "림보의 어딘가에서, 어떤 장치가 움직인다."
 	},
 	"act2": {
-		"act2_greedSecond_sand": "모래에 뒤덮인 적은 <color=red>피를 흘리지 않습니다</color>.",
+		"act2_greedSecond_sand": "모래에 뒤덮인 적은 <color=FF0000>피를 흘리지 않습니다</color>.",
 
 		"act2_greedThird_wallClip": "\"필스는 떠났지만 우리 마음 속에 기억될 것입니다.\"$T. HAKITA",
 		"act2_greedThird_troll1": "사악한 것이 온다.",
@@ -2280,7 +2280,7 @@
 		"act2_greedFourth_whiplash3": "<color=#00FF00>위플래시</color>: 가벼운 적은 당신에게 끌어당기고, 무거운 적은 당신을 끌어당깁니다.",
 
 		"act2_greedFourth_whiplashHardDamage1": "<color=#00FF00>위플래시</color>: 적에게 사용 시 <color=#808080>하드 대미지</color>가 축적됩니다.",
-		"act2_greedFourth_whiplashHardDamage2": "HP를 깎지는 못하지만, 낮은 HP에서 사용하기에는 위험합니다.",
+		"act2_greedFourth_whiplashHardDamage2": "이 하드 대미지는 HP를 감소시키지 못하지만, 낮은 HP에서 사용하기에는 위험합니다.",
 
 		"act2_greedSecret_holdToJump1": "더 높이 뛰려면",
 		"act2_greedSecret_holdToJump2": "를 누르세요",
@@ -2290,19 +2290,19 @@
 		"act2_greed_secretDoor": "어떤 눈이 열린다.",
 
 		"act2_wrathFirst_slingshot": "<color=#00FFFF>파란 후크포인트</color>는 도착 시에도 관성을 유지합니다.",
-		"act2_wrathFirst_whiplashUnderwater": "<color=#00FF00>위플래시</color>: <color=orange>물 속</color>에 있을 때에는 <color=#808080>하드 대미지</color>가 축적되지 <color=orange>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
+		"act2_wrathFirst_whiplashUnderwater": "<color=#00FF00>위플래시</color>: <color=FFA500>물 속</color>에 있을 때에는 <color=#808080>하드 대미지</color>가 축적되지 <color=FFA500>않습니다</color>. 한번 제대로 깽판 쳐 보세요.",
 		"act2_wrathFirst_waterDrained": "물이 빠졌다.",
-		"act2_wrathFirst_sentry": "<color=#00FF00>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=orange>//</color> 레일캐논 <color=orange>//</color> 지면 내려찍기 충격파 <color=orange>//</color> 안테나에 리볼버 쏘기",
+		"act2_wrathFirst_sentry": "<color=#00FF00>센트리 방해하는 법</color>: 너클블래스터 (빨간 팔) <color=FFA500>//</color> 레일캐논 <color=FFA500>//</color> 지면 내려찍기 충격파 <color=FFA500>//</color> 안테나에 리볼버 쏘기",
 
-		"act2_wrathSecond_idol": "<color=#00FFFF>우상</color>은 오직 <color=orange>근접 공격</color>으로만 부술 수 있습니다",
+		"act2_wrathSecond_idol": "<color=#00FFFF>우상</color>은 오직 <color=FFA500>근접 공격</color>으로만 부술 수 있습니다",
 		"act2_wrathSecond_neptune": "잘 들어라! 넵튠이 그들을 쳐 죽였다.",
-		"act2_wrathSecond_jakito1": "<color=red>나는 JAKITO다. 제물을 가져와라. 그것은 내가 탈출할 수 있게 할 것이다.</color>",
-		"act2_wrathSecond_jakito2": "<color=red>고맙다. 이제 나는 이 세상에 파멸을 가져올지어다.</color>",
-		"act2_wrathSecond_jakito3": "<color=red>아니. 무고한 생명이어야 한다.</color>",
+		"act2_wrathSecond_jakito1": "<color=FF0000>나는 JAKITO다. 제물을 가져와라. 그것은 내가 탈출할 수 있게 할 것이다.</color>",
+		"act2_wrathSecond_jakito2": "<color=FF0000>고맙다. 이제 나는 이 세상에 파멸을 가져올지어다.</color>",
+		"act2_wrathSecond_jakito3": "<color=FF0000>아니. 무고한 생명이어야 한다.</color>",
 
-		"act2_wrathThird_rocketLauncher": "<color=#00FFFF>로켓 런처</color>: <color=orange>직격</color>하면 <color=orange>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
-		"act2_wrathThird_rocketLauncherMidair": "<color=#00FFFF>로켓 런처</color>: <color=orange>떨어지는</color> 적에 직격하면 <color=orange>더 강한</color> 폭발을 일으킵니다",
-		"act2_wrathThird_soldierBlock": "솔저는 <color=orange>공중에서</color> 로켓을 막지 <color=orange>못합니다</color>. 솔저 <color=orange>근처에</color> 로켓을 쏴 날려보내세요.",
+		"act2_wrathThird_rocketLauncher": "<color=#00FFFF>로켓 런처</color>: <color=FFA500>직격</color>하면 <color=FFA500>폭발</color>을 일으킵니다. 직격하지 않고 폭발하면 적을 날려보냅니다.",
+		"act2_wrathThird_rocketLauncherMidair": "<color=#00FFFF>로켓 런처</color>: <color=FFA500>떨어지는</color> 적에 직격하면 <color=FFA500>더 강한</color> 폭발을 일으킵니다",
+		"act2_wrathThird_soldierBlock": "솔저는 <color=FFA500>공중에서</color> 로켓을 막지 <color=FFA500>못합니다</color>. 솔저 <color=FFA500>근처에</color> 로켓을 쏴 날려보내세요.",
 		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 조상들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
 		"act2_heresyFirst_armboy": "암 보 이 !!!",
@@ -2310,15 +2310,15 @@
 		"act2_secretNotReady": "님은 여기 들어오면 안 돼요."
 	},
 	"primeSanctum": {
-		"primeSanctum_first_secretText1": "터미널 데이터 01 <color=red>[암호화됨]</color>",
+		"primeSanctum_first_secretText1": "터미널 데이터 01 <color=FF0000>[암호화됨]</color>",
 		"primeSanctum_first_secretText2": "<color=#808080>터미널 소개 (초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
 		"primeSanctum_first_secretText3": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
 		"primeSanctum_first_secretText4": "초기 물질 전달의 정확성에 대해 테스트한 결과, 78rpm 바이닐 레코드가 연구소에서 모든 연결 단자를 통해 전송되었다. 이 레코드는 Russ Morgan Orchestra의 작품인 Were You Foolin' (CRO가 가장 좋아하는 곡) 녹음의 싱글이었지만 라벨은 전달 물질의 양을 줄이기 위해 제거되었다.",
 		"primeSanctum_first_secretText5": "<size=5><color=#808080>[참고: 조까 톰 씨발롬아 난 이 ㅈ같은 노래에 질렸고 난 이걸 매일 아침마다 그 쓰레기같은 인터폰으로 들어야 된다고]</color></size>",
 		"primeSanctum_first_secretText6": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
-		"primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=red>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
+		"primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=FF0000>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
 		"primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
-		"primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=red>링크 삭제됨</color>] 및 [<color=red>링크 삭제됨</color>]를 참조하십시오.",
+		"primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=FF0000>링크 삭제됨</color>] 및 [<color=FF0000>링크 삭제됨</color>]를 참조하십시오.",
 
 		"primeSanctum_second_lockFirstLocked": "잠금 [A]",
 		"primeSanctum_second_lockSecondLocked": "잠금 [B]",
@@ -2328,17 +2328,17 @@
 		"primeSanctum_second_lockOpen": "개방",
 		"primeSanctum_second_lockAreYouSure": "정말로 진행합니까?",
 		"primeSanctum_second_lockYes1": "절차를 준수하십시오",
-		"primeSanctum_second_lockYes2": "<color=red>가까이</color> 접근하지 마십시오",
-		"primeSanctum_second_lockYes3": "그것이 당신을 <color=red>쳐다보게</color>\n만들지 마십시오",
+		"primeSanctum_second_lockYes2": "<color=FF0000>가까이</color> 접근하지 마십시오",
+		"primeSanctum_second_lockYes3": "그것이 당신을 <color=FF0000>쳐다보게</color>\n만들지 마십시오",
 		"primeSanctum_second_lockYes4": "경계를 유지할 것\n최중요 준수 사항 :",
 		"primeSanctum_second_lockYes5": "즐 기 세 요 !",
 		"primeSanctum_second_lockNo1": "하하하하하하하하하하하하",
-		"primeSanctum_second_lockNo2": "<color=red>선 택 의\n여 지 가\n있 다 면 말 이 지</color>",
+		"primeSanctum_second_lockNo2": "<color=FF0000>선 택 의\n여 지 가\n있 다 면 말 이 지</color>",
 
-		"primeSanctum_second_secretText1": "터미널 데이터 02 <color=red>[암호화됨]</color>",
+		"primeSanctum_second_secretText1": "터미널 데이터 02 <color=FF0000>[암호화됨]</color>",
 		"primeSanctum_second_secretText2": "터미널에 대한 최신 정보 ",
 		"primeSanctum_second_secretText3": "<color=#808080>(참고: 이 내용들은 아직 조사 중!!! 모든 청구를 확인하고 초안 작성이 끝날 때까지 공유하지 말 것!!! 만약 이 내용을 마지막 초안처럼 유출한다면 지구 전체로부터의 소송 비용을 자비로 부담해야 함.)</color>",
-		"primeSanctum_second_secretText4": "이전 보고서를 발표한 뒤로, 더 강력한 통신 장비들이 성공적으로 설계되고 만들어졌습니다. 이 모든 것이 저희가 중요하게 여기고 있는 <color=#808080>[여기에 발표를 듣는 회사 이름 입력]</color> 덕분에 실현될 수 있었습니다. 이 새로운 장비와 함께, 저희는 지옥 탐사와 탈출 작전이 <color=red>[오류:sAmsGS3JTIU]</color> 로 인해 갑작스럽게 중단된 이후 남겨진 몇몇 고성능 기계들과 다시 연결할 수 있었습니다.\n",
+		"primeSanctum_second_secretText4": "이전 보고서를 발표한 뒤로, 더 강력한 통신 장비들이 성공적으로 설계되고 만들어졌습니다. 이 모든 것이 저희가 중요하게 여기고 있는 <color=#808080>[여기에 발표를 듣는 회사 이름 입력]</color> 덕분에 실현될 수 있었습니다. 이 새로운 장비와 함께, 저희는 지옥 탐사와 탈출 작전이 <color=FF0000>[오류:sAmsGS3JTIU]</color> 로 인해 갑작스럽게 중단된 이후 남겨진 몇몇 고성능 기계들과 다시 연결할 수 있었습니다.\n",
 		"primeSanctum_second_secretText5": "저희가 발견한 것은 정말 기념비적이고, 만약 어느 정도의 의심을 벗고 사실로 판명된다면, 전 세계의 로봇 공학 단체에게 혁명적인 것입니다: ",
 		"primeSanctum_second_secretText6": "바로 지루함이죠.",
 		"primeSanctum_second_secretText7": "터미널들은 움직일 수 없는 탓에 점차 지루해졌습니다. 다른 기기와 연결되어 있어 서로 통신할 수 있는 한편, 바깥으로부터의 통신이 두절될 경우 새로운 입력을 받지 못하게 되었고, 그 결과 모든 통신 내용이 이미 알고 있는 정보의 반복으로 전락하게 되었습니다.",
@@ -2347,7 +2347,7 @@
 		"primeSanctum_second_secretText10": "이 관계가 터미널들의 존재 의의에 너무 깊게 새겨진 나머지 터미널 사이 사회적 위계 질서가 형성되어, 가장 재미있는 전투 기록을 수집하는 개체가 그렇지 않은 경우보다 더 우월한 것으로 나타납니다.",
 		"primeSanctum_second_secretText11": "더 최근에는, 터미널들은 \"사이버 그라인드\"라고 부르는 가상 공간을 구현하기 충분한 양의 자료를 모아서 기계들이 접속할 수 있도록 하는데, 이를 통해 기계들이 파괴될 위험이 없는 안전한 환경에서 전투를 시뮬레이션할 수 있게 되었고, 터미널들은 이걸 생방송 오락의 일종으로 삼아 실시간으로 관랍합니다.",
 		"primeSanctum_second_secretText12": "이 발견은 매우 특이하며, 그래서 저희는 이것을 거의 믿지 못하고 있습니다만, 저희가 얻을 수 있었던 모든 정보는 이것을 입증하고 있습니다. 만약 저희가 이것을 확실히 증명할 수 있<color=#808080>[고 이 초안이 시발 또 유출되지 않는]</color>다면, 이것은 저희가 혈액-동력 기계에 대해 알아왔던 모든 것에 대한 재평가를 요구하는 패러다임 전환을 유발할 것입니다.",
-		"primeSanctum_second_secretText13": "데이터 02 종료. 취소된 지옥 탐사와 탈출 작전에 대해 더 알아보려면, 자료 00: <color=red>[링크 삭제됨]</color> 을 참조하십시오."
+		"primeSanctum_second_secretText13": "데이터 02 종료. 취소된 지옥 탐사와 탈출 작전에 대해 더 알아보려면, 자료 00: <color=FF0000>[링크 삭제됨]</color> 을 참조하십시오."
 	},
 	"secretLevels": {
 		"secretLevels_prelude_somethingWicked": "사악한 것이 온다.",
@@ -2569,16 +2569,16 @@
 	},
 
 	"misc": {
-		"hud_noArm1": "<color=red>팔이 없으면 때릴 수도 없어, 멍청아.</color>",
+		"hud_noArm1": "<color=FF0000>팔이 없으면 때릴 수도 없어, 멍청아.</color>",
 		"hud_noArm2": "팔은 상점에서 다시 장착할 수 있습니다.",
-		"hud_majorAssists": "<color=blue>특수 어시스트가 활성화되었습니다.</color>",
-		"hud_overhealOrb1": "<color=red>붉은</color> 소울 오브는 200 HP를 줍니다.",
+		"hud_majorAssists": "<color=0000FF>특수 어시스트가 활성화되었습니다.</color>",
+		"hud_overhealOrb1": "<color=FF0000>붉은</color> 소울 오브는 200 HP를 줍니다.",
 		"hud_overhealOrb2": "추가 HP는 피를 맞아도 회복할 수 없습니다",
-		"hud_itemGrabError": "<color=red>오류: 막고 있는 문이 닫힙니다</color>",
-		"hud_levelStats1": "레벨을 다시 플레이할 때에는 <color=orange>TAB</color> 을 눌러 현재 진행 상황을 보세요.",
+		"hud_itemGrabError": "<color=FF0000>오류: 막고 있는 문이 닫힙니다</color>",
+		"hud_levelStats1": "레벨을 다시 플레이할 때에는 <color=FFA500>TAB</color> 을 눌러 현재 진행 상황을 보세요.",
 		"hud_levelStats2": "두 번 눌러서 계속 열어둘 수 있습니다.",
 		"hud_outOfBounds": "어이쿠, 죄송합니다.",
-		"hud_clashMode": "<color=orange>\"클래시 모드\"</color> 치트 해금됨",
+		"hud_clashMode": "<color=FFA500>\"클래시 모드\"</color> 치트 해금됨",
 		"hud_weaponVariation": "장비한 무기의 변형을 바꾸려면 : ",
 
 		"loading": "불러오는 중...",
@@ -2640,7 +2640,7 @@
 		"weapons_alreadyBought": "구매 완료",
 		"weapons_underConstruction": "개발 중",
 
-		"pressToSkip": "스킵하려면 <color=orange>ESC</color> 를 누르세요",
+		"pressToSkip": "스킵하려면 <color=FFA500>ESC</color> 를 누르세요",
 
 		"youDied1": "[당신은 죽었습니다]",
 		"youDied2": "[R]을 눌러 재시작",
