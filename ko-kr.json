@@ -922,6 +922,7 @@
 
 		"act2_intermission_endof": "II장 끝",
 		"act2_intermission_insertAct3": "\"III막 : 신권의 자살\"을 재생하려면 디스크 3을 넣으십시오"
+		
 	},
 	"frontend": {
 		"mainmenu_earlyAccess": "앞서 해보기",
@@ -1237,15 +1238,16 @@
 	},
 	"options": {
 		"options_title": "설정",
-		"options_back": "뒤로",
 		"category_general": "일반",
 		"category_controls": "조작",
 		"category_graphics": "그래픽",
-		"category_sound": "오디오",
-		"category_display": "디스플레이",
+		"category_audio": "오디오",
 		"category_assists": "어시스트",
-		"category_colors": "색상",
 		"category_saves": "세이브 파일",
+        "category_customization": "커스터마이징",
+        "category_hud": "디스플레이",
+		"category_colors": "색상",
+		"options_back": "뒤로",
 
 		"general_rememberWeapon": "마지막으로 쓴 무기 변형 기억",
 		"general_weaponPosition": "무기 위치",
