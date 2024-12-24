@@ -2,7 +2,7 @@
 	"metadata": {
 		"langName": "ko-KR",
 		"langAuthor": "ArsenicParadigm, susu",
-		"langVersion": "1.0.2",
+		"langVersion": "1.1.0",
 		"langDisplayName": "한국어",
 		"langRTL": "false",
 
@@ -178,12 +178,12 @@
 		"museum_bookAdditionalMusic12": "ULTRAKILL 개발 역사 비디오의 수록곡 \"Gymnopédies - la 1ére. lent et douloureux\" : Erik Satie 작곡, Robin Alciatore 연주 (퍼블릭 도메인)",
 
 		"museum_bookAdditionalCredits1": "<b><color=#FFA500>기타 기여 목록:</color></b>",
-		"museum_bookAdditionalCredits2": "<b><color=#FFA500>커뮤니티 사이버 그라인드 패턴</color></b> by:",
-		"museum_bookAdditionalCredits3": "<b><color=#FFA500>특히 감사한 분들</color></b> to:",
-		"museum_bookAdditionalCredits4": "제 이전 게임, Untraceable이, 재미없다고 말해준 <b>Magnega</b>. 덕분에 제가 존재의 위기를 겪고 그 프로젝트를 버린 뒤 대신 ULTRAKILL을 만들게 해 주었습니다.",
-		"museum_bookAdditionalCredits5": "베타 테스팅과 피드백 등의 지원을 아낌없이 지속적으로 해 준 <b>Mikko Tamper 와 Robert Raulus</b>",
-		"museum_bookAdditionalCredits6": "베타 테스팅에 참여하고 피드백을 준 <b>B.G.B. 와 Splendid</b>",
-		"museum_bookAdditionalCredits7": "베타 테스팅을 포함해 지속적으로 피드백을 남겨준 <b>Mikko Tamper와 Robert Raulus</b>",
+		"museum_bookAdditionalCredits2": "<b><color=orange>Finn [Frej]</color></b> - \"Fuckin Finland\" 애니메이션의 제작자",
+		"museum_bookAdditionalCredits3": "<b><color=#FFA500>커뮤니티 사이버 그라인드 패턴</color></b> by:",
+		"museum_bookAdditionalCredits4": "<b><color=#FFA500>특히 감사한 분들</color></b> to:",
+		"museum_bookAdditionalCredits5": "이스터 에그를 위해 게임 에셋을 이용하는 것을 허락해 준 <b>David Szymanski, Leon Zawada and Simon Rance</b>",
+		"museum_bookAdditionalCredits6": "제 이전 게임, Untraceable이, 재미없다고 말해준 <b>Magnega</b>. 덕분에 제가 존재의 위기를 겪고 그 프로젝트를 버린 뒤 대신 ULTRAKILL을 만들게 해 주었습니다.",
+		"museum_bookAdditionalCredits7": "베타 테스팅과 피드백 등의 지원을 아낌없이 지속적으로 해 준 <b>Mikko Tamper 와 Robert Raulus</b>",
 		"museum_bookAdditionalCredits8": "베타 테스팅에 참여하고 피드백을 준 <b>B.G.B. and Splendid</b>",
 
 		"museum_bookStephanWeyte1": "<b><color=#FFA500>STEPHAN WEYTE</color> - 미노스 프라임의 성우</b>",
@@ -511,7 +511,7 @@
 		"wash_ToDo": "할 일:",
 
 		"wash_roomCourtyard": "정원",
-		"wash_room": "도서관",
+		"wash_roomLibrary": "도서관",
 		"wash_roomLobby": "로비",
 		"wash_roomLounge": "라운지",
 		"wash_roomSideroom": "옆 방",
@@ -1312,7 +1312,6 @@
 		"controls_punchKnuckleblaster": "펀치 (너클블래스터)",
 		"controls_whiplash": "위플래시",
 
-		"graphics_title": "그래픽",
 		"graphics_resolution": "해상도",
 		"graphics_fullscreen": "전체 화면",
 		"graphics_maxFps": "목표 프레임레이트",
@@ -1361,6 +1360,7 @@
 		"graphics_goreNote": "(게임플레이에 영향 없음)",
 		"graphics_goreEnable": "피 & 내장 활성화",
 		"graphics_goreDisablePhysics": "내장 물리 계산 끄기",
+		"graphics_goreMaxBloodStains": "최대 피 얼룩 수",
 		"graphics_goreBloodChance": "피 얼룩 생성 확률",
 		"graphics_goreMaxGore": "공간당 최대 내장 수",
 
@@ -1372,7 +1372,6 @@
 		"audio_muffleMusic": "수중에서 음악 먹먹하게 만들기",
 		"audio_dubbing": "음성 더빙",
 
-		"hud_title": "디스플레이",
 		"hud_type": "HUD 종류",
 		"hud_typeNone": "없음",
 		"hud_typeStandard": "일반",
@@ -1730,7 +1729,7 @@
 		"leveltips_violenceFirst": "유도 투사체는 피하기가 어려울 수 있지만, 추적이 느리고 탄속이 느려서 패링으로 받아치기가 수월합니다.",
 		"leveltips_violenceSecond": "마네킹은 특유의 빠른 발걸음 때문에 맞추기가 힘들지만, 공중에 띄워지거나 벽이나 천장에 붙은 상태에서 사격당하면 균형을 잃고 잠시 움직일 수 없는 상태가 됩니다.",
 		"leveltips_violenceThird": "너클블래스터의 충격파는 거터맨의 방패를 파괴할 수 있어, 혼란스러운 난전 속을 헤쳐나가기 쉽게 해줍니다.",
-		"leveltips_violenceFourth": "너클블래스터의 주먹을 정통으로 맞추면 대상을 강하게 밀쳐냅니다. 이는 적을 낭떠러지나 환경적 위험 요소에 떨어트리는 데 아주 탁월합니다.",
+		"leveltips_violenceFourth": "너클블래스터의 주먹은 정통으로 맞추면 대상을 강하게 밀쳐냅니다. 이는 적을 낭떠러지나 환경적 위험 요소에 떨어트리는 데 아주 탁월합니다.",
 		"leveltips_violenceSecret": "내가 있을 줄은 몰랐지, 응?'",
 
 		"leveltips_fraudFirst": "",
@@ -1971,7 +1970,6 @@
 		"enemyname_stalker": "스토커",
 		"enemyname_insurrectionist": "시시포스의 반란군",
 		"enemyname_ferryman": "뱃사공",
-		"enemyname_minos": "미노스 왕의 시체",
 		"enemyname_swordsmachine": "소드머신",
 		"enemyname_drone": "드론",
 		"enemyname_streetCleaner": "스트리트클리너",
@@ -2009,16 +2007,15 @@
 		"enemyname_boss_mandalore": "의문의 드루이드 기사 (& 부엉이)",
 		"enemyname_boss_earthmover": "1000-THR \"어스무버\"",
 		"enemyname_boss_earthmoverDefence": "1000-THR 방어 시스템",
-		"enemyname_boss_v2": "V2",
-		"enemyname_boss_v2Second": "V2",
 		"enemyname_boss_ferryman": "뱃사공",
 		"enemyname_boss_leviathan": "레비아탄",
 		"enemyname_boss_insurrectionistAngry": "반란군 \"앵그리\"",
 		"enemyname_boss_insurrectionistRude": "반란군 \"루드\"",
 		"enemyname_boss_gabrielSecond": "가브리엘, 증오의 배교자",
-		"enemyname_fleshPrison": "육체 감옥",
-		"enemyname_boss_fleshPanopticon": "육체 파놉티콘",
-		"enemyname_minosPrime": "미노스 프라임",
+		"enemyname_boss_bigJohninator": "빅 조니네이터",
+		"enemyname_boss_fleshPrison": "살덩이 감옥",
+		"enemyname_boss_fleshPanopticon": "살덩이 파놉티콘",
+		"enemyname_boss_minosPrime": "미노스 프라임",
 		"enemyname_boss_sisyphusPrime": "시시포스 프라임",
 
 		"enemyname_type_lesserHusk": "하급 허스크",
@@ -2053,6 +2050,7 @@
 		"cheats_spawnerArm": "생성기 팔",
 		"cheats_teleportMenu": "텔레포트 메뉴",
 		"cheats_fullBright": "최대 밝기",
+		"cheats_invincibility": "무적",
 		"cheats_noclip": "노클립",
 		"cheats_flight": "비행",
 		"cheats_infiniteWallJumps": "무한 벽 점프",
@@ -2072,9 +2070,9 @@
 		"cheats_snapping": "스내핑",
 		"cheats_physics": "물리 적용",
 		"cheats_crashMode": "클래시 모드",
-		"cheats_hideWeapons": "Hide Weapons",
-		"cheats_hideUi": "Hide UI",
-		"cheats_ghostDroneMode": "Drone Haunting",
+		"cheats_hideWeapons": "무기 숨기기",
+		"cheats_hideUi": "디스플레이 숨기기",
+		"cheats_ghostDroneMode": "드론 유령",
 
 		"cheats_stayActive": "계속 활성화",
 		"cheats_disableOnReload": "재로딩 시 비활성화",
@@ -2520,7 +2518,7 @@
 		"act1_limboFourth_book": "읽으려면 집어들으세요.",
 		"act1_limboFourth_hank1": "아무런 일도 일어나지 않았지만, 당신은 묘한 만족감을 느낀다.",
 		"act1_limboFourth_hank2": "당신은 이걸 행크라고 부르기로 했다.",
-		"act1_limboFourth_alternateRevolver": "<color=#FFA500>얼터네이트</color> 무기는 기본 발사 기능이 달라집니다. <color=#FFA500>상점</color>에서 다시 바꿀 수 있습니다.",
+		"act1_limboFourth_alternateRevolver": "<color=#FFA500>얼터네이트 리볼버</color>: 피해량이 더 높습니다. 쏠 때마다 공이를 당겨줘야 합니다.",
 		"act1_limboFourth_newArm": "장비한 팔 사이를 전환하려면: ",
 
 		"act1_limboSecret_noclipSkip": "\"너, 위트의 끝에 도달한 것 같네\"$T.HAKITA",
@@ -2576,8 +2574,7 @@
 		"act2_wrathThird_soldierBlock": "솔저는 <color=#FFA500>공중에서</color> 로켓을 막지 <color=#FFA500>못합니다</color>. 솔저 <color=#FFA500>근처에</color> 로켓을 쏴 날려보내세요.",
 		"act2_wrathThird_hank": "아무런 일도 일어나지 않았지만, 당신은 행크 주니어와 그의 행크 조상들이 인정해 주리라 믿는다... 그들이 살아 있었다면 말이다.",
 
-		"act2_heresyFirst_armboy": "암 보 이 !!!",
-		"act2_secretNotReady": "님은 여기 들어오면 안 돼요."
+		"act2_heresyFirst_armboy": "암 보 이 !!!"
 	},
 	"act3": {
 		"act3_violenceFirst_doorOpens": "문이 열린다.",
@@ -3012,9 +3009,9 @@
 
 	"weapon": {
 		"weapon_nailgunZapperReady": "준비",
-		"weapon_nailgunZapperAlternateTooFar": "너무 멀리 있음",
+		"weapon_nailgunZapperAlternateTooFar": "너무 멈",
 		"weapon_nailgunZapperOutOfRange": "범위 이탈",
-		"weapon_nailgunZapperAlternateNull": "측정 불가",
+		"weapon_nailgunZapperAlternateNull": "없음",
 		"weapon_nailgunZapperNoTarget": "목표 없음",
 		"weapon_nailgunZapperBlocked": "막힘",
 		"weapon_nailgunZapperDistance": "거리:",
