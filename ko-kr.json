@@ -179,8 +179,8 @@
 
 		"museum_bookAdditionalCredits1": "<b><color=#FFA500>기타 기여 목록:</color></b>",
 		"museum_bookAdditionalCredits2": "<b><color=orange>Finn [Frej]</color></b> - \"Fuckin Finland\" 애니메이션의 제작자",
-		"museum_bookAdditionalCredits3": "<b><color=#FFA500>커뮤니티 사이버 그라인드 패턴</color></b> by:",
-		"museum_bookAdditionalCredits4": "<b><color=#FFA500>특히 감사한 분들</color></b> to:",
+		"museum_bookAdditionalCredits3": "<b><color=#FFA500>커뮤니티 사이버 그라인드 패턴</color></b> :",
+		"museum_bookAdditionalCredits4": "<b><color=#FFA500>특히 감사한 분들</color></b> :",
 		"museum_bookAdditionalCredits5": "이스터 에그를 위해 게임 에셋을 이용하는 것을 허락해 준 <b>David Szymanski, Leon Zawada and Simon Rance</b>",
 		"museum_bookAdditionalCredits6": "제 이전 게임, Untraceable이, 재미없다고 말해준 <b>Magnega</b>. 덕분에 제가 존재의 위기를 겪고 그 프로젝트를 버린 뒤 대신 ULTRAKILL을 만들게 해 주었습니다.",
 		"museum_bookAdditionalCredits7": "베타 테스팅과 피드백 등의 지원을 아낌없이 지속적으로 해 준 <b>Mikko Tamper 와 Robert Raulus</b>",
@@ -1761,7 +1761,7 @@
 		"shop_returnToMission": "임무로 복귀",
 		"shop_soulOrbs": "소울 오브",
 		"shop_moneyCount": "<color=#FFA500>P</color>",
-		"shop_lotsOfMoney": "말그대로, 아주 많은 <color=#FFA500>P</color>",
+		"shop_lotsOfMoney": "말 그대로, 아주 많은 ",
 
 		"shop_cybergrindDescription1": "사이버 그라인드는 끝없는 전투를 펼치는 생존 모드입니다.",
 		"shop_cybergrindDescription2": "좋은 성적을 낼 수록 더 많은 포인트를 얻을 수 있습니다.",
@@ -2116,7 +2116,7 @@
 	},
 
 	"enemybios": {
-		"enemyBios_type": "타입",
+		"enemyBios_type": "타입 : ",
 		"enemyBios_data": "데이터",
 		"enemyBios_strategy": "전략",
 
@@ -3015,7 +3015,7 @@
 		"weapon_nailgunZapperNoTarget": "목표 없음",
 		"weapon_nailgunZapperBlocked": "막힘",
 		"weapon_nailgunZapperDistance": "거리:",
-		"weapon_nailgunZapperRecharging": "재충전 중..."
+		"weapon_nailgunZapperRecharging": "충전 중..."
 	},
 	"ranks": {
 		"rank_letter_d": "D",
