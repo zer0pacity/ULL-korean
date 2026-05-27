@@ -372,7 +372,7 @@
     "cybergrind_noPatternsSelected": "선택된 패턴 없음."
   },
   "primeSanctum": {
-    "primeSanctum_first_insufficientlight": "<color=#FF0000>경고:</color> 빛 부족. $<color=#FFA500>권장:</color> 돌아가 횟불을 가져오십시오.",
+    "primeSanctum_first_insufficientlight": "<color=#FF0000>경고:</color> 빛 부족. $<color=#FFA500>권장:</color> 돌아가 횃불을 가져오십시오.",
     "primeSanctum_first_secretText1": "터미널 데이터 01 <color=#FF0000>[암호화됨]</color>",
     "primeSanctum_first_secretText2": "<color=#808080>터미널 소개 (초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
     "primeSanctum_first_secretText3": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
@@ -2616,7 +2616,7 @@
     "style_landyours": "니뢰",
     "style_lightningbolt": "번개를 타고",
     "style_limbshot": "팔다리 타격",
-    "style_mauriced": "멀리셔스에 깔림",
+    "style_mauriced": "모리스됨",
     "style_multikill": "멀티 킬",
     "style_nailbombed": "못을 못 피함",
     "style_overkill": "오버킬",
@@ -2852,7 +2852,7 @@
     "classicHud_stamina": "스태미나",
     "classicHud_arm": "팔",
     "classicHud_railcannonMeter": "충전",
-    "classicHud_speed": "속도",
+    "classicHud_speed": "속력",
     "classicHud_speed_u": "u/s",
     "classicHud_speed_hu": "hu/s",
     "classicHud_speed_vu": "vu/s",
