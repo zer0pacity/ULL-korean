@@ -118,11 +118,13 @@
     "tutorial_calibrationMechanics": "메커니즘",
     "tutorial_calibrationComplete1": "보정 완료",
     "tutorial_calibrationComplete2": "주요 설정 갱신됨",
-    "tutorial_introReminder": "메인 메뉴에서 어시스트 설정 가능",
+    "tutorial_introReminder1": "ASSIST OPTIONS",
+    "tutorial_introReminder2": "AVAILABLE IN PAUSE MENU",
     "tutorial_systemsOperational": "시스템 전체 정상 작동",
     "tutorial_introLoadStatus": "상태 업데이트 불러오는 중",
     "tutorial_introStatusUpdate": "상태 업데이트 완료",
     "tutorial_audioCalibrationTitle": "수동 사운드 보정",
+    "tutorial_audioCalibrationSliderOFF": "OFF",
     "tutorial_audioCalibrationWarning1": "마스터 볼륨이 꺼진 상태입니다</color>.",
     "tutorial_audioCalibrationWarning2": "플레이 중에 소리를 들을 수 없습니다.",
     "tutorial_audioCalibrationWarning3": "진행하시겠습니까?",
@@ -160,7 +162,9 @@
     "tutorial_shockwave2": "키를 눌러 <color=orange>그라운드 슬램</color>을 시전하십시오.",
     "tutorial_shockwave3": "꾹 누르면 <color=orange>충격파</color>를 발산합니다.",
     "tutorial_orb1": "대부분의 레벨에선 숨겨진 <color=#00DFFF>소울 오브</color>가 존재합니다.",
-    "tutorial_orb2": "다가가서 <color=orange>추가 포인트</color>를 획득하십시오."
+    "tutorial_orb2": "다가가서 <color=orange>추가 포인트</color>를 획득하십시오.",
+    "tutorial_calibrationError": "ERROR",
+    "tutorial_calibrationOk": "OK"
   },
   "ranks": {
     "rank_letter_d": "D",
@@ -183,7 +187,8 @@
     "prelude_first_groundSlam2": ") 직격 시 피해를 입힙니다.",
     "prelude_second_shop": "레벨 시작 지점마다 있는 <color=#FFA500>상점</color>에서 <color=#FFA500>포인트</color>를 소비하여 새로운 장비를 구입하세요.",
     "prelude_second_doorClip": "\"윗동네 공기는 어때?\"$T. HAKITA",
-    "prelude_second_changeEquipped": "획득한 변형 사이를 전환하려면:",
+    "prelude_second_changeEquipped1": "<color=orange>획득한</color> 변형 사이를 전환하려면:",
+    "prelude_second_changeEquipped2": "'.",
     "prelude_third_needShotgun": "<color=#FF0000>화력 부족</color>",
     "prelude_third_shotgun1": "<color=#00FFFF>샷건</color>:",
     "prelude_third_shotgun2": "을 눌러서 폭발성 투사체를 발사하세요.",
@@ -204,7 +209,8 @@
     "act1_limboFourth_hank1": "아무런 일도 일어나지 않았지만, 당신은 묘한 만족감을 느낀다.",
     "act1_limboFourth_hank2": "당신은 이걸 행크라고 부르기로 했다.",
     "act1_limboFourth_alternateRevolver": "<color=#FFA500>얼터네이트 리볼버</color>: 더 높은 피해. 발사할 때마다 해머를 당겨야 합니다.",
-    "act1_limboFourth_newArm": "팔을 전환하려면:",
+    "act1_limboFourth_newArm1": "<color=orange>획득한</color> 변형 사이를 전환하려면:",
+    "act1_limboFourth_newArm2": "'",
     "act1_limboSecret_noclipSkip": "\"너, 위트의 끝에 도달한 것 같네\"$T.HAKITA",
     "act1_lustFirst_knuckleblaster1": "<color=#FF0000>너클블래스터</color>:",
     "act1_lustFirst_knuckleblaster2": "을 꾹 눌러 적을 밀쳐내는 충격파를 발사하세요.",
@@ -213,6 +219,7 @@
     "act1_lustFirst_elevator": "<size=14>엘리베이터\n작동 테스트</size>",
     "act1_lustSecond_feedbacker1": "오직 <color=#00FFFF>피드배커</color>(<color=#00FFFF>파란색 팔</color>)만이 적의 투사체를 <color=#FFA500>패링할</color> 수 있습니다.",
     "act1_lustSecond_feedbacker2": "팔을 전환하려면: ",
+    "act1_lustSecond_feedbacker3": "'.",
     "act1_lustSecond_railcannon": "<color=#00FFFF>레일캐논</color>: <color=#FFA500>사용하지 않을 때</color>에도 <color=#FFA500>충전</color>됩니다. 발사 후 전투를 지속하기 위해 무기를 바꾸세요",
     "act1_lustSecond_checkPoints": "<color=#FF52FF>고리형 체크포인트</color>는 다시 진행상황을 저장할 수 있습니다.",
     "act1_lustThird_water": "물이 빠졌다.",
@@ -255,7 +262,8 @@
   },
   "act3": {
     "act3_violenceFirst_doorOpens": "문이 열렸다.",
-    "act3_violenceSecond_guttermanTutorial": "<color=#FFA500>거터맨의 방패</color>는 <color=red>너클블래스터</color>로 <color=#FFA500>파괴</color>할 수 있습니다. 팔을 전환하려면",
+    "act3_violenceSecond_guttermanTutorial1": "<color=#FFA500>거터맨의 방패</color>는 <color=red>너클블래스터</color>로 <color=#FFA500>파괴</color>할 수 있습니다. 팔을 전환하려면:",
+    "act3_violenceSecond_guttermanTutorial2": "'.",
     "act3_violenceSecond_guttermanTutorialNoKB": "<color=#FFA500>거터맨의 방패</color>는 <color=red>너클블래스터</color>로 <color=#FFA500>파괴</color>할 수 있습니다. 아마 다시 장착하는 게 좋을 겁니다.",
     "act3_violenceSecond_biggerBoom": "더 큰 폭발이 필요해",
     "act3_violenceSecond_gateControlTitle": "게이트 제어",
@@ -374,14 +382,15 @@
   "primeSanctum": {
     "primeSanctum_first_insufficientlight": "<color=#FF0000>경고:</color> 빛 부족. $<color=#FFA500>권장:</color> 돌아가 횃불을 가져오십시오.",
     "primeSanctum_first_secretText1": "터미널 데이터 01 <color=#FF0000>[암호화됨]</color>",
-    "primeSanctum_first_secretText2": "<color=#808080>터미널 소개 (초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)</color>",
-    "primeSanctum_first_secretText3": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
-    "primeSanctum_first_secretText4": "초기 물질 전달의 정확성에 대해 테스트한 결과, 78rpm 바이닐 레코드가 연구소에서 모든 연결 단자를 통해 전송되었다. 이 레코드는 Russ Morgan Orchestra의 작품인 Were You Foolin' (CRO가 가장 좋아하는 곡) 녹음의 싱글이었지만 라벨은 전달 물질의 양을 줄이기 위해 제거되었다.",
-    "primeSanctum_first_secretText5": "<size=5><color=#808080>[참고: 좆까 톰 난 이 개같은 노래에 질렸고 난 이걸 매일 아침 그 쓰레기같은 인터폰으로 들어야 된다고]</color></size>",
-    "primeSanctum_first_secretText6": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
-    "primeSanctum_first_secretText7": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=#FF0000>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
-    "primeSanctum_first_secretText8": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
-    "primeSanctum_first_secretText9": "데이터 01 종료. 자세한 내용은 [<color=#FF0000>링크 삭제됨</color>] 및 [<color=#FF0000>링크 삭제됨</color>]를 참조하십시오.",
+    "primeSanctum_first_secretText2": "터미널 소개",
+    "primeSanctum_first_secretText3": "(초안! 보내지 마!! // 할일: 지난번처럼 그 멍청한 양복쟁이들이 쳐 자지 않도록 사진 추가하기)",
+    "primeSanctum_first_secretText4": "각 엘리베이터 룸에 위치한 터미널은 서로 다른 지역 간에 자재 및 공구를 전달하기 위해 만들어진 고급 상호 연결 네트워크다. 무선 신호를 통해 물리적 물질을 정보로 전송할 수 있으며, 다른 단말기가 이것을 수신해 전송됀 객체를 재구성하는 데 사용될 수 있다. 원래 항목은 물질 정보를 전달하는 데 사용되는 에너지로 변환되면서 자연스레 손실돠고, 물리적 물질이 보유한 정보의 양 때문에 이 과정은 상당히 느린 편이다.",
+    "primeSanctum_first_secretText5": "초기 물질 전달의 정확성에 대해 테스트한 결과, 78rpm 바이닐 레코드가 연구소에서 모든 연결 단자를 통해 전송되었다. 이 레코드는 Russ Morgan Orchestra의 작품인 Were You Foolin' (CRO가 가장 좋아하는 곡) 녹음의 싱글이었지만 라벨은 전달 물질의 양을 줄이기 위해 제거되었다.",
+    "primeSanctum_first_secretText6": "<size=5><color=#808080>[참고: 좆까 톰 난 이 개같은 노래에 질렸고 난 이걸 매일 아침 그 쓰레기같은 인터폰으로 들어야 된다고]</color></size>",
+    "primeSanctum_first_secretText7": "얼마 지나지 않아, 지옥 탐사와 발굴 프로젝트는 중단되었으며 이 바이닐 레코드는 지상과 터미널 사이의 연결이 끊어지기 전에 성공적으로 전달되어야 할 유일한 문제로 남은 상태였다.",
+    "primeSanctum_first_secretText8": "이제 터미널은 레코드를 사용하여 기계를 공생 관계로 유인한다. (자세한 내용은 터미널 데이터 02: [<color=#FF0000>링크 삭제됨</color>]을 참조.) 그러나 단말기는 알 수 없는 이유로 원래 레코드의 짧은 악기 부분만 재생하고 있다.",
+    "primeSanctum_first_secretText9": "일부 연구원들은 터미널이 단순히 \"이걸 부르기에는 너무 수줍어한다\", 라는 되도 않는 소리를 했지만, 정비사가 고장난 터미널을 수리한 후 녹음 장비 없이 있을 때 단말기가 보컬 섹션을 연주하는 것을 들었다고 주장한다. 다만 이는 검증할 수가 없다.",
+    "primeSanctum_first_secretText10": "데이터 01 종료. 자세한 내용은 [<color=#FF0000>링크 삭제됨</color>] 및 [<color=#FF0000>링크 삭제됨</color>]를 참조하십시오.",
     "primeSanctum_second_lockFirstLocked": "잠금 [A]",
     "primeSanctum_second_lockSecondLocked": "잠금 [B]",
     "primeSanctum_second_lockThirdLocked": "잠금 [C]",
@@ -637,7 +646,8 @@
     "museum_bookCabalcrow3": "\"이런 말이 있죠: 좋은 게 좋은 거다\"",
     "museum_bookLucasVarney1": "<b><color=#BD8BF3>LUCAS VARNEY</color> - 추가 프로그래머</b>",
     "museum_bookLucasVarney2": "Lucas는 또 다른 New Blood 프로그래머입니다만, 보통은 이 분께서 스스로 만드는 게임에 몰두하다가 ULTRAKILL에 도움이 필요할 때 힘을 보태주었습니다. Lucas는 대부분 최적화에 관련된 부분에 기여했고, 덕분에 게임이 더 잘 돌아갈 수 있었을 뿐만 아니라 레벨의 최적화를 더 쉽게 할 수 있는 개발 도구 또한 이 분이 만들었습니다.",
-    "museum_bookLucasVarney3": "\"여기 계신 모든 분들께 정말 감사합니다, 당신도 포함해서요, 이걸 읽고 있는 당신 말하는 거 맞습니다! 저는 항상 비디오 게임 개발에 참여하고 싶었습니다만, 제가 이걸 '제대로' 할 수 있을 거라고는 생각한 적 없었습니다. 저는 고등학교에서 일찍 중퇴했고 그때 제 삶을 통째로 내버리는 기분이 들었습니다. 하지만 전 포기하지 않았고, 앞으로도 포기하지 않을 겁니다! 당신이 누구든지, 희망을 버리지 마시고, 자신의 자아를 실현하고 자신이 좋아하는 일을 하는 것에 대해 다른 사람에게 피해가 가지 않는 한, 자신감을 가지세요. 당신은 보기보다 더 훌륭한 사람이고, 당신이 표면적으로 가진 능력보다 더 큰 가치를 가졌습니다. 매 순간을 즐기고, 당신을 즐겁게 만드는 것을 기꺼이 받아들인다면, 최선을 다하는 사람이 될 수 있습니다.\"",
+    "museum_bookLucasVarney3": "\"여기 계신 모든 분들께 정말 감사합니다, 당신도 포함해서요, 이걸 읽고 있는 당신 말하는 거 맞습니다! 저는 항상 비디오 게임 개발에 참여하고 싶었습니다만, 제가 이걸 '제대로' 할 수 있을 거라고는 생각한 적 없었습니다. 저는 고등학교에서 일찍 중퇴했고 그때 제 삶을 통째로 내버리는 기분이 들었습니다. 하지만 전 포기하지 않았고, 앞으로도 포기하지 않을 겁니다!",
+    "museum_bookLucasVarney4": "당신이 누구든지, 희망을 버리지 마시고, 자신의 자아를 실현하고 자신이 좋아하는 일을 하는 것에 대해 다른 사람에게 피해가 가지 않는 한, 자신감을 가지세요. 당신은 보기보다 더 훌륭한 사람이고, 당신이 표면적으로 가진 능력보다 더 큰 가치를 가졌습니다. 매 순간을 즐기고, 당신을 즐겁게 만드는 것을 기꺼이 받아들인다면, 최선을 다하는 사람이 될 수 있습니다.\"",
     "museum_bookBenMoir1": "<b><color=#3EF242>BEN MOIR</color> - 추가 프로그래머</b>",
     "museum_bookBenMoir2": "벤 또는 \"Zombie\"는 New Blood의 전속 프로그래밍 마법사입니다. 이 분은 여러 프로젝트 사이를 왔다갔다하며, 골치 아픈 오류를 고치거나 프로그래밍 전반에 대한 조언을 해 줍니다. 문제가 있다면, 이 분이 해결책을 알죠.",
     "museum_bookBenMoir3": "이 분의 ULTRAKILL에 대한 기여 대부분은 도움의 형식을 띠고 있으나, 게임 내 몇몇 시스템을 프로그래밍하기도 하였는데, 대표적으로 컨트롤러 지원이나 자동 조준 시스템 등이 있습니다.",
@@ -681,7 +691,8 @@
     "museum_bookVVizard1": "<b><color=#ee0c47>VVIZARD</color> - 박물관 개발자</b>",
     "museum_bookVVizard2": "Vvizard님은 2022년 후반 뛰어난 ULTRAKILL 레벨 에디터 실력과 경험으로 인해 잠시 팀에 끌려왔습니다. 이 분이 여길 만들었고 이 곳에 쓰인 모든 보델과 텍스쳐를 제작했습니다.",
     "museum_bookVVizard3": "이 곳이 게임에서 가장 잘 만들어진 레벨 같아 보인다면, 이 분 덕분입니다.",
-    "museum_bookVVizard4": "\"ULTRAKILL은 설명하려면 책을 한 권 써야 할 만큼 저에게 소중합니다, 이 게임을 만들기 위해 힘쓴 기억은 제가 절대 잊어버리지 않을 거에요, 영원히. 저는 New Blood의 멋진 사람들과 계속 일할 수 있길 바라며, 제가 사람들과 가져온 소통이 저를 이 팀의 일부로 끌어들일 수 있었다고 생각합니다. 가끔씩 저는 사소하게 시작된 일이 어떤 막대한 결과를 불러올 수 있을지 고민하곤 합니다. 하지만 만약 Oyff가 이걸 본다면, 유튜브에 올린 좋은 영상 (The ULTRAKILL Rip and Tear) 이 당신의 삶을 정말 바꿀 수 있다고 말하고 싶습니다.\"",
+    "museum_bookVVizard4": "\"ULTRAKILL은 설명하려면 책을 한 권 써야 할 만큼 저에게 소중합니다, 이 게임을 만들기 위해 힘쓴 기억은 제가 절대 잊어버리지 않을 거에요, 영원히. 저는 New Blood의 멋진 사람들과 계속 일할 수 있길 바라며, 제가 사람들과 가져온 소통이 저를 이 팀의 일부로 끌어들일 수 있었다고 생각합니다.",
+    "museum_bookVVizard5": "가끔씩 저는 사소하게 시작된 일이 어떤 막대한 결과를 불러올 수 있을지 고민하곤 합니다. 하지만 만약 Oyff가 이걸 본다면, 유튜브에 올린 좋은 영상 (The ULTRAKILL Rip and Tear) 이 당신의 삶을 정말 바꿀 수 있다고 말하고 싶습니다.\"",
     "museum_bookAdditionalMusic1": "기타 음악 기여자:",
     "museum_bookAdditionalMusic2": "상점 테마곡 \"Take Care\": Russ Morgan Orchestra가 연주한 \"Were You Foolin'\"에서 샘플링됨 (퍼블릭 도메인)",
     "museum_bookAdditionalMusic3": "0-5: 케르베로스의 수록곡 \"Cerberus\": 구스타브 홀스트의 행성 모음곡 중 \"화성, 전쟁을 가져오는 자\" 에서 샘플링됨 (퍼블릭 도메인)",
@@ -709,7 +720,6 @@
     "museum_bookStephanWeyte3": "Stephan은 정말 함께 일하기 좋은 사람이고, 이 분의 풍부한 목소리는 미노스에게 엄청난 캐릭터성을 입혀 주어서 다른 의미로 이 분을 한 치 앞도 알 수 없게 되었습니다. ",
     "museum_bookLenvalBrown1": "<b><color=#FFA500>LENVAL BROWN</color> - 시시포스 프라임의 성우</b>",
     "museum_bookLenvalBrown2": "디스코 엘리시움에서 나레이터로써 이 분이 보여준 환상적인 활약을 통해 이 분의 깊고 독특한 목소리가 시시포스 왕에게 완벽히 어울린다고 생각하게 되었고 그 뒤 2023년 초에 Lenval에게 연락하였습니다. 이 분과 함께 일하게 되어 영광이었고 덕분에 시시포스가 자기 자신만의 고유한 캐릭터로 거듭나는데 정말 큰 도움을 받았습니다.",
-    "museum_bookLenvalBrown3": null,
     "museum_bookGianniMatragrano1": "<b><color=#20afdb>GIANNI MATRAGRANO</color> - 가브리엘의 성우</b>",
     "museum_bookGianniMatragrano2": "Gianni는 원래 2019년 하순에 저에게 찾아와 자신의 재능으로 돕고자 하는 의사를 표현하였습니다만, 게임이 얼리 엑세스로 출시하기 거의 한 주 전이었던, 2020년 중하순까지 같이 일하지 않았습니다. 주어진 시간이 짧았음에도 불구하고, Gianni는 엄청 잘 해냈고, 덕분에 가브리엘의 캐릭터성과 목소리를 정립할 수 있었을 뿐만 아니라 가브리엘에 내재된 과격함과 그 심상 세계속의 미묘한 뉘앙스라는 두 마리 토끼를 모두 잡을 수 있었습니다.",
     "museum_bookGianniMatragrano3": "그 뒤로 Gianni의 실력은 더 좋아졌으니, 저는 제 스토리에 대한 비전과 가브리엘이라는 캐릭터를 매우 잘 이해해서 가브리엘과의 척 전투에 쓰이는 모든 도발 대사를 즉흥적으로 뽑아낼 수 있었던 사람과 같이 일하게 된 것에 큰 기쁨을 표합니다. 이 분과 함께한다는 것은 매우 즐거운 일이고 저같이 야망이 과도하게 큰 인디 개발자에게는 그저 꿈만 같습니다.",
@@ -952,8 +962,9 @@
     "fish_book6": "존재해.",
     "fish_book7": "봐야만 해.",
     "fish_book8": "알아야만 해.",
-    "fish_book9": "봐야만해알아야만해",
-    "fish_book10": "크기 2 물고기...",
+    "fish_book9": "봐야만 해 알아야만 해",
+    "fish_book10": "봐야만해알아야만해",
+    "fish_book11": "크기 2 물고기...",
     "fish_rodFar": "장거리",
     "fish_rodClose": "근거리",
     "fish_rodHooked": "물었다!",
@@ -968,7 +979,8 @@
     "fish_interrupted": "낚시가 중단되었다.",
     "fish_noFishBiting": "입질이 전혀 없다...",
     "fish_terminalTitle": "고오급 낚시 팁",
-    "fish_funnyStupidFish": "재밌는 바보 물고기 (친구)",
+    "fish_funnyStupidFish": "재밌는 바보\n물고기 (친구)",
+    "fish_terminalfunnyStupidFish": "재밌는 바보 물고기 (친구)",
     "fish_pitrFish": "PITR 고기",
     "fish_trout": "송어",
     "fish_amidEvilFish": "강철 물고기",
@@ -1257,8 +1269,6 @@
     "assists_minor": "일반 어시스트",
     "assists_autoAim": "자동 조준",
     "assists_autoAimPercent": "자동 조준 보정",
-    "assists_autoAimPercentMinimum": "없음",
-    "assists_autoAimPercentMaximum": "전체 화면",
     "assists_enemySilhouettes": "적 실루엣",
     "assists_enemySilhouettesOutlines": "윤곽선만",
     "assists_enemySilhouettesDistance": "표시 거리",
@@ -1436,22 +1446,22 @@
     "levelName_fraudSecond": "거울 속으로",
     "levelName_fraudThird": "붕괴의 순환",
     "levelName_fraudFourth": "최후의 비행",
-    "levelName_fraudSecret": null,
-    "levelName_treacheryFirst": null,
-    "levelName_treacherySecond": null,
+    "levelName_fraudSecret": "",
+    "levelName_treacheryFirst": "",
+    "levelName_treacherySecond": "",
     "levelName_primeFirst": "영혼의 생존자",
     "levelName_primeSecond": "세상의 기다림",
-    "levelName_primeThird": null,
+    "levelName_primeThird": "",
     "levelName_encorePrelude": "이 열기는, 악한 열기라",
     "levelName_encoreLimbo": "...이윽고 재가 되어 가라앉는다",
-    "levelName_encoreLust": null,
-    "levelName_encoreGluttony": null,
-    "levelName_encoreGreed": null,
-    "levelName_encoreWrath": null,
-    "levelName_encoreHeresy": null,
-    "levelName_encoreViolence": null,
-    "levelName_encoreFraud": null,
-    "levelName_encoreTreachery": null
+    "levelName_encoreLust": "",
+    "levelName_encoreGluttony": "",
+    "levelName_encoreGreed": "",
+    "levelName_encoreWrath": "",
+    "levelName_encoreHeresy": "",
+    "levelName_encoreViolence": "",
+    "levelName_encoreFraud": "",
+    "levelName_encoreTreachery": ""
   },
   "levelChallenges": {
     "challenges_preludeFirst": "유리 하나로 5명의 적 처치하기",
@@ -1487,8 +1497,8 @@
     "challenges_fraudSecond": "레벨을 거꾸로 클리어하기",
     "challenges_fraudThird": "종단속도로 파워를 처치하기",
     "challenges_fraudFourth": "해골을 줍지 않기",
-    "challenges_treacheryFirst": null,
-    "challenges_treacherySecond": null
+    "challenges_treacheryFirst": "",
+    "challenges_treacherySecond": ""
   },
   "enemyNames": {
     "enemyname_filth": "필스",
@@ -1518,7 +1528,7 @@
     "enemyname_mannequin": "마네킹",
     "enemyname_minotaur": "미노타우르스",
     "enemyname_gabriel": "가브리엘",
-    "enemyname_gabrielSecond": null,
+    "enemyname_gabrielSecond": "가브리엘",
     "enemyname_virtue": "버추",
     "enemyname_somethingWicked": "사악한 것",
     "enemyname_puppet": "???",
@@ -1812,10 +1822,10 @@
     "enemyBios_providence_1": "가브리엘의 마지막 전언 이후, 천국은 다시 한번 혼란의 극치에 빠졌다. 이 국면이 내전으로 확대되는 것을 방지하고자 하급 천사들 가운데 가장 빠른 프로비던스들이 가브리엘을 귀환시키기 위해 파견되었다.",
     "enemyBios_providence_2": "사안의 시급성을 고려하여, 이들은 까마득한 과거의 미지의 사건 이후로 천사들이 하느님께 맹세했던 성약마저 파기되는 것을 불사하며 지옥으로의 원정 도중에 시력을 보전하는 것이 허용되었다.",
     "enemyBios_providence_3": "이들의 신체는 순수한 빛으로 구성되어 정확한 형태를 지각하는 것이 불가능하며, 평범한 인간이 육안으로 바라보면 실명할 수 있다.",
-    "enemyBios_providence_4": null,
     "enemyBios_providence_strategy1": "프로비던스의 축복받은 눈은 V 모델들의 기동력으로도 통과하지 못하는 고출력의 에너지 빔을 발사하므로, 이들의 빔을 전적으로 회피할 수밖에 없다.",
     "enemyBios_providence_strategy2": "프로비던스들의 민첩성 때문에 공격 중 위플래시를 맞추는 것은 불가능하므로, 다른 이동 수단을 이용하여 이들에게 접근하는 수밖에 없다.",
     "enemyBios_providence_strategy3": "프로비던스의 개방적 신체구조는 로켓 런처에 의한 내파에 특히 취약하며, 지속적으로 공격을 명중시키는 것이 난해할 경우 어트랙터 네일건의 자석으로 로켓을 유도할 수 있다.",
+    "enemyBios_providence_strategy4": "In particular, the SRS Cannon's cannonball can shatter them in a single hit when fired at full power.",
     "enemyBios_power_1": "여느 대천사들과 같이 가브리엘은 그 명철함으로 수많은 추종자들을 고무하였으며, 그 가운데 가장 수효가 많았던 것은 그의 제자를 자처했던 파워들이었다.",
     "enemyBios_power_2": "자신들의 불완전한 몸에 수치를 느낀 이들은, 자신의 에너지의 일부를 사용하여 항상 쓸모없는 황금의 팔을 휴대하며, 그들이 되고자 하는 완연한 형체의 대천사들과 더 비슷하게 보이려 한다.",
     "enemyBios_power_3": "천상의 문화가 유미적이고 호화로운 사조로 전회할 때에도 가브리엘은 기율을 지켜 옛것의 단순한 갑옷만을 고수하였다. 파워들은 처음에 그의 복식을 따라갔지만, 가브리엘이 지옥의 심판관으로 부임하며 자리를 비우자 점차 왕도에서 벗어나 또래 천사들의 허영도 받아들이게 되었다.",
@@ -1829,26 +1839,26 @@
     "enemyBios_geryon_3": "게리온의 의식들은 상호간 소통이 불가능하였음에도 하나의 목적을 추구한 결과 완벽한 조화를 이루어 협응하는 법을 학습했고, 부적합한 육체라는 한계를 넘어 가공할 만한 효율성으로 사냥할 수 있게 됐다.",
     "enemyBios_geryon_4": "아직 검증되지 않은 재야 이론에 불과하지만, 일각에서는 게리온의 놀라운 성장은 다른 악마들과의 동기의 차이에서 비롯하였을지도 모른다고 주장한다. 어쩌면 게리온의 사냥은 실력의 경연이 아니라, 죄인들의 고통의 해방에 연원을 둘지도 모른다는 것이다.",
     "enemyBios_geryon_strategy1": "게리온은 다중 의식을 지녀 다수의 복잡한 작업을 동시에 수행하는 놀라운 능력을 보유하고 있어, 공격을 이어가는 중에 근접한 위험 요인으로부터 스스로를 보호할 수 있으므로 접근이 권장되지 않는다.",
-    "enemyBios_geryon_strategy3": "게리온의 신체에서 찰나의 순간 동안 혈액을 채취하는 것이 불가능해 보이겠지만, 해당 구역에 존재하는 프로비던스들이 작은 영혼 오브를 남기기에 전투 도중 회복을 위해 도시락처럼 현명하게 사용할 수 있다.",
     "enemyBios_geryon_strategy2": "놀라운 기량을 뽐내며 활동하는 게리온이지만, 그 신체는 생리적 및 심리적 응집성을 적절히 담보하는 것이 불가능하다. 녀석이 지속적인 스트레스를 받아 과열되면 화망에 무방비로 노출된다.",
+    "enemyBios_geryon_strategy3": "게리온의 신체에서 찰나의 순간 동안 혈액을 채취하는 것이 불가능해 보이겠지만, 해당 구역에 존재하는 프로비던스들이 작은 영혼 오브를 남기기에 전투 도중 회복을 위해 도시락처럼 현명하게 사용할 수 있다.",
     "enemyBios_mirrorReaper_1": "지옥의 8층은 그 환영 같은 특성 때문에 알려진 것이 거의 없다. 그곳의 형벌조차도 미스터리에 싸여 있다.",
     "enemyBios_mirrorReaper_2": "지상의 '신평화' 사회를 그림처럼 재현해 놓은 듯한 이 층에 장기간 노출되면, 결국 감각 정보와 물리적 공간이 완전히 붕괴되며, 그 이후에는 모든 연결이 단절된다.",
     "enemyBios_mirrorReaper_3": "이곳의 유일한 단서는 파악하기 힘든 '미러 리퍼'뿐이다. 다수의 허스크들이 교묘하고 뒤틀린 방식으로 뭉쳐진 이 융합체는 종종 반사되는 곳과 같은 공간의 틈새에 존재하는 것처럼 보이며, 그 이름 또한 여기서 유래되었다.",
     "enemyBios_mirrorReaper_4": "이 사례를 통해 8층 거주자들의 운명이 어떻게 되었는지 결론을 도출해 볼 수도 있겠지만, 명심해야 할 점은 이 개체가 지금까지 발견된 유일한 사례라는 것이다. 이는 이곳의 다른 모든 이들에게 일어난 일이 이보다 훨씬, 훨씬 더 끔찍했음을 암시할 수 있다.",
     "enemyBios_mirrorReaper_strategy1": "미러 리퍼는 거대한 크기와 빠른 속도를 지닌 위협적인 상대지만, 움직임을 정밀하게 제어하지는 못하므로 몸집이 작은 상대가 녀석의 공격 궤도 밑으로 파고들어 회피하기 유리하다.",
     "enemyBios_mirrorReaper_strategy2": "미러 리퍼가 도망칠 때, 녀석이 소환하는 손들의 근원지를 역으로 따라가면 본체를 찾아낼 수 있다.",
-    "enemyBios_mirrorReaper_strategy3": "치명적인 위험에 처하면 미러 리퍼는 공간의 틈새로 도망칠 수 있으며, 이 상태에서는 반사되는 물체를 통해서만 녀석을 볼 수 있다.",
+    "enemyBios_mirrorReaper_strategy3": "The summoned hands can be destroyed with projectiles, but explosions do not damage them.",
+    "enemyBios_mirrorReaper_strategy4": "치명적인 위험에 처하면 미러 리퍼는 공간의 틈새로 도망칠 수 있으며, 이 상태에서는 반사되는 물체를 통해서만 녀석을 볼 수 있다.",
     "enemyBios_deathcatcher_1": "지옥 저편의 눈들은 우상의 형성을 흡족하게 관찰하면서, 쓸모없는 생명을 아름다운 존재로 조탁하는 유사한 과정을 시도하기에 이르렀다.",
     "enemyBios_deathcatcher_2": "그러나, 그 결과물은 결코 같다고는 말할 수 없었다. 창조주가 품은 끝없는 악의가 그 몸속에 스민 결과, 데스캐처들은 제 껍데기로 이를 품지 못하고 부서져 활짝 열려 버렸기 때문이다.",
     "enemyBios_deathcatcher_3": "받은 적 없는 사랑을 나눌 수는 없는 노릇이기에, 데스캐처들은 그 누구도 보호할 수 없다. 고작 그러한 보호의 공허한 시도에 의해 영영 사라진 자들의 저열한 캐리커처만을 혈액에서 침출시키고선, 그 형상을 조종해 과거의 행동을 지속하게끔 만들면서 그들이 여전히 남아 있으며 구원받을 수 있었다는 사실만을 가장할 뿐이다.",
-    "enemyBios_deathcatcher_4": null,
     "enemyBios_deathcatcher_strategy1": "퍼펫들은 모방하고 있는 생명체들에 비해 느린 데다 맷집은 절반밖에 안 된다.",
     "enemyBios_deathcatcher_strategy2": "퍼펫들로부터 스타일 점수를 얻지는 못하지만, 이들의 혈액을 이용해서 체력을 회복할 수 있어 약한 퍼펫들을 응급처치 수단으로 삼을 수 있다.",
     "enemyBios_deathcatcher_strategy3": "데스캐처는 맥동할 때마다 근처의 죽은 적군으로 퍼펫을 생성하나, 맥박이 돌아오기까지는 시간이 걸린다. 까다로운 퍼펫을 처리하면서도 그 부활까지 걸리는 시간을 극대화하는 데는 데스캐처의 심장이 막 뛰었을 때가 최적기다."
   },
   "shop": {
     "shop_tipofthedayTitle": "오늘의 팁",
-    "shop_tipoftheday": null,
+    "shop_tipoftheday": "",
     "shop_menu": "메뉴",
     "shop_weapons": "무기",
     "shop_monsters": "몬스터",
@@ -1860,6 +1870,7 @@
     "shop_lotsOfMoney": "말 그대로, 아주 많은 ",
     "shop_equipped": "장착",
     "shop_unequipped": "미장착",
+    "shop_alternate": "얼터네이트",
     "shop_cybergrindDescription1": "<color=#FF4343>사이버 그라인드</color>는 끝없는 전투를 펼치는 생존 모드입니다.",
     "shop_cybergrindDescription2": "좋은 성적을 낼 수록 더 많은 <color=#FF4343>포인트</color>를 얻을 수 있습니다.",
     "shop_cybergrindDescription3": "<color=#FF4343>지금 시작하면 현재 임무의 진행 상황이 손실됩니다.</color>",
@@ -2035,7 +2046,7 @@
     "shop_colorsCustom": "사용자 지정",
     "shop_colorsDone": "완료",
     "shop_colorsStandard": "기본",
-    "shop_colorsAlternative": "얼터네이트",
+    "shop_colorsAlternate": "얼터네이트",
     "shop_colorsCustomUnlockPrompt": "사용자 지정 색상 잠금 해제 "
   },
   "levelTips": {
@@ -2085,26 +2096,27 @@
     "leveltips_fraudSecond": "<color=#FF4343>퍼펫</color>은 처치 수나 스타일 포인트를 제공하지 않지만, 그들의 <color=#FF4343>피</color>는 여전히 <color=#FF4343>회복</color>에 사용할 수 있습니다.",
     "leveltips_fraudThird": "<color=#FF4343>강한 적</color>과 맞설 때는, 주의를 분산시키는 <color=#FF4343>잡몹</color>을 먼저 정리하는 것이 유리할 수 있습니다.",
     "leveltips_fraudFourth": "때로는 가까이 붙기 전에, <color=#FF4343>거리를 유지</color>하며 빈틈이 생길 때까지 <color=#FF4343>기다리는 것</color>이 더 유리할 수 있습니다.",
-    "leveltips_treacheryFirst": null,
-    "leveltips_treacherySecond": null,
+    "leveltips_treacheryFirst": "",
+    "leveltips_treacherySecond": "",
     "leveltips_encorePrelude1": "특정 적들과의 교전에서 <color=#FF4343>난항</color>을 겪고 있다면, 잠시 고민한 뒤 <color=#FF4343>선택과 집중</color>을 하시기 바랍니다.",
     "leveltips_encorePrelude2": "이를테면 일정한 <color=#FF4343>기술</color>이나, <color=#FF4343>도구</color>, 혹은 <color=#FF4343>우선순위의 변경</color>이 입맛에 맞는 선택을 결정할 수 있습니다.",
     "leveltips_encoreLimbo": "적 점프: 공중에서 적 가까이 적을 밟고 뛰어오를 수 있습니다. 이러면 착지하지 않고도 가능한 벽차기의 횟수가 초기화됩니다.",
-    "leveltips_encoreLust": null,
-    "leveltips_encoreGluttony": null,
-    "leveltips_encoreGreed": null,
-    "leveltips_encoreWrath": null,
-    "leveltips_encoreHeresy": null,
-    "leveltips_encoreViolence": null,
-    "leveltips_encoreFraud": null,
-    "leveltips_encoreTreachery": null,
+    "leveltips_encoreLust": "",
+    "leveltips_encoreGluttony": "",
+    "leveltips_encoreGreed": "",
+    "leveltips_encoreWrath": "",
+    "leveltips_encoreHeresy": "",
+    "leveltips_encoreViolence": "",
+    "leveltips_encoreFraud": "",
+    "leveltips_encoreTreachery": "",
     "leveltips_primeFirst1": "<color=#FF4343>패링</color>은 매우 강력한 회복 수단이 될 수 있습니다.",
     "leveltips_primeFirst2": "적의 발사체나 근거리 공격을 막아내면 하드 대미지 한도까지 <color=red>체력을 충분히 보충</color>할 수 있습니다.",
     "leveltips_primeSecond": "즐 기 세 요 .",
-    "leveltips_primeThird": null,
+    "leveltips_primeThird": "",
     "leveltips_cybergrind": "만약 사이버 그라인드의 경기장에서 너무 멀리 날아갔다면, <color=green>펌프 차지</color>의 과충전은 되돌아오기에 좋은 방법 중 하나입니다.",
     "leveltips_sandbox1": "<color=#FF4343>치트</color>는 다음 키를 입력해서 다른 레벨에서도 사용할 수 있습니다.",
-    "leveltips_sandbox2": "치트를 활성화하면 랭크가 비활성화됩니다.",
+    "leveltips_sandbox2": "B A",
+    "leveltips_sandbox3": "치트를 활성화하면 랭크가 비활성화됩니다.",
     "leveltips_devMuseum": "박물관의 <color=#FF4343>2층</color>에서 <color=#FF4343>삭제된 무기들</color>를 사용해볼 수 있습니다."
   },
   "books": {
@@ -2204,7 +2216,8 @@
     "books_fraudThird2_4": "루 시 퍼 , 나 의 사 랑 아 . . .",
     "books_fraudThird2_5": "내 필히 그대에게 선사하리다, 존재할 수 있는 모든 고통을,",
     "books_fraudThird2_6": "그리고 존재할 수 없는 수많은 고통을.",
-    "books_fraudThird2_7": "책의 페이지는 전부 비어 있다."
+    "books_fraudThird2_7": "책의 페이지는 전부 비어 있다.",
+    "books_audioError": "ERROR: IMPOSSIBLE TO BUILD A SPEECH PATTERN"
   },
   "visualnovel": {
     "visualnovel_mirageName1": "누군가",
@@ -2360,8 +2373,8 @@
     "visualnovel_nihilismPrompt21": "넌 치유될 수 있어.",
     "visualnovel_nihilismPrompt22": "그리고 가장 힘든 시간에도, 가진 게 아무 것도 없고 포기하고 싶다는 생각이 들 때, 잊지 말아줘...",
     "visualnovel_nihilismPrompt23": "우린 언제나 너를 사랑한다는 걸.",
-    "visualnovel_nihilismPrompt24": null,
-    "visualnovel_nihilismPrompt25": null,
+    "visualnovel_nihilismPrompt24": "",
+    "visualnovel_nihilismPrompt25": "",
     "visualnovel_conclusion1": "와, 세상에나!.",
     "visualnovel_conclusion2": "네 어깨 위에 달린 게 장식은 아닌가 보네.",
     "visualnovel_conclusion3": "젠장, 나 감동했어.",
@@ -2391,7 +2404,6 @@
     "subtitles_gabriel_intro6": "아버지의 정의로운 오른팔로서,",
     "subtitles_gabriel_intro7": "네놈을 직접 찢어발겨 주마!",
     "subtitles_gabriel_intro8": "그리고 네놈은 다시금 움직이지 않게 될 지어다...",
-    "subtitles_gabriel_intro9": null,
     "subtitles_gabriel_fightStart": "보아라! 천사의 힘을!",
     "subtitles_gabriel_taunt1": "빛은 완벽하다!",
     "subtitles_gabriel_taunt2": "빛을 거역하지 말지어다!",
@@ -2452,7 +2464,7 @@
     "subtitles_minosPrime_defeated2": "용서해주게, 나의 아이들아...",
     "subtitles_minosPrime_defeated3": "내가 너희들을 이 차갑고 어두운 세상으로부터...",
     "subtitles_minosPrime_defeated4": "...구원해 주지 못했으니.",
-    "subtitles_minosPrime_deathScream": null,
+    "subtitles_minosPrime_deathScream": "아악!",
     "subtitles_sisyphusPrime_preIntro1": "이딴 감옥으로...",
     "subtitles_sisyphusPrime_preIntro2": "나를...",
     "subtitles_sisyphusPrime_preIntro3": "막겠다고?",
@@ -2535,7 +2547,6 @@
     "subtitles_gabrielSecondDefeated9": "우리는 언젠가 다시 만날 것이다. 기계여.",
     "subtitles_gabrielSecondDefeated10": "너의 고통은 많고...",
     "subtitles_gabrielSecondDefeated11": "...너의 날은 적기를.",
-    "subtitles_gabrielSecondDefeated12": null,
     "subtitles_power_intro_0": "전율하라, 기계여!",
     "subtitles_power_intro_1": "이곳이 바로 네놈의 무덤이다.",
     "subtitles_power_intro_2": "이젠 끝이다, 기계여!",
@@ -2550,7 +2561,6 @@
     "subtitles_power_taunt_1": "네놈은 눈엣가시에 지나지 않아!",
     "subtitles_power_taunt_2": "내 시간이 아까울 따름이다!",
     "subtitles_power_taunt_3": "무가치한 물체에 불과할 뿐이지.",
-    "subtitles_power_taunt_4": null,
     "subtitles_power_cheapShot_0": "더 집중해라!",
     "subtitles_power_cheapShot_1": "네놈의 차례는 아직이다!",
     "subtitles_power_cheapShot_2": "상대를 잘못 골랐어!",
@@ -2905,7 +2915,349 @@
     "earlyAccessEnd2": "마지막 층, 배신은 아직 개발 중입니다.",
     "earlyAccessEnd3": "개발의 진행도는 아래에서 확인해 보세요!",
     "violenceScreenText1": "이 게임에는 노골적인 폭력과\n잔인한 장면이 포함되어 있습니다.</size>",
-    "violenceScreenText2": "이 게임에는 노골적인 <color=red>폭력</color>과\n<color=red>잔인한</color> 장면이 포함되어 있습니다.</size>"
+    "violenceScreenText2": "이 게임에는 노골적인 <color=red>폭력</color>과\n<color=red>잔인한</color> 장면이 포함되어 있습니다.</size>",
+    "teleportLevels": {
+      "Level 0-1": {
+        "First Room": "First Room",
+        "Boss Checkpoint": "Boss Checkpoint",
+        " Projectile Zombies Room": " Projectile Zombies Room",
+        " Combo Hallway": " Combo Hallway",
+        " Glass Intro": " Glass Intro",
+        " Projectile Arena": " Projectile Arena"
+      },
+      "Level 0-2": {
+        "First Room": "First Room",
+        " Swordsmachine Hallway": " Swordsmachine Hallway",
+        " Crusher Hallway": " Crusher Hallway",
+        " Swordsmachine Arena Hallway": " Swordsmachine Arena Hallway"
+      },
+      "Level 0-3": {
+        "First Room": "First Room",
+        " First Encounter": " First Encounter",
+        " Menacing Room": " Menacing Room",
+        " Windtunnel": " Windtunnel",
+        " Second Encounter": " Second Encounter"
+      },
+      "Level 0-4": {
+        "First Room": "First Room",
+        " Pipes Hallway": " Pipes Hallway",
+        " Stairs Hallway": " Stairs Hallway"
+      },
+      "Level 0-5": {
+        "First Room": "First Room",
+        " Smallway": " Smallway"
+      },
+      "Level 0-S": {
+        "First Room": "First Room"
+      },
+      "Level 1-1": {
+        "First Room": "First Room",
+        " Blue Skull Room": " Blue Skull Room",
+        " Hall": " Hall",
+        " Corner Hallway": " Corner Hallway",
+        " Castle Entrance Corridor": " Castle Entrance Corridor"
+      },
+      "Level 1-2": {
+        "First Room": "First Room",
+        " Upper Way": " Upper Way",
+        " Upper Way (2)": " Upper Way (2)",
+        " Castle Entrance": " Castle Entrance"
+      },
+      "Level 1-3": {
+        "First Room": "First Room",
+        " Courtyard": " Courtyard",
+        " Blue Hallway": " Blue Hallway",
+        " Final Arena": " Final Arena",
+        " Second Arena": " Second Arena",
+        " Courtyard (2)": " Courtyard (2)",
+        "B1-D Lava Hallway": "B1-D Lava Hallway",
+        " Secret Fight": " Secret Fight",
+        " Tall Room": " Tall Room"
+      },
+      "Level 1-4": {
+        "First Room": "First Room",
+        " Main Hall": " Main Hall",
+        " Arena": " Arena"
+      },
+      "Level 1-S": {
+        "First Room": "First Room"
+      },
+      "Level 2-1": {
+        "First Room": "First Room",
+        " Outdoors Arenas": " Outdoors Arenas",
+        " Tower 1": " Tower 1"
+      },
+      "Level 2-2": {
+        "First Room": "First Room",
+        " Generator Room": " Generator Room",
+        " Second District": " Second District",
+        " First District": " First District",
+        " Laser Walkway": " Laser Walkway"
+      },
+      "Level 2-3": {
+        "First Room": "First Room",
+        " Arena 2": " Arena 2",
+        "1-2 Connector": "1-2 Connector",
+        " Final Arena": " Final Arena",
+        "1-2 Connector (2)": "1-2 Connector (2)",
+        "3-2 Connector": "3-2 Connector"
+      },
+      "Level 2-4": {
+        "First Room": "First Room",
+        " First Encounter": " First Encounter",
+        " Second Encounter": " Second Encounter"
+      },
+      "Level 2-S": {
+        "First Room": "First Room"
+      },
+      "Level 3-1": {
+        "First Room": "First Room",
+        " Uphill Battle": " Uphill Battle",
+        " Big Arena": " Big Arena",
+        " Mouth Tunnel": " Mouth Tunnel",
+        " Stairways": " Stairways",
+        " Bridge Arena": " Bridge Arena"
+      },
+      "Level 3-2": {
+        "First Room": "First Room",
+        " Heart Chamber": " Heart Chamber"
+      },
+      "Level 4-1": {
+        "First Room": "First Room",
+        " Staircase Arena": " Staircase Arena",
+        " Platforms": " Platforms",
+        " Tower": " Tower",
+        " Interior Hallway 2": " Interior Hallway 2",
+        " Virtue Arena": " Virtue Arena"
+      },
+      "Level 4-2": {
+        "First Room": "First Room",
+        " Boss Arena": " Boss Arena",
+        " Temple Entrance": " Temple Entrance",
+        " More Platforming": " More Platforming",
+        " Solarium": " Solarium"
+      },
+      "Level 4-3": {
+        "First Room": "First Room",
+        " Traitor Hallway": " Traitor Hallway",
+        "Stairs Hallway": "Stairs Hallway",
+        " Generator Room Hallway": " Generator Room Hallway"
+      },
+      "Level 4-4": {
+        "First Room": "First Room",
+        " Boss Entrance": " Boss Entrance"
+      },
+      "Level 4-S": {
+        "First Room": "First Room",
+        " Basics": " Basics",
+        " Basics (2)": " Basics (2)",
+        " Basics (3)": " Basics (3)",
+        " Inside": " Inside",
+        " Inside (2)": " Inside (2)",
+        " Distant Sidescroller": " Distant Sidescroller",
+        " Boulder Run": " Boulder Run"
+      },
+      "Level 5-1": {
+        "First Room": "First Room",
+        " Water Processing Chamber": " Water Processing Chamber",
+        " Main Cave": " Main Cave",
+        "Tunnel C": "Tunnel C",
+        " Elevator": " Elevator",
+        "Tunnel A": "Tunnel A",
+        "Tunnel B": "Tunnel B"
+      },
+      "Level 5-2": {
+        "First Room": "First Room",
+        " Broken Pier": " Broken Pier",
+        " Fort": " Fort",
+        " Dark Hallway": " Dark Hallway"
+      },
+      "Level 5-3": {
+        "First Room": "First Room",
+        " Dual Wield Arena (Sunken)": " Dual Wield Arena (Sunken)",
+        " Staircase (Sunken)": " Staircase (Sunken)",
+        " L Hallway": " L Hallway",
+        " Lounge Bar": " Lounge Bar",
+        " Residence Corridor": " Residence Corridor",
+        " Hologram Room": " Hologram Room"
+      },
+      "Level 5-4": {
+        "First Room": "First Room",
+        "Surface": "Surface"
+      },
+      "Level 5-S": {
+        "First Room": "First Room"
+      },
+      "Level 6-1": {
+        "First Room": "First Room",
+        " City Skyline": " City Skyline",
+        " Chapel (Entrance)": " Chapel (Entrance)",
+        " Hall of Sacreligious Remains": " Hall of Sacreligious Remains",
+        " Crossroads": " Crossroads",
+        " Lava Chasm": " Lava Chasm"
+      },
+      "Level 6-2": {
+        "First Room": "First Room",
+        " Organ Hall": " Organ Hall"
+      },
+      "Level 7-1": {
+        "First Room": "First Room",
+        " Underground Tunnels": " Underground Tunnels",
+        " Pillar Hall": " Pillar Hall",
+        "Mannequin Room": "Mannequin Room",
+        "Walkway Arena": "Walkway Arena"
+      },
+      "Level 7-2": {
+        "First Room": "First Room",
+        " Corner Staircase": " Corner Staircase",
+        " Outdoors Start": " Outdoors Start",
+        " Tram Station": " Tram Station",
+        " Bomb Station": " Bomb Station",
+        " Forgotten Archive": " Forgotten Archive"
+      },
+      "Level 7-3": {
+        "First Room": "First Room",
+        " Forest Path": " Forest Path",
+        " Central Plaza Upper": " Central Plaza Upper",
+        " Circular Garden": " Circular Garden",
+        " Grand Hall": " Grand Hall"
+      },
+      "Level 7-4": {
+        "First Room": "First Room",
+        "Leg": "Leg",
+        "Front": "Front",
+        "Back": "Back",
+        "Interior": "Interior",
+        "Brain": "Brain"
+      },
+      "Level 7-S": {
+        "First Room": "First Room",
+        "Lounge": "Lounge",
+        "Library": "Library",
+        "Courtyard": "Courtyard",
+        "Fake Exit": "Fake Exit"
+      },
+      "Level 8-1": {
+        "First Room": "First Room",
+        " TV Room / Hotel Hallway": " TV Room / Hotel Hallway",
+        "  Fountain Room": "  Fountain Room",
+        " Stretch Room": " Stretch Room",
+        "Outside": "Outside",
+        " Busted Hotel Rooms": " Busted Hotel Rooms",
+        " Fake Floor Arena": " Fake Floor Arena",
+        "building Arena": "building Arena"
+      },
+      "Level 8-2": {
+        "First Room": "First Room",
+        " Mirror Reaper Arena": " Mirror Reaper Arena",
+        "Shaped Hallway": "Shaped Hallway",
+        " Supermarket Shutters": " Supermarket Shutters",
+        "Down Hallway": "Down Hallway",
+        " Hub": " Hub",
+        " Storage Room": " Storage Room",
+        " Island": " Island",
+        " Crossroad": " Crossroad"
+      },
+      "Level 8-3": {
+        "First Room": "First Room",
+        " Space Tree": " Space Tree",
+        " Space Mass": " Space Mass",
+        " Space Streets": " Space Streets",
+        "Space": "Space",
+        " Shifting Hallway": " Shifting Hallway",
+        " Fallway": " Fallway",
+        " Heart Chamber": " Heart Chamber",
+        " Garage Loop": " Garage Loop",
+        " Split Color Door": " Split Color Door",
+        " Dimensional Cave": " Dimensional Cave",
+        " Folded Hallway": " Folded Hallway",
+        " Clockwork Crushers": " Clockwork Crushers",
+        " Clockwork Climb": " Clockwork Climb"
+      },
+      "Level 8-4": {
+        "First Room": "First Room",
+        "Elevator": "Elevator"
+      },
+      "Level 8-S": {
+        "First Room": "First Room"
+      },
+      "Level 9-1": {
+        "First Room": "First Room"
+      },
+      "Level 9-2": {
+        "First Room": "First Room"
+      },
+      "Level P-1": {
+        "First Room": "First Room",
+        " Inner Sanctum": " Inner Sanctum"
+      },
+      "Level P-2": {
+        "First Room": "First Room",
+        "Intro": "Intro",
+        " Bridge Street": " Bridge Street",
+        " Idol Arena": " Idol Arena",
+        " Last Arena": " Last Arena",
+        " Boss Arena": " Boss Arena"
+      },
+      "Level P-3": {
+        "First Room": "First Room"
+      },
+      "Level 0-E": {
+        "First Room": "First Room",
+        " First Encounter": " First Encounter",
+        " Fans Staircase": " Fans Staircase",
+        " Combo Hallway": " Combo Hallway",
+        " Tube Hallways": " Tube Hallways",
+        " Crossroads": " Crossroads",
+        " Projectile Zombies Room": " Projectile Zombies Room",
+        " Projectile Arena": " Projectile Arena",
+        " Boss Arena": " Boss Arena",
+        " Lava Foundry": " Lava Foundry",
+        " Menacing Room": " Menacing Room",
+        " Hallway": " Hallway",
+        " Crossroads (2)": " Crossroads (2)"
+      },
+      "Level 1-E": {
+        "First Room": "First Room",
+        " Opener": " Opener",
+        " Waterfall Arena / Altar Field": " Waterfall Arena / Altar Field",
+        " Prelude Hallway": " Prelude Hallway",
+        " Waterfall Arena / Altar Field (2)": " Waterfall Arena / Altar Field (2)",
+        " Castle Entrance": " Castle Entrance",
+        " Lava Staircase": " Lava Staircase",
+        " Stairs Hallway / Castle Entrance": " Stairs Hallway / Castle Entrance"
+      },
+      "Level 2-E": {
+        "First Room": "First Room"
+      },
+      "Level 3-E": {
+        "First Room": "First Room"
+      },
+      "Level 4-E": {
+        "First Room": "First Room"
+      },
+      "Level 5-E": {
+        "First Room": "First Room"
+      },
+      "Level 6-E": {
+        "First Room": "First Room"
+      },
+      "Level 7-E": {
+        "First Room": "First Room"
+      },
+      "Level 8-E": {
+        "First Room": "First Room"
+      },
+      "Level 9-E": {
+        "First Room": "First Room"
+      },
+      "Endless": {
+        "First Room": "First Room"
+      },
+      "CreditsMuseum2": {
+        "First Room": "First Room"
+      }
+    }
   },
   "inputStrings": {
     "input_space": "Space",
