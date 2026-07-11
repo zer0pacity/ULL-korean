@@ -1825,7 +1825,7 @@
     "enemyBios_providence_strategy1": "프로비던스의 축복받은 눈은 V 모델들의 기동력으로도 통과하지 못하는 고출력의 에너지 빔을 발사하므로, 이들의 빔을 전적으로 회피할 수밖에 없다.",
     "enemyBios_providence_strategy2": "프로비던스들의 민첩성 때문에 공격 중 위플래시를 맞추는 것은 불가능하므로, 다른 이동 수단을 이용하여 이들에게 접근하는 수밖에 없다.",
     "enemyBios_providence_strategy3": "프로비던스의 개방적 신체구조는 로켓 런처에 의한 내파에 특히 취약하며, 지속적으로 공격을 명중시키는 것이 난해할 경우 어트랙터 네일건의 자석으로 로켓을 유도할 수 있다.",
-    "enemyBios_providence_strategy4": "In particular, the SRS Cannon's cannonball can shatter them in a single hit when fired at full power.",
+    "enemyBios_providence_strategy4": "특히, SRS 캐논의 대포알을 최대 충전 후 발사해 맞췄을 때 이들을 단번에 죽일 수 있다.",
     "enemyBios_power_1": "여느 대천사들과 같이 가브리엘은 그 명철함으로 수많은 추종자들을 고무하였으며, 그 가운데 가장 수효가 많았던 것은 그의 제자를 자처했던 파워들이었다.",
     "enemyBios_power_2": "자신들의 불완전한 몸에 수치를 느낀 이들은, 자신의 에너지의 일부를 사용하여 항상 쓸모없는 황금의 팔을 휴대하며, 그들이 되고자 하는 완연한 형체의 대천사들과 더 비슷하게 보이려 한다.",
     "enemyBios_power_3": "천상의 문화가 유미적이고 호화로운 사조로 전회할 때에도 가브리엘은 기율을 지켜 옛것의 단순한 갑옷만을 고수하였다. 파워들은 처음에 그의 복식을 따라갔지만, 가브리엘이 지옥의 심판관으로 부임하며 자리를 비우자 점차 왕도에서 벗어나 또래 천사들의 허영도 받아들이게 되었다.",
@@ -1847,7 +1847,7 @@
     "enemyBios_mirrorReaper_4": "이 사례를 통해 8층 거주자들의 운명이 어떻게 되었는지 결론을 도출해 볼 수도 있겠지만, 명심해야 할 점은 이 개체가 지금까지 발견된 유일한 사례라는 것이다. 이는 이곳의 다른 모든 이들에게 일어난 일이 이보다 훨씬, 훨씬 더 끔찍했음을 암시할 수 있다.",
     "enemyBios_mirrorReaper_strategy1": "미러 리퍼는 거대한 크기와 빠른 속도를 지닌 위협적인 상대지만, 움직임을 정밀하게 제어하지는 못하므로 몸집이 작은 상대가 녀석의 공격 궤도 밑으로 파고들어 회피하기 유리하다.",
     "enemyBios_mirrorReaper_strategy2": "미러 리퍼가 도망칠 때, 녀석이 소환하는 손들의 근원지를 역으로 따라가면 본체를 찾아낼 수 있다.",
-    "enemyBios_mirrorReaper_strategy3": "The summoned hands can be destroyed with projectiles, but explosions do not damage them.",
+    "enemyBios_mirrorReaper_strategy3": "소환된 손들은 투사체로 파괴할 수 있으나, 폭발에는 부서지지 않는다.",
     "enemyBios_mirrorReaper_strategy4": "치명적인 위험에 처하면 미러 리퍼는 공간의 틈새로 도망칠 수 있으며, 이 상태에서는 반사되는 물체를 통해서만 녀석을 볼 수 있다.",
     "enemyBios_deathcatcher_1": "지옥 저편의 눈들은 우상의 형성을 흡족하게 관찰하면서, 쓸모없는 생명을 아름다운 존재로 조탁하는 유사한 과정을 시도하기에 이르렀다.",
     "enemyBios_deathcatcher_2": "그러나, 그 결과물은 결코 같다고는 말할 수 없었다. 창조주가 품은 끝없는 악의가 그 몸속에 스민 결과, 데스캐처들은 제 껍데기로 이를 품지 못하고 부서져 활짝 열려 버렸기 때문이다.",
@@ -2918,344 +2918,344 @@
     "violenceScreenText2": "이 게임에는 노골적인 <color=red>폭력</color>과\n<color=red>잔인한</color> 장면이 포함되어 있습니다.</size>",
     "teleportLevels": {
       "Level 0-1": {
-        "First Room": "First Room",
-        "Boss Checkpoint": "Boss Checkpoint",
-        " Projectile Zombies Room": " Projectile Zombies Room",
-        " Combo Hallway": " Combo Hallway",
-        " Glass Intro": " Glass Intro",
-        " Projectile Arena": " Projectile Arena"
+        "First Room": "최초의 방",
+        "Boss Checkpoint": "보스 체크포인트",
+        " Projectile Zombies Room": " 투사체 좀비 방",
+        " Combo Hallway": " 콤보 통로",
+        " Glass Intro": " 유리창 조우",
+        " Projectile Arena": " 투사체 아레나"
       },
       "Level 0-2": {
-        "First Room": "First Room",
-        " Swordsmachine Hallway": " Swordsmachine Hallway",
-        " Crusher Hallway": " Crusher Hallway",
-        " Swordsmachine Arena Hallway": " Swordsmachine Arena Hallway"
+        "First Room": "최초의 방",
+        " Swordsmachine Hallway": " 소드머신 통로",
+        " Crusher Hallway": " 압착기 통로",
+        " Swordsmachine Arena Hallway": " 소드머신 아레나 통로"
       },
       "Level 0-3": {
-        "First Room": "First Room",
-        " First Encounter": " First Encounter",
-        " Menacing Room": " Menacing Room",
-        " Windtunnel": " Windtunnel",
-        " Second Encounter": " Second Encounter"
+        "First Room": "최초의 방",
+        " First Encounter": " 첫 번째 조우",
+        " Menacing Room": " 위협적인 방",
+        " Windtunnel": " 환풍구",
+        " Second Encounter": " 두 번째 조우"
       },
       "Level 0-4": {
-        "First Room": "First Room",
-        " Pipes Hallway": " Pipes Hallway",
-        " Stairs Hallway": " Stairs Hallway"
+        "First Room": "최초의 방",
+        " Pipes Hallway": " 파이프 통로",
+        " Stairs Hallway": " 계단 통로"
       },
       "Level 0-5": {
-        "First Room": "First Room",
-        " Smallway": " Smallway"
+        "First Room": "최초의 방",
+        " Smallway": " 개구멍"
       },
       "Level 0-S": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 1-1": {
-        "First Room": "First Room",
-        " Blue Skull Room": " Blue Skull Room",
+        "First Room": "최초의 방",
+        " Blue Skull Room": " 푸른 해골 방",
         " Hall": " Hall",
-        " Corner Hallway": " Corner Hallway",
-        " Castle Entrance Corridor": " Castle Entrance Corridor"
+        " Corner Hallway": " 모퉁이 통로",
+        " Castle Entrance Corridor": " 궁성 입구 회랑"
       },
       "Level 1-2": {
-        "First Room": "First Room",
-        " Upper Way": " Upper Way",
-        " Upper Way (2)": " Upper Way (2)",
-        " Castle Entrance": " Castle Entrance"
+        "First Room": "최초의 방",
+        " Upper Way": " 상부 통로",
+        " Upper Way (2)": " 상부 통로 (2)",
+        " Castle Entrance": " 궁성 입구"
       },
       "Level 1-3": {
-        "First Room": "First Room",
-        " Courtyard": " Courtyard",
-        " Blue Hallway": " Blue Hallway",
-        " Final Arena": " Final Arena",
-        " Second Arena": " Second Arena",
-        " Courtyard (2)": " Courtyard (2)",
-        "B1-D Lava Hallway": "B1-D Lava Hallway",
-        " Secret Fight": " Secret Fight",
-        " Tall Room": " Tall Room"
+        "First Room": "최초의 방",
+        " Courtyard": " 안뜰",
+        " Blue Hallway": " 푸른 해골 통로",
+        " Final Arena": " 마지막 아레나",
+        " Second Arena": " 두 번째 아레나",
+        " Courtyard (2)": " 안뜰 (2)",
+        "B1-D Lava Hallway": "B1-D 용암 통로",
+        " Secret Fight": " 시크릿 전투",
+        " Tall Room": " 천장 높은 방"
       },
       "Level 1-4": {
-        "First Room": "First Room",
-        " Main Hall": " Main Hall",
-        " Arena": " Arena"
+        "First Room": "최초의 방",
+        " Main Hall": " 중앙 회관",
+        " Arena": " 아레나"
       },
       "Level 1-S": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 2-1": {
-        "First Room": "First Room",
-        " Outdoors Arenas": " Outdoors Arenas",
-        " Tower 1": " Tower 1"
+        "First Room": "최초의 방",
+        " Outdoors Arenas": " 야외 아레나",
+        " Tower 1": " 탑 1"
       },
       "Level 2-2": {
-        "First Room": "First Room",
-        " Generator Room": " Generator Room",
-        " Second District": " Second District",
-        " First District": " First District",
-        " Laser Walkway": " Laser Walkway"
+        "First Room": "최초의 방",
+        " Generator Room": " 발전실",
+        " Second District": " 두 번째 구획",
+        " First District": " 첫 번째 구획",
+        " Laser Walkway": " 레이저 통로"
       },
       "Level 2-3": {
-        "First Room": "First Room",
-        " Arena 2": " Arena 2",
-        "1-2 Connector": "1-2 Connector",
-        " Final Arena": " Final Arena",
-        "1-2 Connector (2)": "1-2 Connector (2)",
-        "3-2 Connector": "3-2 Connector"
+        "First Room": "최초의 방",
+        " Arena 2": " 아레나 2",
+        "1-2 Connector": "1-2 중간 구역",
+        " Final Arena": " 마지막 아레나",
+        "1-2 Connector (2)": "1-2 중간 구역 (2)",
+        "3-2 Connector": "3-2 중간 구역"
       },
       "Level 2-4": {
-        "First Room": "First Room",
-        " First Encounter": " First Encounter",
-        " Second Encounter": " Second Encounter"
+        "First Room": "최초의 방",
+        " First Encounter": " 첫 번째 조우",
+        " Second Encounter": " 두 번째 조우"
       },
       "Level 2-S": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 3-1": {
-        "First Room": "First Room",
-        " Uphill Battle": " Uphill Battle",
-        " Big Arena": " Big Arena",
-        " Mouth Tunnel": " Mouth Tunnel",
-        " Stairways": " Stairways",
-        " Bridge Arena": " Bridge Arena"
+        "First Room": "최초의 방",
+        " Uphill Battle": " 오르막길 전투",
+        " Big Arena": " 거대 아레나",
+        " Mouth Tunnel": " 구강 터널",
+        " Stairways": " 계단",
+        " Bridge Arena": " 교량 아레나"
       },
       "Level 3-2": {
-        "First Room": "First Room",
-        " Heart Chamber": " Heart Chamber"
+        "First Room": "최초의 방",
+        " Heart Chamber": " 심장부"
       },
       "Level 4-1": {
-        "First Room": "First Room",
-        " Staircase Arena": " Staircase Arena",
-        " Platforms": " Platforms",
-        " Tower": " Tower",
-        " Interior Hallway 2": " Interior Hallway 2",
-        " Virtue Arena": " Virtue Arena"
+        "First Room": "최초의 방",
+        " Staircase Arena": " 계단참 아레나",
+        " Platforms": " 발판들",
+        " Tower": " 탑",
+        " Interior Hallway 2": " 실내 통로 2",
+        " Virtue Arena": " 버추 아레나"
       },
       "Level 4-2": {
-        "First Room": "First Room",
-        " Boss Arena": " Boss Arena",
-        " Temple Entrance": " Temple Entrance",
-        " More Platforming": " More Platforming",
-        " Solarium": " Solarium"
+        "First Room": "최초의 방",
+        " Boss Arena": " 보스 아레나",
+        " Temple Entrance": " 사원 입구",
+        " More Platforming": " 더 많은 파쿠르",
+        " Solarium": " 일광욕실"
       },
       "Level 4-3": {
-        "First Room": "First Room",
-        " Traitor Hallway": " Traitor Hallway",
-        "Stairs Hallway": "Stairs Hallway",
-        " Generator Room Hallway": " Generator Room Hallway"
+        "First Room": "최초의 방",
+        " Traitor Hallway": " 배신자 통로",
+        "Stairs Hallway": "계단 통로",
+        " Generator Room Hallway": " 발전실 통로"
       },
       "Level 4-4": {
-        "First Room": "First Room",
-        " Boss Entrance": " Boss Entrance"
+        "First Room": "최초의 방",
+        " Boss Entrance": " 보스 도입부"
       },
       "Level 4-S": {
-        "First Room": "First Room",
-        " Basics": " Basics",
-        " Basics (2)": " Basics (2)",
-        " Basics (3)": " Basics (3)",
-        " Inside": " Inside",
-        " Inside (2)": " Inside (2)",
-        " Distant Sidescroller": " Distant Sidescroller",
-        " Boulder Run": " Boulder Run"
+        "First Room": "최초의 방",
+        " Basics": " 기초",
+        " Basics (2)": " 기초 (2)",
+        " Basics (3)": " 기초 (3)",
+        " Inside": " 내부",
+        " Inside (2)": " 내부 (2)",
+        " Distant Sidescroller": " 원거리 횡스크롤",
+        " Boulder Run": " 왕바위 질주"
       },
       "Level 5-1": {
-        "First Room": "First Room",
-        " Water Processing Chamber": " Water Processing Chamber",
-        " Main Cave": " Main Cave",
-        "Tunnel C": "Tunnel C",
-        " Elevator": " Elevator",
-        "Tunnel A": "Tunnel A",
-        "Tunnel B": "Tunnel B"
+        "First Room": "최초의 방",
+        " Water Processing Chamber": " 수처리 시설",
+        " Main Cave": " 주 동굴",
+        "Tunnel C": "터널 C",
+        " Elevator": " 엘리베이터",
+        "Tunnel A": "터널 A",
+        "Tunnel B": "터널 B"
       },
       "Level 5-2": {
-        "First Room": "First Room",
-        " Broken Pier": " Broken Pier",
-        " Fort": " Fort",
-        " Dark Hallway": " Dark Hallway"
+        "First Room": "최초의 방",
+        " Broken Pier": " 부서진 잔교",
+        " Fort": " 요새",
+        " Dark Hallway": " 어두운 통로"
       },
       "Level 5-3": {
-        "First Room": "First Room",
-        " Dual Wield Arena (Sunken)": " Dual Wield Arena (Sunken)",
-        " Staircase (Sunken)": " Staircase (Sunken)",
-        " L Hallway": " L Hallway",
-        " Lounge Bar": " Lounge Bar",
-        " Residence Corridor": " Residence Corridor",
-        " Hologram Room": " Hologram Room"
+        "First Room": "최초의 방",
+        " Dual Wield Arena (Sunken)": " 듀얼 윌드 아레나 (침몰)",
+        " Staircase (Sunken)": " 계단 (침몰)",
+        " L Hallway": " L자 통로",
+        " Lounge Bar": " 라운지 바",
+        " Residence Corridor": " 객실 복도",
+        " Hologram Room": " 홀로그램 사영실"
       },
       "Level 5-4": {
-        "First Room": "First Room",
-        "Surface": "Surface"
+        "First Room": "최초의 방",
+        "Surface": "해수면"
       },
       "Level 5-S": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 6-1": {
-        "First Room": "First Room",
-        " City Skyline": " City Skyline",
-        " Chapel (Entrance)": " Chapel (Entrance)",
-        " Hall of Sacreligious Remains": " Hall of Sacreligious Remains",
-        " Crossroads": " Crossroads",
-        " Lava Chasm": " Lava Chasm"
+        "First Room": "최초의 방",
+        " City Skyline": " 도시의 지평선",
+        " Chapel (Entrance)": " 예배당 (입구)",
+        " Hall of Sacreligious Remains": " 독신하는 유적의 전당",
+        " Crossroads": " 교차로",
+        " Lava Chasm": " 용암 골짜기"
       },
       "Level 6-2": {
-        "First Room": "First Room",
-        " Organ Hall": " Organ Hall"
+        "First Room": "최초의 방",
+        " Organ Hall": " 오르간 방"
       },
       "Level 7-1": {
-        "First Room": "First Room",
-        " Underground Tunnels": " Underground Tunnels",
-        " Pillar Hall": " Pillar Hall",
-        "Mannequin Room": "Mannequin Room",
-        "Walkway Arena": "Walkway Arena"
+        "First Room": "최초의 방",
+        " Underground Tunnels": " 지하 터널",
+        " Pillar Hall": " 기둥 공간",
+        "Mannequin Room": "마네킹 방",
+        "Walkway Arena": "보도 아레나"
       },
       "Level 7-2": {
-        "First Room": "First Room",
-        " Corner Staircase": " Corner Staircase",
-        " Outdoors Start": " Outdoors Start",
-        " Tram Station": " Tram Station",
-        " Bomb Station": " Bomb Station",
-        " Forgotten Archive": " Forgotten Archive"
+        "First Room": "최초의 방",
+        " Corner Staircase": " 모퉁이 계단",
+        " Outdoors Start": " 야외 도입부",
+        " Tram Station": " 트램 정거장",
+        " Bomb Station": " 폭탄 정거장",
+        " Forgotten Archive": " 잊혀진 서고"
       },
       "Level 7-3": {
-        "First Room": "First Room",
-        " Forest Path": " Forest Path",
-        " Central Plaza Upper": " Central Plaza Upper",
-        " Circular Garden": " Circular Garden",
-        " Grand Hall": " Grand Hall"
+        "First Room": "최초의 방",
+        " Forest Path": " 숲 오솔길",
+        " Central Plaza Upper": " 중앙 광장 상부",
+        " Circular Garden": " 원형 정원",
+        " Grand Hall": " 대전당"
       },
       "Level 7-4": {
-        "First Room": "First Room",
-        "Leg": "Leg",
-        "Front": "Front",
-        "Back": "Back",
-        "Interior": "Interior",
-        "Brain": "Brain"
+        "First Room": "최초의 방",
+        "Leg": "다리",
+        "Front": "전면부",
+        "Back": "후면부",
+        "Interior": "내부",
+        "Brain": "두뇌"
       },
       "Level 7-S": {
-        "First Room": "First Room",
-        "Lounge": "Lounge",
-        "Library": "Library",
-        "Courtyard": "Courtyard",
-        "Fake Exit": "Fake Exit"
+        "First Room": "최초의 방",
+        "Lounge": "라운지",
+        "Library": "도서관",
+        "Courtyard": "안뜰",
+        "Fake Exit": "가짜 출구"
       },
       "Level 8-1": {
-        "First Room": "First Room",
-        " TV Room / Hotel Hallway": " TV Room / Hotel Hallway",
-        "  Fountain Room": "  Fountain Room",
-        " Stretch Room": " Stretch Room",
-        "Outside": "Outside",
-        " Busted Hotel Rooms": " Busted Hotel Rooms",
-        " Fake Floor Arena": " Fake Floor Arena",
-        "building Arena": "building Arena"
+        "First Room": "최초의 방",
+        " TV Room / Hotel Hallway": " TV 방 / 호텔 복도",
+        "  Fountain Room": "  분수 방",
+        " Stretch Room": " 연장되는 방",
+        "Outside": "야외",
+        " Busted Hotel Rooms": " 망가진 호텔 객실",
+        " Fake Floor Arena": " 가짜 층계 아레나",
+        "building Arena": "건물 아레나"
       },
       "Level 8-2": {
-        "First Room": "First Room",
-        " Mirror Reaper Arena": " Mirror Reaper Arena",
-        "Shaped Hallway": "Shaped Hallway",
-        " Supermarket Shutters": " Supermarket Shutters",
-        "Down Hallway": "Down Hallway",
-        " Hub": " Hub",
-        " Storage Room": " Storage Room",
-        " Island": " Island",
-        " Crossroad": " Crossroad"
+        "First Room": "최초의 방",
+        " Mirror Reaper Arena": " 미러 리퍼 아레나",
+        "Shaped Hallway": "도형 복도",
+        " Supermarket Shutters": " 슈퍼마켓 셔터",
+        "Down Hallway": "하행 복도",
+        " Hub": " 허브",
+        " Storage Room": " 창고",
+        " Island": " 하늘섬",
+        " Crossroad": " 교차로"
       },
       "Level 8-3": {
-        "First Room": "First Room",
-        " Space Tree": " Space Tree",
-        " Space Mass": " Space Mass",
-        " Space Streets": " Space Streets",
-        "Space": "Space",
-        " Shifting Hallway": " Shifting Hallway",
-        " Fallway": " Fallway",
-        " Heart Chamber": " Heart Chamber",
-        " Garage Loop": " Garage Loop",
-        " Split Color Door": " Split Color Door",
-        " Dimensional Cave": " Dimensional Cave",
-        " Folded Hallway": " Folded Hallway",
-        " Clockwork Crushers": " Clockwork Crushers",
-        " Clockwork Climb": " Clockwork Climb"
+        "First Room": "최초의 방",
+        " Space Tree": " 우주 나무",
+        " Space Mass": " 우주 히디어스 매스",
+        " Space Streets": " 우주 거리",
+        "Space": "우주 공간",
+        " Shifting Hallway": " 순환 통로",
+        " Fallway": " 낙착점",
+        " Heart Chamber": " 심장부",
+        " Garage Loop": " 차고지 순환",
+        " Split Color Door": " 이색 대문",
+        " Dimensional Cave": " 차원 동굴",
+        " Folded Hallway": " 축폐 통로",
+        " Clockwork Crushers": " 시계태엽 압착기",
+        " Clockwork Climb": " 시계태엽 등반"
       },
       "Level 8-4": {
-        "First Room": "First Room",
-        "Elevator": "Elevator"
+        "First Room": "최초의 방",
+        "Elevator": "승강기"
       },
       "Level 8-S": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 9-1": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 9-2": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level P-1": {
-        "First Room": "First Room",
-        " Inner Sanctum": " Inner Sanctum"
+        "First Room": "최초의 방",
+        " Inner Sanctum": " 내부 성소"
       },
       "Level P-2": {
-        "First Room": "First Room",
-        "Intro": "Intro",
-        " Bridge Street": " Bridge Street",
-        " Idol Arena": " Idol Arena",
-        " Last Arena": " Last Arena",
-        " Boss Arena": " Boss Arena"
+        "First Room": "최초의 방",
+        "Intro": "도입부",
+        " Bridge Street": " 교량 거리",
+        " Idol Arena": " 우상 아레나",
+        " Last Arena": " 최후의 아레나",
+        " Boss Arena": " 보스 아레나"
       },
       "Level P-3": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 0-E": {
-        "First Room": "First Room",
-        " First Encounter": " First Encounter",
-        " Fans Staircase": " Fans Staircase",
-        " Combo Hallway": " Combo Hallway",
-        " Tube Hallways": " Tube Hallways",
-        " Crossroads": " Crossroads",
-        " Projectile Zombies Room": " Projectile Zombies Room",
-        " Projectile Arena": " Projectile Arena",
-        " Boss Arena": " Boss Arena",
-        " Lava Foundry": " Lava Foundry",
-        " Menacing Room": " Menacing Room",
-        " Hallway": " Hallway",
-        " Crossroads (2)": " Crossroads (2)"
+        "First Room": "최초의 방",
+        " First Encounter": " 첫 번째 조우",
+        " Fans Staircase": " 환풍기 계단",
+        " Combo Hallway": " 콤보 통로",
+        " Tube Hallways": " 튜브형 통로",
+        " Crossroads": " 교차로",
+        " Projectile Zombies Room": " 투사체 좀비 방",
+        " Projectile Arena": " 투사체 아레나",
+        " Boss Arena": " 보스 아레나",
+        " Lava Foundry": " 용암 용광로",
+        " Menacing Room": " 위협적인 방",
+        " Hallway": " 복도",
+        " Crossroads (2)": " 교차로 (2)"
       },
       "Level 1-E": {
-        "First Room": "First Room",
-        " Opener": " Opener",
-        " Waterfall Arena / Altar Field": " Waterfall Arena / Altar Field",
-        " Prelude Hallway": " Prelude Hallway",
-        " Waterfall Arena / Altar Field (2)": " Waterfall Arena / Altar Field (2)",
-        " Castle Entrance": " Castle Entrance",
-        " Lava Staircase": " Lava Staircase",
-        " Stairs Hallway / Castle Entrance": " Stairs Hallway / Castle Entrance"
+        "First Room": "최초의 방",
+        " Opener": " 바닥 개방",
+        " Waterfall Arena / Altar Field": " 폭포 아레나 / 제단 평원",
+        " Prelude Hallway": " 서막 통로",
+        " Waterfall Arena / Altar Field (2)": " 폭포 아레나 / 제단 평원 (2)",
+        " Castle Entrance": " 궁성 입구",
+        " Lava Staircase": " 용암 계단",
+        " Stairs Hallway / Castle Entrance": " 계단 통로 / 궁성 입구"
       },
       "Level 2-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 3-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 4-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 5-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 6-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 7-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 8-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Level 9-E": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "Endless": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       },
       "CreditsMuseum2": {
-        "First Room": "First Room"
+        "First Room": "최초의 방"
       }
     }
   },
