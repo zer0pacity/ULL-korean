@@ -1212,6 +1212,7 @@
     "audio_muffleMusic": "수중 소리 변형",
     "audio_dubbing": "음성 더빙",
     "audio_dubbing_extra": "추가 음성 더빙",
+    "audio_bookAudioDubbing": "책 음성 더빙",
     "hud_type": "HUD 종류",
     "hud_typeNone": "없음",
     "hud_typeStandard": "일반",
